@@ -1,0 +1,583 @@
+{
+  "totalCategories": 72,
+  "totalSubcategories": 62,
+  "totalRegisteredTools": 1000,
+  "rawToolsArrayLength": 1001,
+  "toolsWithUndefinedHole": 1,
+  "functionalToolsCount": 997,
+  "placeholderToolsCount": 3,
+  "duplicateNamesCount": 13,
+  "duplicateNames": [
+    {
+      "name": "Email Signature Generator",
+      "count": 2,
+      "occurrences": [
+        {
+          "cat": "office-tools",
+          "slug": "email-signature-generator"
+        },
+        {
+          "cat": "communication-tools",
+          "slug": "email-signature-gen"
+        }
+      ]
+    },
+    {
+      "name": "Random Number Generator",
+      "count": 2,
+      "occurrences": [
+        {
+          "cat": "productivity-tools",
+          "slug": "random-number-generator"
+        },
+        {
+          "cat": "math-unit-tools",
+          "slug": "random-number-gen"
+        }
+      ]
+    },
+    {
+      "name": "CSS Box Shadow Generator",
+      "count": 2,
+      "occurrences": [
+        {
+          "cat": "design-tools",
+          "slug": "box-shadow-generator",
+          "subcat": "css-graphics"
+        },
+        {
+          "cat": "developer-tools",
+          "slug": "box-shadow-gen"
+        }
+      ]
+    },
+    {
+      "name": "CSS Gradient Generator",
+      "count": 2,
+      "occurrences": [
+        {
+          "cat": "design-tools",
+          "slug": "gradient-generator",
+          "subcat": "css-graphics"
+        },
+        {
+          "cat": "developer-tools",
+          "slug": "css-gradient-gen"
+        }
+      ]
+    },
+    {
+      "name": "Color Blindness Simulator",
+      "count": 2,
+      "occurrences": [
+        {
+          "cat": "accessibility-tools",
+          "slug": "color-blindness-simulator",
+          "subcat": "visual-accessibility"
+        },
+        {
+          "cat": "design-tools",
+          "slug": "color-blindness-sim"
+        }
+      ]
+    },
+    {
+      "name": "Essay Outline Generator",
+      "count": 2,
+      "occurrences": [
+        {
+          "cat": "student-tools",
+          "slug": "essay-outline-generator"
+        },
+        {
+          "cat": "student-tools",
+          "slug": "essay-outline-gen"
+        }
+      ]
+    },
+    {
+      "name": "Lorem Ipsum Generator",
+      "count": 2,
+      "occurrences": [
+        {
+          "cat": "developer-tools",
+          "slug": "lorem-ipsum-generator"
+        },
+        {
+          "cat": "developer-tools",
+          "slug": "lorem-ipsum-gen"
+        }
+      ]
+    },
+    {
+      "name": "HTTP Status Code Lookup",
+      "count": 2,
+      "occurrences": [
+        {
+          "cat": "developer-tools",
+          "slug": "http-status-code-lookup"
+        },
+        {
+          "cat": "developer-tools",
+          "slug": "http-status-lookup"
+        }
+      ]
+    },
+    {
+      "name": "Color Palette Generator",
+      "count": 2,
+      "occurrences": [
+        {
+          "cat": "design-tools",
+          "slug": "color-palette-generator",
+          "subcat": "css-graphics"
+        },
+        {
+          "cat": "developer-tools",
+          "slug": "color-palette-gen"
+        }
+      ]
+    },
+    {
+      "name": "Depth of Field Calculator",
+      "count": 2,
+      "occurrences": [
+        {
+          "cat": "photography-tools",
+          "slug": "depth-of-field-calculator",
+          "subcat": "camera-settings"
+        },
+        {
+          "cat": "photography-tools",
+          "slug": "dof-calculator"
+        }
+      ]
+    },
+    {
+      "name": "Golden Hour Calculator",
+      "count": 2,
+      "occurrences": [
+        {
+          "cat": "photography-tools",
+          "slug": "golden-hour-calculator",
+          "subcat": "photo-planning"
+        },
+        {
+          "cat": "photography-tools",
+          "slug": "golden-hour-calc"
+        }
+      ]
+    },
+    {
+      "name": "Catering Quantity Calculator",
+      "count": 2,
+      "occurrences": [
+        {
+          "cat": "events-tools",
+          "slug": "catering-quantity-calculator",
+          "subcat": "party-planning"
+        },
+        {
+          "cat": "events-tools",
+          "slug": "catering-calc"
+        }
+      ]
+    },
+    {
+      "name": "Text Diff Checker",
+      "count": 2,
+      "occurrences": [
+        {
+          "cat": "developer-tools",
+          "slug": "diff-checker"
+        },
+        {
+          "cat": "developer-tools",
+          "slug": "text-diff-checker"
+        }
+      ]
+    }
+  ],
+  "duplicateRoutesCount": 0,
+  "duplicateRoutes": [],
+  "duplicateSlugsCount": 0,
+  "duplicateSlugs": [],
+  "brokenImportsCount": 0,
+  "brokenImports": [],
+  "toolsMissingComponentCount": 0,
+  "toolsMissingComponent": [],
+  "emptyDirsCount": 3,
+  "emptyDirs": [
+    "src/tools/{gardening,photography,home,electronics,parenting,events,crafts,sports}",
+    "src/tools/{realestate,insurance,retirement}",
+    "src/tools/{weather,construction,interior,business,organization,household,language,outdoor}"
+  ],
+  "unregisteredFilesCount": 2,
+  "unregisteredFiles": [
+    "src/tools/developer/undefined.jsx",
+    "src/tools/writing/undefined.jsx"
+  ],
+  "overlappingPairsCount": 24,
+  "overlappingPairs": [
+    {
+      "concept": "pomodoro",
+      "tools": [
+        {
+          "name": "Pomodoro Timer",
+          "cat": "productivity-tools",
+          "slug": "pomodoro-timer"
+        },
+        {
+          "name": "Pomodoro Counter",
+          "cat": "productivity-tools",
+          "slug": "pomodoro-counter"
+        }
+      ]
+    },
+    {
+      "concept": "attendance",
+      "tools": [
+        {
+          "name": "Attendance Calculator",
+          "cat": "student-tools",
+          "slug": "attendance-calculator"
+        },
+        {
+          "name": "Attendance Tracker",
+          "cat": "education-tools",
+          "slug": "attendance-tracker"
+        }
+      ]
+    },
+    {
+      "concept": "study",
+      "tools": [
+        {
+          "name": "Study Planner",
+          "cat": "student-tools",
+          "slug": "study-planner"
+        },
+        {
+          "name": "Study Timer",
+          "cat": "student-tools",
+          "slug": "study-timer"
+        }
+      ]
+    },
+    {
+      "concept": "citation",
+      "tools": [
+        {
+          "name": "Citation Generator",
+          "cat": "student-tools",
+          "slug": "citation-generator"
+        },
+        {
+          "name": "Citation Counter",
+          "cat": "student-tools",
+          "slug": "citation-counter"
+        }
+      ]
+    },
+    {
+      "concept": "email signature",
+      "tools": [
+        {
+          "name": "Email Signature Generator",
+          "cat": "office-tools",
+          "slug": "email-signature-generator"
+        },
+        {
+          "name": "Email Signature Generator",
+          "cat": "communication-tools",
+          "slug": "email-signature-gen"
+        }
+      ]
+    },
+    {
+      "concept": "content calendar",
+      "tools": [
+        {
+          "name": "Content Calendar",
+          "cat": "marketing-tools",
+          "slug": "content-calendar"
+        },
+        {
+          "name": "Content Calendar Planner",
+          "cat": "social-media-tools",
+          "slug": "content-calendar-planner"
+        }
+      ]
+    },
+    {
+      "concept": "random number",
+      "tools": [
+        {
+          "name": "Random Number Generator",
+          "cat": "productivity-tools",
+          "slug": "random-number-generator"
+        },
+        {
+          "name": "Random Number Generator",
+          "cat": "math-unit-tools",
+          "slug": "random-number-gen"
+        }
+      ]
+    },
+    {
+      "concept": "css box shadow",
+      "tools": [
+        {
+          "name": "CSS Box Shadow Generator",
+          "cat": "design-tools",
+          "slug": "box-shadow-generator"
+        },
+        {
+          "name": "CSS Box Shadow Generator",
+          "cat": "developer-tools",
+          "slug": "box-shadow-gen"
+        }
+      ]
+    },
+    {
+      "concept": "css gradient",
+      "tools": [
+        {
+          "name": "CSS Gradient Generator",
+          "cat": "design-tools",
+          "slug": "gradient-generator"
+        },
+        {
+          "name": "CSS Gradient Generator",
+          "cat": "developer-tools",
+          "slug": "css-gradient-gen"
+        }
+      ]
+    },
+    {
+      "concept": "color blindness simulator",
+      "tools": [
+        {
+          "name": "Color Blindness Simulator",
+          "cat": "accessibility-tools",
+          "slug": "color-blindness-simulator"
+        },
+        {
+          "name": "Color Blindness Simulator",
+          "cat": "design-tools",
+          "slug": "color-blindness-sim"
+        }
+      ]
+    },
+    {
+      "concept": "essay outline",
+      "tools": [
+        {
+          "name": "Essay Outline Generator",
+          "cat": "student-tools",
+          "slug": "essay-outline-generator"
+        },
+        {
+          "name": "Essay Outline Generator",
+          "cat": "student-tools",
+          "slug": "essay-outline-gen"
+        }
+      ]
+    },
+    {
+      "concept": "lorem ipsum",
+      "tools": [
+        {
+          "name": "Lorem Ipsum Generator",
+          "cat": "developer-tools",
+          "slug": "lorem-ipsum-generator"
+        },
+        {
+          "name": "Lorem Ipsum Generator",
+          "cat": "developer-tools",
+          "slug": "lorem-ipsum-gen"
+        }
+      ]
+    },
+    {
+      "concept": "http status code lookup",
+      "tools": [
+        {
+          "name": "HTTP Status Code Lookup",
+          "cat": "developer-tools",
+          "slug": "http-status-code-lookup"
+        },
+        {
+          "name": "HTTP Status Code Lookup",
+          "cat": "developer-tools",
+          "slug": "http-status-lookup"
+        }
+      ]
+    },
+    {
+      "concept": "calorie burn",
+      "tools": [
+        {
+          "name": "Calorie Burn Estimator",
+          "cat": "fitness-tools",
+          "slug": "calorie-burn-estimator"
+        },
+        {
+          "name": "Calorie Burn Calculator",
+          "cat": "sports-tools",
+          "slug": "calorie-burn-calc"
+        }
+      ]
+    },
+    {
+      "concept": "color palette",
+      "tools": [
+        {
+          "name": "Color Palette Generator",
+          "cat": "design-tools",
+          "slug": "color-palette-generator"
+        },
+        {
+          "name": "Color Palette Generator",
+          "cat": "developer-tools",
+          "slug": "color-palette-gen"
+        }
+      ]
+    },
+    {
+      "concept": "depth of field",
+      "tools": [
+        {
+          "name": "Depth of Field Calculator",
+          "cat": "photography-tools",
+          "slug": "depth-of-field-calculator"
+        },
+        {
+          "name": "Depth of Field Calculator",
+          "cat": "photography-tools",
+          "slug": "dof-calculator"
+        }
+      ]
+    },
+    {
+      "concept": "golden hour",
+      "tools": [
+        {
+          "name": "Golden Hour Calculator",
+          "cat": "photography-tools",
+          "slug": "golden-hour-calculator"
+        },
+        {
+          "name": "Golden Hour Calculator",
+          "cat": "photography-tools",
+          "slug": "golden-hour-calc"
+        }
+      ]
+    },
+    {
+      "concept": "screen time",
+      "tools": [
+        {
+          "name": "Screen Time Tracker",
+          "cat": "parenting-tools",
+          "slug": "screen-time-tracker"
+        },
+        {
+          "name": "Screen Time Calculator",
+          "cat": "lifestyle-travel-tools",
+          "slug": "screen-time-calc"
+        }
+      ]
+    },
+    {
+      "concept": "catering quantity",
+      "tools": [
+        {
+          "name": "Catering Quantity Calculator",
+          "cat": "events-tools",
+          "slug": "catering-quantity-calculator"
+        },
+        {
+          "name": "Catering Quantity Calculator",
+          "cat": "events-tools",
+          "slug": "catering-calc"
+        }
+      ]
+    },
+    {
+      "concept": "quadratic equation solver",
+      "tools": [
+        {
+          "name": "Quadratic Equation Solver Tool",
+          "cat": "math-unit-tools",
+          "slug": "quadratic-equation-solver-tool"
+        },
+        {
+          "name": "Quadratic Equation Solver",
+          "cat": "math-unit-tools",
+          "slug": "quadratic-solver"
+        }
+      ]
+    },
+    {
+      "concept": "gcd & lcm",
+      "tools": [
+        {
+          "name": "GCD & LCM Calculator Tool",
+          "cat": "math-unit-tools",
+          "slug": "gcd-lcm-calculator-tool"
+        },
+        {
+          "name": "GCD & LCM Calculator",
+          "cat": "math-unit-tools",
+          "slug": "gcd-lcm-calculator"
+        }
+      ]
+    },
+    {
+      "concept": "elevator pitch",
+      "tools": [
+        {
+          "name": "Elevator Pitch Timer",
+          "cat": "presentation-tools",
+          "slug": "elevator-pitch-timer"
+        },
+        {
+          "name": "Elevator Pitch Builder",
+          "cat": "business-tools",
+          "slug": "elevator-pitch-builder"
+        }
+      ]
+    },
+    {
+      "concept": "game score",
+      "tools": [
+        {
+          "name": "Game Score Tracker",
+          "cat": "gaming-tools",
+          "slug": "score-tracker"
+        },
+        {
+          "name": "Game Score Counter",
+          "cat": "gaming-tools",
+          "slug": "game-score-counter"
+        }
+      ]
+    },
+    {
+      "concept": "text diff",
+      "tools": [
+        {
+          "name": "Text Diff Checker",
+          "cat": "developer-tools",
+          "slug": "diff-checker"
+        },
+        {
+          "name": "Text Diff Checker",
+          "cat": "developer-tools",
+          "slug": "text-diff-checker"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+import { useState } from 'react'
+import { Field, CopyBtn, download } from '../../components/ui.jsx'
+
+export default function BmrTdeeCalculator() {
+  const [unit, setUnit] = useState('metric') // 'metric' or 'imperial'
+  const [gender, setGender] = useState('male')
+  const [age, setAge] = useState(28)
+  const [weight, setWeight] = useState(70) // kg or lbs
+  const [heightCm, setHeightCm] = useState(175)
+  const [heightFt, setHeightFt] = useState(5)
+  const [heightIn, setHeightIn] = useState(9)
+  const [activity, setActivity] = useState('1.375') // light active
+
+  const a = Number(age) || 0
+  let wKg = Number(weight) || 0
+  let hCm = Number(heightCm) || 0
+
+  if (unit === 'imperial') {
+    wKg = (Number(weight) || 0) * 0.453592
+    hCm = ((Number(heightFt) || 0) * 12 + (Number(heightIn) || 0)) * 2.54
+  }
+
+  let bmr = 0
+  if (wKg > 0 && hCm > 0 && a > 0) {
+    if (gender === 'male') {
+      bmr = 10 * wKg + 6.25 * hCm - 5 * a + 5
+    } else {
+      bmr = 10 * wKg + 6.25 * hCm - 5 * a - 161
+    }
+  }
+
+  const mult = Number(activity) || 1.2
+  const tdee = bmr * mult
+
+  const cutCal = Math.max(1200, tdee - 500)
+  const bulkCal = tdee + 500
+
+  const fmt = (num) => Math.round(num).toLocaleString('en-US') + ' kcal'
+
+  const reportText = `BMR & TDEE Calorie Assessment
+----------------------------------------------
+Biological Sex: ${gender}
+Age: ${age} years
+Weight: ${weight} ${unit === 'metric' ? 'kg' : 'lbs'}
+Height: ${unit === 'metric' ? `${heightCm} cm` : `${heightFt} ft ${heightIn} in`}
+
+Basal Metabolic Rate (BMR): ${fmt(bmr)} / day
+Total Daily Energy Expenditure (TDEE): ${fmt(tdee)} / day
+
+Daily Calorie Targets:
+• Weight Loss (-500 kcal): ${fmt(cutCal)} / day
+• Maintenance: ${fmt(tdee)} / day
+• Muscle Gain (+500 kcal): ${fmt(bulkCal)} / day`
+
+  return (
+    <div className="tool-body">
+      <div className="actions" style={{ marginBottom: '1.2rem' }}>
+        <button
+          type="button"
+          className={`btn ${unit === 'metric' ? '' : 'ghost'}`}
+          onClick={() => setUnit('metric')}
+        >
+          Metric (kg / cm)
+        </button>
+        <button
+          type="button"
+          className={`btn ${unit === 'imperial' ? '' : 'ghost'}`}
+          onClick={() => setUnit('imperial')}
+        >
+          Imperial (lbs / ft-in)
+        </button>
+      </div>
+
+      <div className="row">
+        <Field label="Sex">
+          <select value={gender} onChange={(e) => setGender(e.target.value)}>
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+          </select>
+        </Field>
+        <Field label="Age (years)">
+          <input type="number" min="15" max="100" value={age} onChange={(e) => setAge(e.target.value)} />
+        </Field>
+        <Field label={`Weight (${unit === 'metric' ? 'kg' : 'lbs'})`}>
+          <input type="number" min="30" value={weight} onChange={(e) => setWeight(e.target.value)} />
+        </Field>
+
+        {unit === 'metric' ? (
+          <Field label="Height (cm)">
+            <input type="number" min="100" max="250" value={heightCm} onChange={(e) => setHeightCm(e.target.value)} />
+          </Field>
+        ) : (
+          <>
+            <Field label="Height (Feet)">
+              <input type="number" min="3" max="8" value={heightFt} onChange={(e) => setHeightFt(e.target.value)} />
+            </Field>
+            <Field label="Height (Inches)">
+              <input type="number" min="0" max="11" value={heightIn} onChange={(e) => setHeightIn(e.target.value)} />
+            </Field>
+          </>
+        )}
+
+        <Field label="Activity Level">
+          <select value={activity} onChange={(e) => setActivity(e.target.value)}>
+            <option value="1.2">Sedentary (Little or no exercise)</option>
+            <option value="1.375">Lightly Active (1-3 days/week)</option>
+            <option value="1.55">Moderately Active (3-5 days/week)</option>
+            <option value="1.725">Very Active (6-7 days/week)</option>
+            <option value="1.9">Extra Active (Hard physical job/sports)</option>
+          </select>
+        </Field>
+      </div>
+
+      <div className="out">
+        <div>Maintenance TDEE: <strong>{fmt(tdee)}</strong> per day</div>
+        <div className="hint" style={{ marginTop: '0.4rem' }}>
+          Basal Metabolic Rate (BMR): {fmt(bmr)} (calories burned at total rest)
+        </div>
+      </div>
+
+      <div className="scroll" style={{ marginTop: '1rem' }}>
+        <table className="tbl">
+          <thead>
+            <tr>
+              <th>Goal</th>
+              <th>Daily Calories</th>
+              <th>Weekly Pace</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Fat Loss (Caloric Deficit)</td>
+              <td className="good"><strong>{fmt(cutCal)}</strong></td>
+              <td>Lose ~0.5 kg (1 lb) per week</td>
+            </tr>
+            <tr className="best">
+              <td>Maintain Weight</td>
+              <td><strong>{fmt(tdee)}</strong></td>
+              <td>Stay constant</td>
+            </tr>
+            <tr>
+              <td>Muscle Gain (Caloric Surplus)</td>
+              <td><strong>{fmt(bulkCal)}</strong></td>
+              <td>Gain ~0.5 kg (1 lb) per week</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div className="actions">
+        <CopyBtn text={reportText} label="Copy Assessment" />
+        <button type="button" className="btn ghost" onClick={() => download('bmr-tdee-report.txt', reportText)}>
+          Download Report (.txt)
+        </button>
+      </div>
+    </div>
+  )
+}

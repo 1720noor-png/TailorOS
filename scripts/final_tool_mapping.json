@@ -1,0 +1,2498 @@
+{
+  "cover-letter-generator": {
+    "subcat": "resume-cv",
+    "subcatName": "Resume & CV"
+  },
+  "resume-builder": {
+    "subcat": "resume-cv",
+    "subcatName": "Resume & CV"
+  },
+  "salary-negotiation-coach": {
+    "subcat": "career-planning-prep",
+    "subcatName": "Career Planning & Prep"
+  },
+  "salary-negotiation-prep": {
+    "subcat": "career-planning-prep",
+    "subcatName": "Career Planning & Prep"
+  },
+  "resume-keyword-checker": {
+    "subcat": "resume-cv",
+    "subcatName": "Resume & CV"
+  },
+  "interview-prep-gen": {
+    "subcat": "career-planning-prep",
+    "subcatName": "Career Planning & Prep"
+  },
+  "linkedin-headline-gen": {
+    "subcat": "job-applications",
+    "subcatName": "Job Search & Applications"
+  },
+  "work-reference-template": {
+    "subcat": "job-applications",
+    "subcatName": "Job Search & Applications"
+  },
+  "blog-post-article-writer": {
+    "subcat": "content-creation",
+    "subcatName": "Content Creation"
+  },
+  "professional-email-writer": {
+    "subcat": "writing-editing",
+    "subcatName": "Writing & Editing"
+  },
+  "english-grammar-spelling-checker": {
+    "subcat": "writing-editing",
+    "subcatName": "Writing & Editing"
+  },
+  "sentence-text-paraphraser": {
+    "subcat": "writing-editing",
+    "subcatName": "Writing & Editing"
+  },
+  "text-paragraph-summarizer": {
+    "subcat": "content-creation",
+    "subcatName": "Content Creation"
+  },
+  "text-language-translator": {
+    "subcat": "text-formatting-utilities",
+    "subcatName": "Text & Formatting Utilities"
+  },
+  "text-case-converter-tool": {
+    "subcat": "text-formatting-utilities",
+    "subcatName": "Text & Formatting Utilities"
+  },
+  "word-frequency-density-analyzer": {
+    "subcat": "style-readability",
+    "subcatName": "Style & Readability"
+  },
+  "headline-analyzer": {
+    "subcat": "content-creation",
+    "subcatName": "Content Creation"
+  },
+  "passive-voice-detector": {
+    "subcat": "style-readability",
+    "subcatName": "Style & Readability"
+  },
+  "acronym-generator": {
+    "subcat": "text-formatting-utilities",
+    "subcatName": "Text & Formatting Utilities"
+  },
+  "word-replacer": {
+    "subcat": "text-formatting-utilities",
+    "subcatName": "Text & Formatting Utilities"
+  },
+  "sentence-analyzer": {
+    "subcat": "style-readability",
+    "subcatName": "Style & Readability"
+  },
+  "cliche-detector": {
+    "subcat": "style-readability",
+    "subcatName": "Style & Readability"
+  },
+  "writing-prompt-gen": {
+    "subcat": "content-creation",
+    "subcatName": "Content Creation"
+  },
+  "reading-time-calc": {
+    "subcat": "content-creation",
+    "subcatName": "Content Creation"
+  },
+  "title-case-conv": {
+    "subcat": "text-formatting-utilities",
+    "subcatName": "Text & Formatting Utilities"
+  },
+  "adverb-counter": {
+    "subcat": "text-formatting-utilities",
+    "subcatName": "Text & Formatting Utilities"
+  },
+  "transition-suggester": {
+    "subcat": "text-formatting-utilities",
+    "subcatName": "Text & Formatting Utilities"
+  },
+  "alliteration-finder": {
+    "subcat": "text-formatting-utilities",
+    "subcatName": "Text & Formatting Utilities"
+  },
+  "paragraph-counter": {
+    "subcat": "text-formatting-utilities",
+    "subcatName": "Text & Formatting Utilities"
+  },
+  "dialogue-formatter": {
+    "subcat": "text-formatting-utilities",
+    "subcatName": "Text & Formatting Utilities"
+  },
+  "repetition-finder": {
+    "subcat": "text-formatting-utilities",
+    "subcatName": "Text & Formatting Utilities"
+  },
+  "text-reverser": {
+    "subcat": "text-formatting-utilities",
+    "subcatName": "Text & Formatting Utilities"
+  },
+  "character-counter": {
+    "subcat": "text-formatting-utilities",
+    "subcatName": "Text & Formatting Utilities"
+  },
+  "ask-pdf-document-qa": {
+    "subcat": "pdf-text-security",
+    "subcatName": "PDF Text & Security"
+  },
+  "pdf-file-compressor": {
+    "subcat": "pdf-management",
+    "subcatName": "PDF Management"
+  },
+  "pdf-document-merger": {
+    "subcat": "pdf-management",
+    "subcatName": "PDF Management"
+  },
+  "pdf-text-summarizer": {
+    "subcat": "pdf-text-security",
+    "subcatName": "PDF Text & Security"
+  },
+  "pdf-to-text-extractor": {
+    "subcat": "pdf-conversion-export",
+    "subcatName": "PDF Conversion & Export"
+  },
+  "pdf-to-word-converter": {
+    "subcat": "pdf-conversion-export",
+    "subcatName": "PDF Conversion & Export"
+  },
+  "pdf-document-translator": {
+    "subcat": "pdf-conversion-export",
+    "subcatName": "PDF Conversion & Export"
+  },
+  "word-text-to-pdf-converter": {
+    "subcat": "pdf-conversion-export",
+    "subcatName": "PDF Conversion & Export"
+  },
+  "image-background-remover": {
+    "subcat": "image-editing-effects",
+    "subcatName": "Image Editing & Effects"
+  },
+  "image-format-converter": {
+    "subcat": "image-conversion-format",
+    "subcatName": "Image Conversion & Format"
+  },
+  "image-to-text-ocr": {
+    "subcat": "image-analysis-ocr",
+    "subcatName": "Image Analysis & OCR"
+  },
+  "image-resolution-upscaler": {
+    "subcat": "image-editing-effects",
+    "subcatName": "Image Editing & Effects"
+  },
+  "image-resize-calc": {
+    "subcat": "image-editing-effects",
+    "subcatName": "Image Editing & Effects"
+  },
+  "pixel-density-calc": {
+    "subcat": "image-analysis-ocr",
+    "subcatName": "Image Analysis & OCR"
+  },
+  "photo-file-size-est": {
+    "subcat": "image-analysis-ocr",
+    "subcatName": "Image Analysis & OCR"
+  },
+  "crop-ratio-tool": {
+    "subcat": "image-editing-effects",
+    "subcatName": "Image Editing & Effects"
+  },
+  "image-grid-calc": {
+    "subcat": "image-editing-effects",
+    "subcatName": "Image Editing & Effects"
+  },
+  "speech-to-text-transcriber": {
+    "subcat": "voice-transcription-media",
+    "subcatName": "Voice & Transcription"
+  },
+  "text-to-speech-reader": {
+    "subcat": "audio-media-speech",
+    "subcatName": "Audio & Speech Utilities"
+  },
+  "kitchen-crockery-guide": {
+    "subcat": "cooking-recipes",
+    "subcatName": "Cooking & Recipes"
+  },
+  "recipe-ingredient-matcher": {
+    "subcat": "nutrition-meal-planning",
+    "subcatName": "Nutrition & Meal Planning"
+  },
+  "weekly-meal-planner": {
+    "subcat": "nutrition-meal-planning",
+    "subcatName": "Nutrition & Meal Planning"
+  },
+  "calorie-counter": {
+    "subcat": "nutrition-meal-planning",
+    "subcatName": "Nutrition & Meal Planning"
+  },
+  "coffee-ratio": {
+    "subcat": "kitchen-conversions-guides",
+    "subcatName": "Kitchen & Beverage Utilities"
+  },
+  "food-storage": {
+    "subcat": "kitchen-conversions-guides",
+    "subcatName": "Kitchen & Beverage Utilities"
+  },
+  "cocktail-scaler": {
+    "subcat": "cooking-recipes",
+    "subcatName": "Cooking & Recipes"
+  },
+  "pizza-calc": {
+    "subcat": "cooking-recipes",
+    "subcatName": "Cooking & Recipes"
+  },
+  "kitchen-chart": {
+    "subcat": "kitchen-conversions-guides",
+    "subcatName": "Kitchen & Beverage Utilities"
+  },
+  "meal-prep-calc": {
+    "subcat": "nutrition-meal-planning",
+    "subcatName": "Nutrition & Meal Planning"
+  },
+  "cooking-temp-guide": {
+    "subcat": "kitchen-conversions-guides",
+    "subcatName": "Kitchen & Beverage Utilities"
+  },
+  "serving-size-calc": {
+    "subcat": "kitchen-conversions-guides",
+    "subcatName": "Kitchen & Beverage Utilities"
+  },
+  "spice-substitution": {
+    "subcat": "cooking-recipes",
+    "subcatName": "Cooking & Recipes"
+  },
+  "freezer-time-guide": {
+    "subcat": "kitchen-conversions-guides",
+    "subcatName": "Kitchen & Beverage Utilities"
+  },
+  "bmi-body-health-calculator": {
+    "subcat": "body-metrics-health",
+    "subcatName": "Body & Metabolic Metrics"
+  },
+  "ideal-body-weight-calculator": {
+    "subcat": "body-metrics-health",
+    "subcatName": "Body & Metabolic Metrics"
+  },
+  "navy-body-fat-percentage-calculator": {
+    "subcat": "body-metrics-health",
+    "subcatName": "Body & Metabolic Metrics"
+  },
+  "karvonen-heart-rate-zone-calculator": {
+    "subcat": "health-monitoring-tracking",
+    "subcatName": "Health Monitoring & Assessment"
+  },
+  "calorie-deficit-weight-loss-planner": {
+    "subcat": "wellness-routine-planning",
+    "subcatName": "Wellness & Routine Planning"
+  },
+  "intermittent-fasting-window-calculator": {
+    "subcat": "wellness-routine-planning",
+    "subcatName": "Wellness & Routine Planning"
+  },
+  "waist-hip-calc": {
+    "subcat": "wellness-routine-planning",
+    "subcatName": "Wellness & Routine Planning"
+  },
+  "bp-tracker": {
+    "subcat": "wellness-routine-planning",
+    "subcatName": "Wellness & Routine Planning"
+  },
+  "hydration-calc": {
+    "subcat": "wellness-routine-planning",
+    "subcatName": "Wellness & Routine Planning"
+  },
+  "medication-organizer": {
+    "subcat": "wellness-routine-planning",
+    "subcatName": "Wellness & Routine Planning"
+  },
+  "hearing-test": {
+    "subcat": "wellness-routine-planning",
+    "subcatName": "Wellness & Routine Planning"
+  },
+  "eye-break-timer": {
+    "subcat": "wellness-routine-planning",
+    "subcatName": "Wellness & Routine Planning"
+  },
+  "bac-estimator": {
+    "subcat": "wellness-routine-planning",
+    "subcatName": "Wellness & Routine Planning"
+  },
+  "pregnancy-weight": {
+    "subcat": "health-monitoring-tracking",
+    "subcatName": "Health Monitoring & Assessment"
+  },
+  "caffeine-tracker": {
+    "subcat": "wellness-routine-planning",
+    "subcatName": "Wellness & Routine Planning"
+  },
+  "posture-reminder": {
+    "subcat": "wellness-routine-planning",
+    "subcatName": "Wellness & Routine Planning"
+  },
+  "symptom-journal": {
+    "subcat": "wellness-routine-planning",
+    "subcatName": "Wellness & Routine Planning"
+  },
+  "stretch-timer": {
+    "subcat": "wellness-routine-planning",
+    "subcatName": "Wellness & Routine Planning"
+  },
+  "water-intake-log": {
+    "subcat": "wellness-routine-planning",
+    "subcatName": "Wellness & Routine Planning"
+  },
+  "bmi-percentile": {
+    "subcat": "body-metrics-health",
+    "subcatName": "Body & Metabolic Metrics"
+  },
+  "gpa-calculator": {
+    "subcat": "academic-grades-gpa",
+    "subcatName": "Grades & Academic Standing"
+  },
+  "percentage-calculator": {
+    "subcat": "academic-grades-gpa",
+    "subcatName": "Grades & Academic Standing"
+  },
+  "grade-calculator": {
+    "subcat": "academic-grades-gpa",
+    "subcatName": "Grades & Academic Standing"
+  },
+  "attendance-calculator": {
+    "subcat": "academic-grades-gpa",
+    "subcatName": "Grades & Academic Standing"
+  },
+  "study-planner": {
+    "subcat": "study-learning-management",
+    "subcatName": "Study & Learning Management"
+  },
+  "exam-countdown": {
+    "subcat": "classroom-attendance-planning",
+    "subcatName": "Attendance & Classroom Planning"
+  },
+  "timetable-generator": {
+    "subcat": "classroom-attendance-planning",
+    "subcatName": "Attendance & Classroom Planning"
+  },
+  "citation-generator": {
+    "subcat": "assignments-writing-prep",
+    "subcatName": "Assignments & Writing Prep"
+  },
+  "assignment-planner": {
+    "subcat": "classroom-attendance-planning",
+    "subcatName": "Attendance & Classroom Planning"
+  },
+  "flashcard-maker": {
+    "subcat": "study-learning-management",
+    "subcatName": "Study & Learning Management"
+  },
+  "word-counter-text-stats": {
+    "subcat": "assignments-writing-prep",
+    "subcatName": "Assignments & Writing Prep"
+  },
+  "essay-outline-generator": {
+    "subcat": "assignments-writing-prep",
+    "subcatName": "Assignments & Writing Prep"
+  },
+  "study-notes-outline-generator": {
+    "subcat": "study-learning-management",
+    "subcatName": "Study & Learning Management"
+  },
+  "passage-quiz-question-generator": {
+    "subcat": "study-learning-management",
+    "subcatName": "Study & Learning Management"
+  },
+  "bibliography-fmt": {
+    "subcat": "assignments-writing-prep",
+    "subcatName": "Assignments & Writing Prep"
+  },
+  "study-timer": {
+    "subcat": "study-learning-management",
+    "subcatName": "Study & Learning Management"
+  },
+  "thesis-helper": {
+    "subcat": "assignments-writing-prep",
+    "subcatName": "Assignments & Writing Prep"
+  },
+  "cornell-notes": {
+    "subcat": "study-learning-management",
+    "subcatName": "Study & Learning Management"
+  },
+  "research-question-gen": {
+    "subcat": "study-learning-management",
+    "subcatName": "Study & Learning Management"
+  },
+  "math-formula-ref": {
+    "subcat": "study-learning-management",
+    "subcatName": "Study & Learning Management"
+  },
+  "unit-circle-ref": {
+    "subcat": "study-learning-management",
+    "subcatName": "Study & Learning Management"
+  },
+  "periodic-table": {
+    "subcat": "study-learning-management",
+    "subcatName": "Study & Learning Management"
+  },
+  "study-schedule-gen": {
+    "subcat": "study-learning-management",
+    "subcatName": "Study & Learning Management"
+  },
+  "essay-outline-gen": {
+    "subcat": "assignments-writing-prep",
+    "subcatName": "Assignments & Writing Prep"
+  },
+  "citation-counter": {
+    "subcat": "assignments-writing-prep",
+    "subcatName": "Assignments & Writing Prep"
+  },
+  "lab-report-template": {
+    "subcat": "study-learning-management",
+    "subcatName": "Study & Learning Management"
+  },
+  "book-tracker": {
+    "subcat": "study-learning-management",
+    "subcatName": "Study & Learning Management"
+  },
+  "json-formatter": {
+    "subcat": "code-formatting-transform",
+    "subcatName": "Code Formatting & Conversion"
+  },
+  "base64-encoder-decoder": {
+    "subcat": "encoding-hashing-security",
+    "subcatName": "Encoding, Hashing & Cryptography"
+  },
+  "json-validator": {
+    "subcat": "code-formatting-transform",
+    "subcatName": "Code Formatting & Conversion"
+  },
+  "code-formatter": {
+    "subcat": "web-frontend-styling",
+    "subcatName": "Web & CSS Styling"
+  },
+  "regex-tester": {
+    "subcat": "regex-text-developer-tools",
+    "subcatName": "Regex & String Manipulation"
+  },
+  "url-encoder-decoder": {
+    "subcat": "encoding-hashing-security",
+    "subcatName": "Encoding, Hashing & Cryptography"
+  },
+  "minifier": {
+    "subcat": "web-frontend-styling",
+    "subcatName": "Web & CSS Styling"
+  },
+  "color-converter": {
+    "subcat": "web-frontend-styling",
+    "subcatName": "Web & CSS Styling"
+  },
+  "qr-code-generator": {
+    "subcat": "web-frontend-styling",
+    "subcatName": "Web & CSS Styling"
+  },
+  "timestamp-converter": {
+    "subcat": "network-api-data-inspection",
+    "subcatName": "API, Network & Data Inspection"
+  },
+  "uuid-generator": {
+    "subcat": "data-generators-mocks",
+    "subcatName": "Data Generators & Mocking"
+  },
+  "cron-expression-explainer": {
+    "subcat": "network-api-data-inspection",
+    "subcatName": "API, Network & Data Inspection"
+  },
+  "css-unit-converter": {
+    "subcat": "web-frontend-styling",
+    "subcatName": "Web & CSS Styling"
+  },
+  "lorem-ipsum-generator": {
+    "subcat": "regex-text-developer-tools",
+    "subcatName": "Regex & String Manipulation"
+  },
+  "http-status-code-lookup": {
+    "subcat": "network-api-data-inspection",
+    "subcatName": "API, Network & Data Inspection"
+  },
+  "code-explainer": {
+    "subcat": "code-formatting-transform",
+    "subcatName": "Code Formatting & Conversion"
+  },
+  "px-rem-em-converter": {
+    "subcat": "web-frontend-styling",
+    "subcatName": "Web & CSS Styling"
+  },
+  "hex-to-rgb-hsl-converter": {
+    "subcat": "web-frontend-styling",
+    "subcatName": "Web & CSS Styling"
+  },
+  "duplicate-line-deduplicator": {
+    "subcat": "regex-text-developer-tools",
+    "subcatName": "Regex & String Manipulation"
+  },
+  "csv-to-json-data-converter": {
+    "subcat": "code-formatting-transform",
+    "subcatName": "Code Formatting & Conversion"
+  },
+  "json-to-csv-export-converter": {
+    "subcat": "code-formatting-transform",
+    "subcatName": "Code Formatting & Conversion"
+  },
+  "markdown-table-gen": {
+    "subcat": "code-formatting-transform",
+    "subcatName": "Code Formatting & Conversion"
+  },
+  "chmod-calculator": {
+    "subcat": "network-api-data-inspection",
+    "subcatName": "API, Network & Data Inspection"
+  },
+  "html-entity-encoder": {
+    "subcat": "web-frontend-styling",
+    "subcatName": "Web & CSS Styling"
+  },
+  "sql-formatter": {
+    "subcat": "code-formatting-transform",
+    "subcatName": "Code Formatting & Conversion"
+  },
+  "ascii-art-gen": {
+    "subcat": "regex-text-developer-tools",
+    "subcatName": "Regex & String Manipulation"
+  },
+  "diff-checker": {
+    "subcat": "regex-text-developer-tools",
+    "subcatName": "Regex & String Manipulation"
+  },
+  "yaml-json-conv": {
+    "subcat": "code-formatting-transform",
+    "subcatName": "Code Formatting & Conversion"
+  },
+  "base-converter": {
+    "subcat": "code-formatting-transform",
+    "subcatName": "Code Formatting & Conversion"
+  },
+  "string-escape": {
+    "subcat": "web-frontend-styling",
+    "subcatName": "Web & CSS Styling"
+  },
+  "gitignore-gen": {
+    "subcat": "network-api-data-inspection",
+    "subcatName": "API, Network & Data Inspection"
+  },
+  "robots-txt-gen": {
+    "subcat": "web-frontend-styling",
+    "subcatName": "Web & CSS Styling"
+  },
+  "meta-og-preview": {
+    "subcat": "code-formatting-transform",
+    "subcatName": "Code Formatting & Conversion"
+  },
+  "redirect-gen": {
+    "subcat": "network-api-data-inspection",
+    "subcatName": "API, Network & Data Inspection"
+  },
+  "image-base64": {
+    "subcat": "encoding-hashing-security",
+    "subcatName": "Encoding, Hashing & Cryptography"
+  },
+  "svg-path-viewer": {
+    "subcat": "web-frontend-styling",
+    "subcatName": "Web & CSS Styling"
+  },
+  "env-validator": {
+    "subcat": "network-api-data-inspection",
+    "subcatName": "API, Network & Data Inspection"
+  },
+  "semantic-version-bump": {
+    "subcat": "code-formatting-transform",
+    "subcatName": "Code Formatting & Conversion"
+  },
+  "crontab-generator": {
+    "subcat": "network-api-data-inspection",
+    "subcatName": "API, Network & Data Inspection"
+  },
+  "docker-run-builder": {
+    "subcat": "network-api-data-inspection",
+    "subcatName": "API, Network & Data Inspection"
+  },
+  "npm-script-builder": {
+    "subcat": "network-api-data-inspection",
+    "subcatName": "API, Network & Data Inspection"
+  },
+  "http-status-lookup": {
+    "subcat": "network-api-data-inspection",
+    "subcatName": "API, Network & Data Inspection"
+  },
+  "css-gradient-gen": {
+    "subcat": "web-frontend-styling",
+    "subcatName": "Web & CSS Styling"
+  },
+  "box-shadow-gen": {
+    "subcat": "web-frontend-styling",
+    "subcatName": "Web & CSS Styling"
+  },
+  "color-palette-gen": {
+    "subcat": "web-frontend-styling",
+    "subcatName": "Web & CSS Styling"
+  },
+  "lorem-ipsum-gen": {
+    "subcat": "data-generators-mocks",
+    "subcatName": "Data Generators & Mocking"
+  },
+  "data-uri-maker": {
+    "subcat": "code-formatting-transform",
+    "subcatName": "Code Formatting & Conversion"
+  },
+  "svg-to-css": {
+    "subcat": "web-frontend-styling",
+    "subcatName": "Web & CSS Styling"
+  },
+  "font-stack-builder": {
+    "subcat": "code-formatting-transform",
+    "subcatName": "Code Formatting & Conversion"
+  },
+  "markdown-preview": {
+    "subcat": "web-frontend-styling",
+    "subcatName": "Web & CSS Styling"
+  },
+  "text-diff-checker": {
+    "subcat": "regex-text-developer-tools",
+    "subcatName": "Regex & String Manipulation"
+  },
+  "hex-to-rgb-converter": {
+    "subcat": "web-frontend-styling",
+    "subcatName": "Web & CSS Styling"
+  },
+  "rgb-to-hex-converter": {
+    "subcat": "web-frontend-styling",
+    "subcatName": "Web & CSS Styling"
+  },
+  "px-to-rem-converter": {
+    "subcat": "web-frontend-styling",
+    "subcatName": "Web & CSS Styling"
+  },
+  "leave-calculator": {
+    "subcat": "office-checklists-management",
+    "subcatName": "Checklists & Project Admin"
+  },
+  "invoice-generator": {
+    "subcat": "business-communications-forms",
+    "subcatName": "Business Communications & Forms"
+  },
+  "meeting-agenda-maker": {
+    "subcat": "meeting-productivity-tools",
+    "subcatName": "Meeting & Productivity Utilities"
+  },
+  "meeting-minutes-generator": {
+    "subcat": "meeting-productivity-tools",
+    "subcatName": "Meeting & Productivity Utilities"
+  },
+  "task-manager": {
+    "subcat": "business-communications-forms",
+    "subcatName": "Business Communications & Forms"
+  },
+  "business-letter-generator": {
+    "subcat": "business-communications-forms",
+    "subcatName": "Business Communications & Forms"
+  },
+  "email-signature-generator": {
+    "subcat": "business-communications-forms",
+    "subcatName": "Business Communications & Forms"
+  },
+  "timesheet-calculator": {
+    "subcat": "workplace-compensation-payroll",
+    "subcatName": "Compensation & Payroll"
+  },
+  "expense-report-generator": {
+    "subcat": "workplace-compensation-payroll",
+    "subcatName": "Compensation & Payroll"
+  },
+  "document-checklist": {
+    "subcat": "office-checklists-management",
+    "subcatName": "Checklists & Project Admin"
+  },
+  "out-of-office-message-generator": {
+    "subcat": "business-communications-forms",
+    "subcatName": "Business Communications & Forms"
+  },
+  "salary-breakdown-calculator": {
+    "subcat": "workplace-compensation-payroll",
+    "subcatName": "Compensation & Payroll"
+  },
+  "meeting-cost-calculator": {
+    "subcat": "workplace-compensation-payroll",
+    "subcatName": "Compensation & Payroll"
+  },
+  "onboarding-checklist": {
+    "subcat": "office-checklists-management",
+    "subcatName": "Checklists & Project Admin"
+  },
+  "overtime-pay-calculator": {
+    "subcat": "workplace-compensation-payroll",
+    "subcatName": "Compensation & Payroll"
+  },
+  "meeting-cost-per-minute-calculator": {
+    "subcat": "workplace-compensation-payroll",
+    "subcatName": "Compensation & Payroll"
+  },
+  "salary-to-hourly-wage-converter": {
+    "subcat": "workplace-compensation-payroll",
+    "subcatName": "Compensation & Payroll"
+  },
+  "status-report-gen": {
+    "subcat": "business-communications-forms",
+    "subcatName": "Business Communications & Forms"
+  },
+  "appreciation-gen": {
+    "subcat": "business-communications-forms",
+    "subcatName": "Business Communications & Forms"
+  },
+  "meeting-poll": {
+    "subcat": "meeting-productivity-tools",
+    "subcatName": "Meeting & Productivity Utilities"
+  },
+  "supply-checklist": {
+    "subcat": "office-checklists-management",
+    "subcatName": "Checklists & Project Admin"
+  },
+  "anniversary-calc": {
+    "subcat": "workplace-compensation-payroll",
+    "subcatName": "Compensation & Payroll"
+  },
+  "standup-template": {
+    "subcat": "meeting-productivity-tools",
+    "subcatName": "Meeting & Productivity Utilities"
+  },
+  "delegation-matrix": {
+    "subcat": "office-checklists-management",
+    "subcatName": "Checklists & Project Admin"
+  },
+  "ergonomics-checklist": {
+    "subcat": "office-checklists-management",
+    "subcatName": "Checklists & Project Admin"
+  },
+  "whiteboard-notes": {
+    "subcat": "meeting-productivity-tools",
+    "subcatName": "Meeting & Productivity Utilities"
+  },
+  "utm-builder": {
+    "subcat": "campaign-tracking-advertising",
+    "subcatName": "Campaigns & Advertising"
+  },
+  "keyword-generator": {
+    "subcat": "seo-content-optimization",
+    "subcatName": "SEO & Content Optimization"
+  },
+  "meta-tag-generator": {
+    "subcat": "seo-content-optimization",
+    "subcatName": "SEO & Content Optimization"
+  },
+  "hashtag-generator": {
+    "subcat": "branding-social-marketing",
+    "subcatName": "Branding & Social Copy"
+  },
+  "social-media-caption-generator": {
+    "subcat": "branding-social-marketing",
+    "subcatName": "Branding & Social Copy"
+  },
+  "seo-title-generator": {
+    "subcat": "seo-content-optimization",
+    "subcatName": "SEO & Content Optimization"
+  },
+  "seo-description-generator": {
+    "subcat": "seo-content-optimization",
+    "subcatName": "SEO & Content Optimization"
+  },
+  "content-calendar": {
+    "subcat": "branding-social-marketing",
+    "subcatName": "Branding & Social Copy"
+  },
+  "serp-preview": {
+    "subcat": "seo-content-optimization",
+    "subcatName": "SEO & Content Optimization"
+  },
+  "marketing-roi-calculator": {
+    "subcat": "campaign-tracking-advertising",
+    "subcatName": "Campaigns & Advertising"
+  },
+  "social-media-character-counter": {
+    "subcat": "branding-social-marketing",
+    "subcatName": "Branding & Social Copy"
+  },
+  "ad-budget-estimator": {
+    "subcat": "campaign-tracking-advertising",
+    "subcatName": "Campaigns & Advertising"
+  },
+  "email-subject-scorer": {
+    "subcat": "branding-social-marketing",
+    "subcatName": "Branding & Social Copy"
+  },
+  "landing-page-checklist": {
+    "subcat": "branding-social-marketing",
+    "subcatName": "Branding & Social Copy"
+  },
+  "persona-builder": {
+    "subcat": "branding-social-marketing",
+    "subcatName": "Branding & Social Copy"
+  },
+  "press-release-template": {
+    "subcat": "branding-social-marketing",
+    "subcatName": "Branding & Social Copy"
+  },
+  "funnel-calculator": {
+    "subcat": "campaign-tracking-advertising",
+    "subcatName": "Campaigns & Advertising"
+  },
+  "brand-name-scorer": {
+    "subcat": "branding-social-marketing",
+    "subcatName": "Branding & Social Copy"
+  },
+  "cost-per-lead-calc": {
+    "subcat": "branding-social-marketing",
+    "subcatName": "Branding & Social Copy"
+  },
+  "competitive-analysis": {
+    "subcat": "branding-social-marketing",
+    "subcatName": "Branding & Social Copy"
+  },
+  "pomodoro-timer": {
+    "subcat": "time-focus-management",
+    "subcatName": "Time & Focus Management"
+  },
+  "habit-tracker": {
+    "subcat": "planning-goal-tracking",
+    "subcatName": "Planning & Goal Tracking"
+  },
+  "to-do-list": {
+    "subcat": "planning-goal-tracking",
+    "subcatName": "Planning & Goal Tracking"
+  },
+  "daily-planner": {
+    "subcat": "planning-goal-tracking",
+    "subcatName": "Planning & Goal Tracking"
+  },
+  "weekly-planner": {
+    "subcat": "planning-goal-tracking",
+    "subcatName": "Planning & Goal Tracking"
+  },
+  "time-zone-converter": {
+    "subcat": "time-focus-management",
+    "subcatName": "Time & Focus Management"
+  },
+  "world-clock": {
+    "subcat": "time-focus-management",
+    "subcatName": "Time & Focus Management"
+  },
+  "countdown-timer": {
+    "subcat": "time-focus-management",
+    "subcatName": "Time & Focus Management"
+  },
+  "random-decision-maker": {
+    "subcat": "workflow-randomizers-utilities",
+    "subcatName": "Workflow Utilities & Randomizers"
+  },
+  "random-number-generator": {
+    "subcat": "workflow-randomizers-utilities",
+    "subcatName": "Workflow Utilities & Randomizers"
+  },
+  "eisenhower-matrix": {
+    "subcat": "planning-goal-tracking",
+    "subcatName": "Planning & Goal Tracking"
+  },
+  "goal-milestone-tracker": {
+    "subcat": "planning-goal-tracking",
+    "subcatName": "Planning & Goal Tracking"
+  },
+  "quick-scratchpad-notes": {
+    "subcat": "workflow-randomizers-utilities",
+    "subcatName": "Workflow Utilities & Randomizers"
+  },
+  "meeting-notes-tmpl": {
+    "subcat": "workflow-randomizers-utilities",
+    "subcatName": "Workflow Utilities & Randomizers"
+  },
+  "milestone-tracker": {
+    "subcat": "workflow-randomizers-utilities",
+    "subcatName": "Workflow Utilities & Randomizers"
+  },
+  "smart-goal-setter": {
+    "subcat": "planning-goal-tracking",
+    "subcatName": "Planning & Goal Tracking"
+  },
+  "kanban-board": {
+    "subcat": "planning-goal-tracking",
+    "subcatName": "Planning & Goal Tracking"
+  },
+  "weekly-review-tmpl": {
+    "subcat": "planning-goal-tracking",
+    "subcatName": "Planning & Goal Tracking"
+  },
+  "focus-logger": {
+    "subcat": "time-focus-management",
+    "subcatName": "Time & Focus Management"
+  },
+  "batch-scheduler": {
+    "subcat": "workflow-randomizers-utilities",
+    "subcatName": "Workflow Utilities & Randomizers"
+  },
+  "parking-lot": {
+    "subcat": "workflow-randomizers-utilities",
+    "subcatName": "Workflow Utilities & Randomizers"
+  },
+  "pomodoro-counter": {
+    "subcat": "time-focus-management",
+    "subcatName": "Time & Focus Management"
+  },
+  "decision-matrix": {
+    "subcat": "planning-goal-tracking",
+    "subcatName": "Planning & Goal Tracking"
+  },
+  "five-why-template": {
+    "subcat": "workflow-randomizers-utilities",
+    "subcatName": "Workflow Utilities & Randomizers"
+  },
+  "swot-analyzer": {
+    "subcat": "planning-goal-tracking",
+    "subcatName": "Planning & Goal Tracking"
+  },
+  "project-status-gen": {
+    "subcat": "planning-goal-tracking",
+    "subcatName": "Planning & Goal Tracking"
+  },
+  "priority-ranker": {
+    "subcat": "planning-goal-tracking",
+    "subcatName": "Planning & Goal Tracking"
+  },
+  "stopwatch-tool": {
+    "subcat": "time-focus-management",
+    "subcatName": "Time & Focus Management"
+  },
+  "tab-manager": {
+    "subcat": "workflow-randomizers-utilities",
+    "subcatName": "Workflow Utilities & Randomizers"
+  },
+  "countdown-to-date": {
+    "subcat": "time-focus-management",
+    "subcatName": "Time & Focus Management"
+  },
+  "discount-calculator": {
+    "subcat": "discounts-savings-calculators",
+    "subcatName": "Discounts & Savings Calculators"
+  },
+  "shopping-list-maker": {
+    "subcat": "budgeting-shopping-planners",
+    "subcatName": "Budgeting & Value Comparison"
+  },
+  "price-comparison-calculator": {
+    "subcat": "discounts-savings-calculators",
+    "subcatName": "Discounts & Savings Calculators"
+  },
+  "sales-tax-calculator": {
+    "subcat": "discounts-savings-calculators",
+    "subcatName": "Discounts & Savings Calculators"
+  },
+  "tip-calculator": {
+    "subcat": "tax-fees-shipping-costs",
+    "subcatName": "Taxes, Fees & Shipping"
+  },
+  "split-bill-calculator": {
+    "subcat": "tax-fees-shipping-costs",
+    "subcatName": "Taxes, Fees & Shipping"
+  },
+  "unit-price-calculator": {
+    "subcat": "budgeting-shopping-planners",
+    "subcatName": "Budgeting & Value Comparison"
+  },
+  "shopping-budget-calculator": {
+    "subcat": "budgeting-shopping-planners",
+    "subcatName": "Budgeting & Value Comparison"
+  },
+  "gift-budget-planner": {
+    "subcat": "budgeting-shopping-planners",
+    "subcatName": "Budgeting & Value Comparison"
+  },
+  "grocery-budget-planner": {
+    "subcat": "budgeting-shopping-planners",
+    "subcatName": "Budgeting & Value Comparison"
+  },
+  "subscription-cost-tracker": {
+    "subcat": "budgeting-shopping-planners",
+    "subcatName": "Budgeting & Value Comparison"
+  },
+  "cost-per-use-calculator": {
+    "subcat": "budgeting-shopping-planners",
+    "subcatName": "Budgeting & Value Comparison"
+  },
+  "package-unit-price-comparator": {
+    "subcat": "budgeting-shopping-planners",
+    "subcatName": "Budgeting & Value Comparison"
+  },
+  "reverse-sales-tax-calculator": {
+    "subcat": "discounts-savings-calculators",
+    "subcatName": "Discounts & Savings Calculators"
+  },
+  "warranty-tracker": {
+    "subcat": "budgeting-shopping-planners",
+    "subcatName": "Budgeting & Value Comparison"
+  },
+  "comparison-matrix": {
+    "subcat": "budgeting-shopping-planners",
+    "subcatName": "Budgeting & Value Comparison"
+  },
+  "subscription-calc": {
+    "subcat": "budgeting-shopping-planners",
+    "subcatName": "Budgeting & Value Comparison"
+  },
+  "cashback-calc": {
+    "subcat": "discounts-savings-calculators",
+    "subcatName": "Discounts & Savings Calculators"
+  },
+  "price-per-weight": {
+    "subcat": "budgeting-shopping-planners",
+    "subcatName": "Budgeting & Value Comparison"
+  },
+  "password-generator": {
+    "subcat": "password-credential-generators",
+    "subcatName": "Passwords & Credentials"
+  },
+  "hash-generator": {
+    "subcat": "cryptographic-hashing-ciphers",
+    "subcatName": "Hashing & Encryption"
+  },
+  "passphrase-generator": {
+    "subcat": "password-credential-generators",
+    "subcatName": "Passwords & Credentials"
+  },
+  "pin-generator": {
+    "subcat": "password-credential-generators",
+    "subcatName": "Passwords & Credentials"
+  },
+  "password-entropy": {
+    "subcat": "password-credential-generators",
+    "subcatName": "Passwords & Credentials"
+  },
+  "totp-generator": {
+    "subcat": "security-auditing-checks",
+    "subcatName": "Security Auditing & Network Checks"
+  },
+  "breach-checklist": {
+    "subcat": "security-auditing-checks",
+    "subcatName": "Security Auditing & Network Checks"
+  },
+  "encryption-key-gen": {
+    "subcat": "cryptographic-hashing-ciphers",
+    "subcatName": "Hashing & Encryption"
+  },
+  "security-headers": {
+    "subcat": "security-auditing-checks",
+    "subcatName": "Security Auditing & Network Checks"
+  },
+  "password-gen-advanced": {
+    "subcat": "password-credential-generators",
+    "subcatName": "Passwords & Credentials"
+  },
+  "cap-rate-calculator": {
+    "subcat": "rental-cashflow-landlord",
+    "subcatName": "Rental Cash Flow & Landlord Tools"
+  },
+  "cash-on-cash-return-calculator": {
+    "subcat": "rental-cashflow-landlord",
+    "subcatName": "Rental Cash Flow & Landlord Tools"
+  },
+  "rent-vs-buy-comparison-tool": {
+    "subcat": "mortgage-financing-equity",
+    "subcatName": "Mortgage, Equity & Closing Costs"
+  },
+  "rental-property-cash-flow-calculator": {
+    "subcat": "rental-cashflow-landlord",
+    "subcatName": "Rental Cash Flow & Landlord Tools"
+  },
+  "property-appreciation-estimator": {
+    "subcat": "property-valuation-roi",
+    "subcatName": "Property Valuation & ROI"
+  },
+  "rent-increase-calculator": {
+    "subcat": "rental-cashflow-landlord",
+    "subcatName": "Rental Cash Flow & Landlord Tools"
+  },
+  "security-deposit-calculator": {
+    "subcat": "rental-cashflow-landlord",
+    "subcatName": "Rental Cash Flow & Landlord Tools"
+  },
+  "landlord-late-fee-calculator": {
+    "subcat": "rental-cashflow-landlord",
+    "subcatName": "Rental Cash Flow & Landlord Tools"
+  },
+  "vacancy-rate-calculator": {
+    "subcat": "rental-cashflow-landlord",
+    "subcatName": "Rental Cash Flow & Landlord Tools"
+  },
+  "one-percent-rule-property-screener": {
+    "subcat": "rental-cashflow-landlord",
+    "subcatName": "Rental Cash Flow & Landlord Tools"
+  },
+  "closing-cost-estimator": {
+    "subcat": "mortgage-financing-equity",
+    "subcatName": "Mortgage, Equity & Closing Costs"
+  },
+  "home-equity-calculator": {
+    "subcat": "mortgage-financing-equity",
+    "subcatName": "Mortgage, Equity & Closing Costs"
+  },
+  "property-tax-escrow-estimator": {
+    "subcat": "mortgage-financing-equity",
+    "subcatName": "Mortgage, Equity & Closing Costs"
+  },
+  "gross-net-rental-yield-calculator": {
+    "subcat": "rental-cashflow-landlord",
+    "subcatName": "Rental Cash Flow & Landlord Tools"
+  },
+  "commercial-lease-rent-calculator": {
+    "subcat": "rental-cashflow-landlord",
+    "subcatName": "Rental Cash Flow & Landlord Tools"
+  },
+  "extra-mortgage-calc": {
+    "subcat": "mortgage-financing-equity",
+    "subcatName": "Mortgage, Equity & Closing Costs"
+  },
+  "property-roi": {
+    "subcat": "rental-cashflow-landlord",
+    "subcatName": "Rental Cash Flow & Landlord Tools"
+  },
+  "sqft-calculator": {
+    "subcat": "property-valuation-roi",
+    "subcatName": "Property Valuation & ROI"
+  },
+  "life-insurance-needs-calculator": {
+    "subcat": "life-health-disability-needs",
+    "subcatName": "Life & Disability Needs"
+  },
+  "insurance-coverage-gap-calculator": {
+    "subcat": "deductibles-costs-planning",
+    "subcatName": "Deductibles & Policy Planning"
+  },
+  "health-insurance-deductible-tracker": {
+    "subcat": "life-health-disability-needs",
+    "subcatName": "Life & Disability Needs"
+  },
+  "deductible-premium-tradeoff-calculator": {
+    "subcat": "deductibles-costs-planning",
+    "subcatName": "Deductibles & Policy Planning"
+  },
+  "renters-insurance-coverage-estimator": {
+    "subcat": "property-auto-coverage",
+    "subcatName": "Auto & Property Coverage"
+  },
+  "umbrella-policy-coverage-calculator": {
+    "subcat": "deductibles-costs-planning",
+    "subcatName": "Deductibles & Policy Planning"
+  },
+  "insurance-claim-documentation-checklist": {
+    "subcat": "life-health-disability-needs",
+    "subcatName": "Life & Disability Needs"
+  },
+  "term-vs-whole-life-comparison": {
+    "subcat": "life-health-disability-needs",
+    "subcatName": "Life & Disability Needs"
+  },
+  "hsa-contribution-calculator": {
+    "subcat": "life-health-disability-needs",
+    "subcatName": "Life & Disability Needs"
+  },
+  "premium-payment-frequency-calculator": {
+    "subcat": "deductibles-costs-planning",
+    "subcatName": "Deductibles & Policy Planning"
+  },
+  "out-of-pocket-maximum-tracker": {
+    "subcat": "life-health-disability-needs",
+    "subcatName": "Life & Disability Needs"
+  },
+  "insurance-policy-renewal-reminder": {
+    "subcat": "deductibles-costs-planning",
+    "subcatName": "Deductibles & Policy Planning"
+  },
+  "auto-insurance-comp": {
+    "subcat": "property-auto-coverage",
+    "subcatName": "Auto & Property Coverage"
+  },
+  "disability-insurance": {
+    "subcat": "life-health-disability-needs",
+    "subcatName": "Life & Disability Needs"
+  },
+  "social-security-benefit-estimator": {
+    "subcat": "social-security-pension-benefits",
+    "subcatName": "Social Security & Pensions"
+  },
+  "employer-match-calculator": {
+    "subcat": "savings-401k-contributions",
+    "subcatName": "401(k), IRA & Contributions"
+  },
+  "withdrawal-rate-calculator": {
+    "subcat": "drawdown-rmd-healthcare",
+    "subcatName": "Drawdown, RMD & Healthcare"
+  },
+  "rmd-calculator": {
+    "subcat": "savings-401k-contributions",
+    "subcatName": "401(k), IRA & Contributions"
+  },
+  "income-replacement-ratio-calculator": {
+    "subcat": "drawdown-rmd-healthcare",
+    "subcatName": "Drawdown, RMD & Healthcare"
+  },
+  "years-to-retirement-countdown": {
+    "subcat": "retirement-milestones-fire",
+    "subcatName": "FIRE & Retirement Milestones"
+  },
+  "pension-lump-sum-vs-annuity": {
+    "subcat": "social-security-pension-benefits",
+    "subcatName": "Social Security & Pensions"
+  },
+  "catch-up-contribution-calculator": {
+    "subcat": "savings-401k-contributions",
+    "subcatName": "401(k), IRA & Contributions"
+  },
+  "coast-fire-calculator": {
+    "subcat": "retirement-milestones-fire",
+    "subcatName": "FIRE & Retirement Milestones"
+  },
+  "retirement-healthcare-cost-estimator": {
+    "subcat": "drawdown-rmd-healthcare",
+    "subcatName": "Drawdown, RMD & Healthcare"
+  },
+  "social-security-claiming-age-comparison": {
+    "subcat": "social-security-pension-benefits",
+    "subcatName": "Social Security & Pensions"
+  },
+  "required-savings-rate-calculator": {
+    "subcat": "savings-401k-contributions",
+    "subcatName": "401(k), IRA & Contributions"
+  },
+  "fire-number-calc": {
+    "subcat": "retirement-milestones-fire",
+    "subcatName": "FIRE & Retirement Milestones"
+  },
+  "ira-contrib-calc": {
+    "subcat": "savings-401k-contributions",
+    "subcatName": "401(k), IRA & Contributions"
+  },
+  "retirement-income": {
+    "subcat": "social-security-pension-benefits",
+    "subcatName": "Social Security & Pensions"
+  },
+  "lesson-plan-builder": {
+    "subcat": "grading-curriculum-planning",
+    "subcatName": "Grading & Lesson Planning"
+  },
+  "rubric-generator": {
+    "subcat": "grading-curriculum-planning",
+    "subcatName": "Grading & Lesson Planning"
+  },
+  "reading-level-analyzer": {
+    "subcat": "academic-study-aids",
+    "subcatName": "Academic & Learning Utilities"
+  },
+  "class-average-calculator": {
+    "subcat": "academic-study-aids",
+    "subcatName": "Academic & Learning Utilities"
+  },
+  "classroom-timer": {
+    "subcat": "classroom-management-attendance",
+    "subcatName": "Classroom & Student Management"
+  },
+  "bell-schedule-maker": {
+    "subcat": "academic-study-aids",
+    "subcatName": "Academic & Learning Utilities"
+  },
+  "seating-randomizer": {
+    "subcat": "classroom-management-attendance",
+    "subcatName": "Classroom & Student Management"
+  },
+  "group-maker": {
+    "subcat": "academic-study-aids",
+    "subcatName": "Academic & Learning Utilities"
+  },
+  "homework-load-estimator": {
+    "subcat": "academic-study-aids",
+    "subcatName": "Academic & Learning Utilities"
+  },
+  "student-progress-tracker": {
+    "subcat": "academic-study-aids",
+    "subcatName": "Academic & Learning Utilities"
+  },
+  "field-trip-budget": {
+    "subcat": "academic-study-aids",
+    "subcatName": "Academic & Learning Utilities"
+  },
+  "curriculum-mapper": {
+    "subcat": "grading-curriculum-planning",
+    "subcatName": "Grading & Lesson Planning"
+  },
+  "classroom-supply-budget": {
+    "subcat": "academic-study-aids",
+    "subcatName": "Academic & Learning Utilities"
+  },
+  "student-behavior-tracker": {
+    "subcat": "classroom-management-attendance",
+    "subcatName": "Classroom & Student Management"
+  },
+  "debate-timer": {
+    "subcat": "academic-study-aids",
+    "subcatName": "Academic & Learning Utilities"
+  },
+  "vocabulary-quiz-maker": {
+    "subcat": "academic-study-aids",
+    "subcatName": "Academic & Learning Utilities"
+  },
+  "grade-boundary-calc": {
+    "subcat": "academic-study-aids",
+    "subcatName": "Academic & Learning Utilities"
+  },
+  "attendance-tracker": {
+    "subcat": "classroom-management-attendance",
+    "subcatName": "Classroom & Student Management"
+  },
+  "nda-generator": {
+    "subcat": "contract-document-templates",
+    "subcatName": "Agreements & Document Templates"
+  },
+  "contract-checklist": {
+    "subcat": "contract-document-templates",
+    "subcatName": "Agreements & Document Templates"
+  },
+  "hourly-billing-calculator": {
+    "subcat": "legal-fee-settlement-calculators",
+    "subcatName": "Fees, Billing & Settlement"
+  },
+  "court-date-countdown": {
+    "subcat": "legal-fee-settlement-calculators",
+    "subcatName": "Fees, Billing & Settlement"
+  },
+  "legal-fee-estimator": {
+    "subcat": "contract-document-templates",
+    "subcatName": "Agreements & Document Templates"
+  },
+  "document-retention-scheduler": {
+    "subcat": "compliance-audit-checklists",
+    "subcatName": "Compliance & Legal Auditing"
+  },
+  "billable-hours-tracker": {
+    "subcat": "contract-document-templates",
+    "subcatName": "Agreements & Document Templates"
+  },
+  "gdpr-compliance-checklist": {
+    "subcat": "compliance-audit-checklists",
+    "subcatName": "Compliance & Legal Auditing"
+  },
+  "terms-of-service-generator": {
+    "subcat": "contract-document-templates",
+    "subcatName": "Agreements & Document Templates"
+  },
+  "privacy-policy-generator": {
+    "subcat": "compliance-audit-checklists",
+    "subcatName": "Compliance & Legal Auditing"
+  },
+  "legal-deadline-calculator": {
+    "subcat": "legal-fee-settlement-calculators",
+    "subcatName": "Fees, Billing & Settlement"
+  },
+  "cease-desist-template": {
+    "subcat": "contract-document-templates",
+    "subcatName": "Agreements & Document Templates"
+  },
+  "power-of-attorney-template": {
+    "subcat": "contract-document-templates",
+    "subcatName": "Agreements & Document Templates"
+  },
+  "trademark-search-prep": {
+    "subcat": "compliance-audit-checklists",
+    "subcatName": "Compliance & Legal Auditing"
+  },
+  "statute-of-limitations-ref": {
+    "subcat": "compliance-audit-checklists",
+    "subcatName": "Compliance & Legal Auditing"
+  },
+  "project-pricing-calculator": {
+    "subcat": "pricing-hourly-rates",
+    "subcatName": "Pricing & Rate Calculation"
+  },
+  "scope-of-work-generator": {
+    "subcat": "pricing-hourly-rates",
+    "subcatName": "Pricing & Rate Calculation"
+  },
+  "client-proposal-builder": {
+    "subcat": "invoicing-payment-contracts",
+    "subcatName": "Invoicing & Client Contracts"
+  },
+  "freelance-tax-estimator": {
+    "subcat": "freelance-tax-finances",
+    "subcatName": "Taxes & Financial Management"
+  },
+  "project-timeline-estimator": {
+    "subcat": "invoicing-payment-contracts",
+    "subcatName": "Invoicing & Client Contracts"
+  },
+  "client-invoice-tracker": {
+    "subcat": "invoicing-payment-contracts",
+    "subcatName": "Invoicing & Client Contracts"
+  },
+  "rate-increase-calculator": {
+    "subcat": "pricing-hourly-rates",
+    "subcatName": "Pricing & Rate Calculation"
+  },
+  "time-tracking-summary": {
+    "subcat": "invoicing-payment-contracts",
+    "subcatName": "Invoicing & Client Contracts"
+  },
+  "expense-deduction-tracker": {
+    "subcat": "freelance-tax-finances",
+    "subcatName": "Taxes & Financial Management"
+  },
+  "client-onboarding-checklist": {
+    "subcat": "invoicing-payment-contracts",
+    "subcatName": "Invoicing & Client Contracts"
+  },
+  "late-payment-fee-calculator": {
+    "subcat": "invoicing-payment-contracts",
+    "subcatName": "Invoicing & Client Contracts"
+  },
+  "profit-loss-dashboard": {
+    "subcat": "invoicing-payment-contracts",
+    "subcatName": "Invoicing & Client Contracts"
+  },
+  "portfolio-tracker": {
+    "subcat": "invoicing-payment-contracts",
+    "subcatName": "Invoicing & Client Contracts"
+  },
+  "contract-value-calculator": {
+    "subcat": "pricing-hourly-rates",
+    "subcatName": "Pricing & Rate Calculation"
+  },
+  "meeting-scheduler-template": {
+    "subcat": "invoicing-payment-contracts",
+    "subcatName": "Invoicing & Client Contracts"
+  },
+  "invoice-number-gen": {
+    "subcat": "invoicing-payment-contracts",
+    "subcatName": "Invoicing & Client Contracts"
+  },
+  "freelance-income-tax": {
+    "subcat": "freelance-tax-finances",
+    "subcatName": "Taxes & Financial Management"
+  },
+  "engagement-rate-calculator": {
+    "subcat": "engagement-metrics-analytics",
+    "subcatName": "Engagement & Metrics Analytics"
+  },
+  "bio-generator": {
+    "subcat": "bio-profile-optimization",
+    "subcatName": "Bio & Profile Optimization"
+  },
+  "post-length-optimizer": {
+    "subcat": "content-scheduling-planners",
+    "subcatName": "Content Strategy & Calendars"
+  },
+  "content-idea-generator": {
+    "subcat": "captions-hashtag-generation",
+    "subcatName": "Captions & Hashtags"
+  },
+  "follower-growth-calculator": {
+    "subcat": "engagement-metrics-analytics",
+    "subcatName": "Engagement & Metrics Analytics"
+  },
+  "social-media-roi-calculator": {
+    "subcat": "captions-hashtag-generation",
+    "subcatName": "Captions & Hashtags"
+  },
+  "content-calendar-planner": {
+    "subcat": "content-scheduling-planners",
+    "subcatName": "Content Strategy & Calendars"
+  },
+  "cta-generator": {
+    "subcat": "captions-hashtag-generation",
+    "subcatName": "Captions & Hashtags"
+  },
+  "ab-test-calculator": {
+    "subcat": "captions-hashtag-generation",
+    "subcatName": "Captions & Hashtags"
+  },
+  "influencer-rate-calculator": {
+    "subcat": "engagement-metrics-analytics",
+    "subcatName": "Engagement & Metrics Analytics"
+  },
+  "video-script-timer": {
+    "subcat": "captions-hashtag-generation",
+    "subcatName": "Captions & Hashtags"
+  },
+  "username-checker": {
+    "subcat": "captions-hashtag-generation",
+    "subcatName": "Captions & Hashtags"
+  },
+  "hashtag-analyzer": {
+    "subcat": "captions-hashtag-generation",
+    "subcatName": "Captions & Hashtags"
+  },
+  "social-proof-formatter": {
+    "subcat": "captions-hashtag-generation",
+    "subcatName": "Captions & Hashtags"
+  },
+  "posting-time-finder": {
+    "subcat": "content-scheduling-planners",
+    "subcatName": "Content Strategy & Calendars"
+  },
+  "social-post-scheduler": {
+    "subcat": "content-scheduling-planners",
+    "subcatName": "Content Strategy & Calendars"
+  },
+  "viral-potential-scorer": {
+    "subcat": "captions-hashtag-generation",
+    "subcatName": "Captions & Hashtags"
+  },
+  "chi-square-calculator": {
+    "subcat": "statistics-correlation-analysis",
+    "subcatName": "Statistical & Correlation Analysis"
+  },
+  "sample-size-calculator": {
+    "subcat": "data-sampling-randomization",
+    "subcatName": "Sampling, Testing & Summary"
+  },
+  "z-score-calculator": {
+    "subcat": "statistics-correlation-analysis",
+    "subcatName": "Statistical & Correlation Analysis"
+  },
+  "correlation-calculator": {
+    "subcat": "statistics-correlation-analysis",
+    "subcatName": "Statistical & Correlation Analysis"
+  },
+  "outlier-detector": {
+    "subcat": "statistics-correlation-analysis",
+    "subcatName": "Statistical & Correlation Analysis"
+  },
+  "moving-average-calculator": {
+    "subcat": "statistics-correlation-analysis",
+    "subcatName": "Statistical & Correlation Analysis"
+  },
+  "data-normalizer": {
+    "subcat": "data-cleansing-transformation",
+    "subcatName": "Data Cleansing & Transformation"
+  },
+  "frequency-distribution": {
+    "subcat": "statistics-correlation-analysis",
+    "subcatName": "Statistical & Correlation Analysis"
+  },
+  "confidence-interval-calculator": {
+    "subcat": "statistics-correlation-analysis",
+    "subcatName": "Statistical & Correlation Analysis"
+  },
+  "regression-line-calculator": {
+    "subcat": "statistics-correlation-analysis",
+    "subcatName": "Statistical & Correlation Analysis"
+  },
+  "percentile-calculator": {
+    "subcat": "statistics-correlation-analysis",
+    "subcatName": "Statistical & Correlation Analysis"
+  },
+  "t-test-calculator": {
+    "subcat": "data-sampling-randomization",
+    "subcatName": "Sampling, Testing & Summary"
+  },
+  "csv-column-stats": {
+    "subcat": "data-sampling-randomization",
+    "subcatName": "Sampling, Testing & Summary"
+  },
+  "probability-calculator": {
+    "subcat": "statistics-correlation-analysis",
+    "subcatName": "Statistical & Correlation Analysis"
+  },
+  "variance-calculator": {
+    "subcat": "statistics-correlation-analysis",
+    "subcatName": "Statistical & Correlation Analysis"
+  },
+  "data-pivot-table": {
+    "subcat": "statistics-correlation-analysis",
+    "subcatName": "Statistical & Correlation Analysis"
+  },
+  "histogram-maker": {
+    "subcat": "statistics-correlation-analysis",
+    "subcatName": "Statistical & Correlation Analysis"
+  },
+  "product-markup-calculator": {
+    "subcat": "inventory-store-operations",
+    "subcatName": "Inventory & Store Operations"
+  },
+  "shipping-cost-estimator": {
+    "subcat": "order-shipping-fulfillment",
+    "subcatName": "Shipping, Fees & Break-Even"
+  },
+  "fba-fee-calculator": {
+    "subcat": "order-shipping-fulfillment",
+    "subcatName": "Shipping, Fees & Break-Even"
+  },
+  "sku-generator": {
+    "subcat": "inventory-store-operations",
+    "subcatName": "Inventory & Store Operations"
+  },
+  "profit-per-unit-calculator": {
+    "subcat": "product-pricing-profitability",
+    "subcatName": "Pricing, Margin & Profitability"
+  },
+  "eoq-calculator": {
+    "subcat": "inventory-store-operations",
+    "subcatName": "Inventory & Store Operations"
+  },
+  "coupon-code-generator": {
+    "subcat": "inventory-store-operations",
+    "subcatName": "Inventory & Store Operations"
+  },
+  "return-rate-calculator": {
+    "subcat": "inventory-store-operations",
+    "subcatName": "Inventory & Store Operations"
+  },
+  "inventory-turnover-calculator": {
+    "subcat": "inventory-store-operations",
+    "subcatName": "Inventory & Store Operations"
+  },
+  "landed-cost-calculator": {
+    "subcat": "order-shipping-fulfillment",
+    "subcatName": "Shipping, Fees & Break-Even"
+  },
+  "pricing-psychology-tool": {
+    "subcat": "product-pricing-profitability",
+    "subcatName": "Pricing, Margin & Profitability"
+  },
+  "sales-forecast-calculator": {
+    "subcat": "inventory-store-operations",
+    "subcatName": "Inventory & Store Operations"
+  },
+  "aov-calculator": {
+    "subcat": "product-pricing-profitability",
+    "subcatName": "Pricing, Margin & Profitability"
+  },
+  "product-photo-checklist": {
+    "subcat": "inventory-store-operations",
+    "subcatName": "Inventory & Store Operations"
+  },
+  "product-description-template": {
+    "subcat": "inventory-store-operations",
+    "subcatName": "Inventory & Store Operations"
+  },
+  "domain-name-gen": {
+    "subcat": "inventory-store-operations",
+    "subcatName": "Inventory & Store Operations"
+  },
+  "product-margin-calc": {
+    "subcat": "product-pricing-profitability",
+    "subcatName": "Pricing, Margin & Profitability"
+  },
+  "product-bundle-calc": {
+    "subcat": "product-pricing-profitability",
+    "subcatName": "Pricing, Margin & Profitability"
+  },
+  "carbon-footprint-calculator": {
+    "subcat": "eco-lifestyle-offsets",
+    "subcatName": "Eco Living & Offsets"
+  },
+  "energy-audit-checklist": {
+    "subcat": "carbon-energy-footprint",
+    "subcatName": "Carbon & Energy Footprint"
+  },
+  "water-usage-calculator": {
+    "subcat": "waste-water-conservation",
+    "subcatName": "Water & Resource Conservation"
+  },
+  "recycling-guide": {
+    "subcat": "carbon-energy-footprint",
+    "subcatName": "Carbon & Energy Footprint"
+  },
+  "commute-emissions-calculator": {
+    "subcat": "eco-lifestyle-offsets",
+    "subcatName": "Eco Living & Offsets"
+  },
+  "tree-offset-calculator": {
+    "subcat": "eco-lifestyle-offsets",
+    "subcatName": "Eco Living & Offsets"
+  },
+  "solar-savings-estimator": {
+    "subcat": "carbon-energy-footprint",
+    "subcatName": "Carbon & Energy Footprint"
+  },
+  "paper-usage-calculator": {
+    "subcat": "waste-water-conservation",
+    "subcatName": "Water & Resource Conservation"
+  },
+  "plastic-footprint-calculator": {
+    "subcat": "waste-water-conservation",
+    "subcatName": "Water & Resource Conservation"
+  },
+  "carbon-diet-planner": {
+    "subcat": "eco-lifestyle-offsets",
+    "subcatName": "Eco Living & Offsets"
+  },
+  "electricity-carbon-calculator": {
+    "subcat": "eco-lifestyle-offsets",
+    "subcatName": "Eco Living & Offsets"
+  },
+  "food-waste-tracker": {
+    "subcat": "waste-water-conservation",
+    "subcatName": "Water & Resource Conservation"
+  },
+  "insulation-savings-calculator": {
+    "subcat": "eco-lifestyle-offsets",
+    "subcatName": "Eco Living & Offsets"
+  },
+  "appliance-efficiency-comparator": {
+    "subcat": "carbon-energy-footprint",
+    "subcatName": "Carbon & Energy Footprint"
+  },
+  "eco-product-scorer": {
+    "subcat": "carbon-energy-footprint",
+    "subcatName": "Carbon & Energy Footprint"
+  },
+  "carbon-travel-calc": {
+    "subcat": "eco-lifestyle-offsets",
+    "subcatName": "Eco Living & Offsets"
+  },
+  "carbon-label-gen": {
+    "subcat": "eco-lifestyle-offsets",
+    "subcatName": "Eco Living & Offsets"
+  },
+  "slide-count-estimator": {
+    "subcat": "slide-structure-planning",
+    "subcatName": "Slide & Content Structure"
+  },
+  "speech-word-timer": {
+    "subcat": "speech-timing-pacing",
+    "subcatName": "Speech Timing & Pacing"
+  },
+  "presentation-outline": {
+    "subcat": "slide-structure-planning",
+    "subcatName": "Slide & Content Structure"
+  },
+  "audience-room-calculator": {
+    "subcat": "presentation-design-qa",
+    "subcatName": "Visual Layout & Q&A Prep"
+  },
+  "qa-timer": {
+    "subcat": "speech-timing-pacing",
+    "subcatName": "Speech Timing & Pacing"
+  },
+  "speaking-pace-calculator": {
+    "subcat": "presentation-design-qa",
+    "subcatName": "Visual Layout & Q&A Prep"
+  },
+  "elevator-pitch-timer": {
+    "subcat": "speech-timing-pacing",
+    "subcatName": "Speech Timing & Pacing"
+  },
+  "presentation-checklist": {
+    "subcat": "presentation-design-qa",
+    "subcatName": "Visual Layout & Q&A Prep"
+  },
+  "font-size-projector": {
+    "subcat": "presentation-design-qa",
+    "subcatName": "Visual Layout & Q&A Prep"
+  },
+  "handout-calculator": {
+    "subcat": "presentation-design-qa",
+    "subcatName": "Visual Layout & Q&A Prep"
+  },
+  "speaker-intro-gen": {
+    "subcat": "presentation-design-qa",
+    "subcatName": "Visual Layout & Q&A Prep"
+  },
+  "meeting-agenda-timer": {
+    "subcat": "speech-timing-pacing",
+    "subcatName": "Speech Timing & Pacing"
+  },
+  "subnet-calculator": {
+    "subcat": "ip-subnetting-addressing",
+    "subcatName": "IP Subnetting & Addressing"
+  },
+  "ip-converter": {
+    "subcat": "ip-subnetting-addressing",
+    "subcatName": "IP Subnetting & Addressing"
+  },
+  "bandwidth-calculator": {
+    "subcat": "bandwidth-latency-transfer",
+    "subcatName": "Bandwidth & Data Transfer"
+  },
+  "cidr-calculator": {
+    "subcat": "ip-subnetting-addressing",
+    "subcatName": "IP Subnetting & Addressing"
+  },
+  "dns-reference": {
+    "subcat": "ports-dns-network-diagnostics",
+    "subcatName": "Ports, DNS & Diagnostics"
+  },
+  "port-reference": {
+    "subcat": "ports-dns-network-diagnostics",
+    "subcatName": "Ports, DNS & Diagnostics"
+  },
+  "mac-formatter": {
+    "subcat": "ip-subnetting-addressing",
+    "subcatName": "IP Subnetting & Addressing"
+  },
+  "throughput-calculator": {
+    "subcat": "bandwidth-latency-transfer",
+    "subcatName": "Bandwidth & Data Transfer"
+  },
+  "ssl-expiry-calculator": {
+    "subcat": "ip-subnetting-addressing",
+    "subcatName": "IP Subnetting & Addressing"
+  },
+  "uptime-calculator": {
+    "subcat": "ip-subnetting-addressing",
+    "subcatName": "IP Subnetting & Addressing"
+  },
+  "binary-hex-converter": {
+    "subcat": "ip-subnetting-addressing",
+    "subcatName": "IP Subnetting & Addressing"
+  },
+  "jwt-decoder": {
+    "subcat": "ip-subnetting-addressing",
+    "subcatName": "IP Subnetting & Addressing"
+  },
+  "http-header-reference": {
+    "subcat": "ip-subnetting-addressing",
+    "subcatName": "IP Subnetting & Addressing"
+  },
+  "api-response-calculator": {
+    "subcat": "bandwidth-latency-transfer",
+    "subcatName": "Bandwidth & Data Transfer"
+  },
+  "data-transfer-cost": {
+    "subcat": "ip-subnetting-addressing",
+    "subcatName": "IP Subnetting & Addressing"
+  },
+  "font-pairing-suggester": {
+    "subcat": "font-pairing-selection",
+    "subcatName": "Font Pairing & Character Inspection"
+  },
+  "line-height-calculator": {
+    "subcat": "line-height-paragraph-spacing",
+    "subcatName": "Paragraph & Vertical Spacing"
+  },
+  "paragraph-width-calculator": {
+    "subcat": "font-pairing-selection",
+    "subcatName": "Font Pairing & Character Inspection"
+  },
+  "vertical-rhythm-calculator": {
+    "subcat": "line-height-paragraph-spacing",
+    "subcatName": "Paragraph & Vertical Spacing"
+  },
+  "modular-scale-calculator": {
+    "subcat": "font-sizing-type-scale",
+    "subcatName": "Type Scales & Modular Sizing"
+  },
+  "font-size-converter": {
+    "subcat": "font-pairing-selection",
+    "subcatName": "Font Pairing & Character Inspection"
+  },
+  "text-contrast-checker": {
+    "subcat": "font-pairing-selection",
+    "subcatName": "Font Pairing & Character Inspection"
+  },
+  "web-font-snippet": {
+    "subcat": "font-pairing-selection",
+    "subcatName": "Font Pairing & Character Inspection"
+  },
+  "cap-height-calculator": {
+    "subcat": "font-sizing-type-scale",
+    "subcatName": "Type Scales & Modular Sizing"
+  },
+  "word-spacing-calculator": {
+    "subcat": "font-pairing-selection",
+    "subcatName": "Font Pairing & Character Inspection"
+  },
+  "recipe-scaler": {
+    "subcat": "ingredient-weight-substitutions",
+    "subcatName": "Ingredient Weights & Yeast Proofing"
+  },
+  "oven-temp-converter": {
+    "subcat": "pan-size-oven-conversions",
+    "subcatName": "Pan Size & Oven Temperature"
+  },
+  "pan-size-converter": {
+    "subcat": "pan-size-oven-conversions",
+    "subcatName": "Pan Size & Oven Temperature"
+  },
+  "yeast-converter": {
+    "subcat": "ingredient-weight-substitutions",
+    "subcatName": "Ingredient Weights & Yeast Proofing"
+  },
+  "egg-substitute": {
+    "subcat": "ingredient-weight-substitutions",
+    "subcatName": "Ingredient Weights & Yeast Proofing"
+  },
+  "butter-oil-converter": {
+    "subcat": "ingredient-weight-substitutions",
+    "subcatName": "Ingredient Weights & Yeast Proofing"
+  },
+  "altitude-adjuster": {
+    "subcat": "ingredient-weight-substitutions",
+    "subcatName": "Ingredient Weights & Yeast Proofing"
+  },
+  "frosting-calculator": {
+    "subcat": "ingredient-weight-substitutions",
+    "subcatName": "Ingredient Weights & Yeast Proofing"
+  },
+  "sourdough-calculator": {
+    "subcat": "recipe-scaling-bakers-math",
+    "subcatName": "Baker's Percentages & Yield"
+  },
+  "baking-timer": {
+    "subcat": "ingredient-weight-substitutions",
+    "subcatName": "Ingredient Weights & Yeast Proofing"
+  },
+  "recipe-unit-converter": {
+    "subcat": "ingredient-weight-substitutions",
+    "subcatName": "Ingredient Weights & Yeast Proofing"
+  },
+  "dough-hydration-calc": {
+    "subcat": "recipe-scaling-bakers-math",
+    "subcatName": "Baker's Percentages & Yield"
+  },
+  "moving-cost-estimator": {
+    "subcat": "moving-cost-estimation",
+    "subcatName": "Cost Estimation & Moving Budgets"
+  },
+  "utility-checklist": {
+    "subcat": "relocation-checklists-planning",
+    "subcatName": "Relocation Timelines & Change of Address"
+  },
+  "room-inventory": {
+    "subcat": "packing-supplies-inventory",
+    "subcatName": "Packing Supplies & Box Counts"
+  },
+  "address-change-list": {
+    "subcat": "relocation-checklists-planning",
+    "subcatName": "Relocation Timelines & Change of Address"
+  },
+  "truck-size-calc": {
+    "subcat": "moving-cost-estimation",
+    "subcatName": "Cost Estimation & Moving Budgets"
+  },
+  "first-night-box": {
+    "subcat": "packing-supplies-inventory",
+    "subcatName": "Packing Supplies & Box Counts"
+  },
+  "moving-timeline": {
+    "subcat": "relocation-checklists-planning",
+    "subcatName": "Relocation Timelines & Change of Address"
+  },
+  "deposit-checklist": {
+    "subcat": "relocation-checklists-planning",
+    "subcatName": "Relocation Timelines & Change of Address"
+  },
+  "cost-of-living": {
+    "subcat": "moving-cost-estimation",
+    "subcatName": "Cost Estimation & Moving Budgets"
+  },
+  "packing-supply-calc": {
+    "subcat": "packing-supplies-inventory",
+    "subcatName": "Packing Supplies & Box Counts"
+  },
+  "mood-journal": {
+    "subcat": "mood-emotional-tracking",
+    "subcatName": "Mood & Emotional Tracking"
+  },
+  "breathing-timer": {
+    "subcat": "mindfulness-breathing-exercises",
+    "subcatName": "Mindfulness & Breathing Exercises"
+  },
+  "gratitude-journal": {
+    "subcat": "mindfulness-breathing-exercises",
+    "subcatName": "Mindfulness & Breathing Exercises"
+  },
+  "sleep-quality-tracker": {
+    "subcat": "stress-anxiety-management",
+    "subcatName": "Stress & Habit Management"
+  },
+  "mindfulness-timer": {
+    "subcat": "stress-anxiety-management",
+    "subcatName": "Stress & Habit Management"
+  },
+  "worry-journal": {
+    "subcat": "stress-anxiety-management",
+    "subcatName": "Stress & Habit Management"
+  },
+  "self-care-checklist": {
+    "subcat": "mood-emotional-tracking",
+    "subcatName": "Mood & Emotional Tracking"
+  },
+  "energy-tracker": {
+    "subcat": "stress-anxiety-management",
+    "subcatName": "Stress & Habit Management"
+  },
+  "digital-detox-planner": {
+    "subcat": "stress-anxiety-management",
+    "subcatName": "Stress & Habit Management"
+  },
+  "stress-assessment": {
+    "subcat": "stress-anxiety-management",
+    "subcatName": "Stress & Habit Management"
+  },
+  "wedding-budget-calculator": {
+    "subcat": "wedding-budgeting-breakdown",
+    "subcatName": "Wedding Budget & Cost Breakdown"
+  },
+  "guest-list-manager": {
+    "subcat": "guest-list-table-seating",
+    "subcatName": "Guest Lists & Table Layouts"
+  },
+  "wedding-timeline": {
+    "subcat": "vendor-timeline-planning",
+    "subcatName": "Timeline, Vows & Vendor Planning"
+  },
+  "seating-calculator": {
+    "subcat": "guest-list-table-seating",
+    "subcatName": "Guest Lists & Table Layouts"
+  },
+  "vendor-budget-tracker": {
+    "subcat": "wedding-budgeting-breakdown",
+    "subcatName": "Wedding Budget & Cost Breakdown"
+  },
+  "invitation-calculator": {
+    "subcat": "guest-list-table-seating",
+    "subcatName": "Guest Lists & Table Layouts"
+  },
+  "wedding-countdown": {
+    "subcat": "vendor-timeline-planning",
+    "subcatName": "Timeline, Vows & Vendor Planning"
+  },
+  "flower-estimator": {
+    "subcat": "vendor-timeline-planning",
+    "subcatName": "Timeline, Vows & Vendor Planning"
+  },
+  "drink-calculator": {
+    "subcat": "wedding-budgeting-breakdown",
+    "subcatName": "Wedding Budget & Cost Breakdown"
+  },
+  "wedding-hashtag": {
+    "subcat": "vendor-timeline-planning",
+    "subcatName": "Timeline, Vows & Vendor Planning"
+  },
+  "screw-bolt-reference": {
+    "subcat": "workshop-angles-fasteners",
+    "subcatName": "Angles, Miters & Fasteners"
+  },
+  "sandpaper-guide": {
+    "subcat": "paint-finish-project-planning",
+    "subcatName": "Finishes, Lumber & Project Budgets"
+  },
+  "wood-joint-selector": {
+    "subcat": "diy-material-quantities",
+    "subcatName": "Material Quantity & Surface Calculators"
+  },
+  "drill-bit-reference": {
+    "subcat": "workshop-angles-fasteners",
+    "subcatName": "Angles, Miters & Fasteners"
+  },
+  "paint-coverage-calc": {
+    "subcat": "paint-finish-project-planning",
+    "subcatName": "Finishes, Lumber & Project Budgets"
+  },
+  "adhesive-selector": {
+    "subcat": "paint-finish-project-planning",
+    "subcatName": "Finishes, Lumber & Project Budgets"
+  },
+  "diy-cost-estimator": {
+    "subcat": "diy-material-quantities",
+    "subcatName": "Material Quantity & Surface Calculators"
+  },
+  "wire-gauge-ref": {
+    "subcat": "diy-material-quantities",
+    "subcatName": "Material Quantity & Surface Calculators"
+  },
+  "level-plumb-calc": {
+    "subcat": "diy-material-quantities",
+    "subcatName": "Material Quantity & Surface Calculators"
+  },
+  "tool-maintenance-sched": {
+    "subcat": "diy-material-quantities",
+    "subcatName": "Material Quantity & Surface Calculators"
+  },
+  "dice-roller": {
+    "subcat": "dice-randomizers-probability",
+    "subcatName": "Dice Rolling & Probability"
+  },
+  "character-name-gen": {
+    "subcat": "boardgame-scorekeeping-tournaments",
+    "subcatName": "Scorekeeping, Timers & Tournaments"
+  },
+  "initiative-tracker": {
+    "subcat": "ttrpg-character-combat",
+    "subcatName": "TTRPG Character & Combat Trackers"
+  },
+  "loot-splitter": {
+    "subcat": "dice-randomizers-probability",
+    "subcatName": "Dice Rolling & Probability"
+  },
+  "encounter-generator": {
+    "subcat": "dice-randomizers-probability",
+    "subcatName": "Dice Rolling & Probability"
+  },
+  "score-tracker": {
+    "subcat": "boardgame-scorekeeping-tournaments",
+    "subcatName": "Scorekeeping, Timers & Tournaments"
+  },
+  "card-drawer": {
+    "subcat": "boardgame-scorekeeping-tournaments",
+    "subcatName": "Scorekeeping, Timers & Tournaments"
+  },
+  "coin-flip": {
+    "subcat": "ttrpg-character-combat",
+    "subcatName": "TTRPG Character & Combat Trackers"
+  },
+  "team-generator": {
+    "subcat": "boardgame-scorekeeping-tournaments",
+    "subcatName": "Scorekeeping, Timers & Tournaments"
+  },
+  "game-timer": {
+    "subcat": "boardgame-scorekeeping-tournaments",
+    "subcatName": "Scorekeeping, Timers & Tournaments"
+  },
+  "game-score-counter": {
+    "subcat": "boardgame-scorekeeping-tournaments",
+    "subcatName": "Scorekeeping, Timers & Tournaments"
+  },
+  "rpg-stat-gen": {
+    "subcat": "ttrpg-character-combat",
+    "subcatName": "TTRPG Character & Combat Trackers"
+  },
+  "currency-converter": {
+    "subcat": "timezone-currency-flight-planning",
+    "subcatName": "Timezones, Currency & Flight Prep"
+  },
+  "trip-expense-splitter": {
+    "subcat": "itinerary-trip-budgets",
+    "subcatName": "Itinerary & Daily Travel Budgets"
+  },
+  "luggage-weight-checker": {
+    "subcat": "packing-clothing-lists",
+    "subcatName": "Packing Lists & Weather Prep"
+  },
+  "timezone-planner": {
+    "subcat": "itinerary-trip-budgets",
+    "subcatName": "Itinerary & Daily Travel Budgets"
+  },
+  "travel-document-checklist": {
+    "subcat": "itinerary-trip-budgets",
+    "subcatName": "Itinerary & Daily Travel Budgets"
+  },
+  "vacation-optimizer": {
+    "subcat": "itinerary-trip-budgets",
+    "subcatName": "Itinerary & Daily Travel Budgets"
+  },
+  "power-adapter-finder": {
+    "subcat": "packing-clothing-lists",
+    "subcatName": "Packing Lists & Weather Prep"
+  },
+  "itinerary-builder": {
+    "subcat": "itinerary-trip-budgets",
+    "subcatName": "Itinerary & Daily Travel Budgets"
+  },
+  "packing-weight-calculator": {
+    "subcat": "packing-clothing-lists",
+    "subcatName": "Packing Lists & Weather Prep"
+  },
+  "layover-planner": {
+    "subcat": "itinerary-trip-budgets",
+    "subcatName": "Itinerary & Daily Travel Budgets"
+  },
+  "passport-validity-check": {
+    "subcat": "itinerary-trip-budgets",
+    "subcatName": "Itinerary & Daily Travel Budgets"
+  },
+  "jet-lag-calc": {
+    "subcat": "timezone-currency-flight-planning",
+    "subcatName": "Timezones, Currency & Flight Prep"
+  },
+  "molar-mass-calculator": {
+    "subcat": "molecular-molar-calculations",
+    "subcatName": "Molar Mass & Stoichiometry"
+  },
+  "dilution-calculator": {
+    "subcat": "solution-dilution-molarity",
+    "subcatName": "Solutions, Dilutions & Molarity"
+  },
+  "molarity-calculator": {
+    "subcat": "solution-dilution-molarity",
+    "subcatName": "Solutions, Dilutions & Molarity"
+  },
+  "ph-calculator": {
+    "subcat": "solution-dilution-molarity",
+    "subcatName": "Solutions, Dilutions & Molarity"
+  },
+  "ideal-gas-calculator": {
+    "subcat": "gas-laws-thermodynamics",
+    "subcatName": "Gas Laws & Thermodynamics"
+  },
+  "percent-composition": {
+    "subcat": "molecular-molar-calculations",
+    "subcatName": "Molar Mass & Stoichiometry"
+  },
+  "half-life-calculator": {
+    "subcat": "gas-laws-thermodynamics",
+    "subcatName": "Gas Laws & Thermodynamics"
+  },
+  "cell-voltage-calculator": {
+    "subcat": "molecular-molar-calculations",
+    "subcatName": "Molar Mass & Stoichiometry"
+  },
+  "gas-stoichiometry": {
+    "subcat": "gas-laws-thermodynamics",
+    "subcatName": "Gas Laws & Thermodynamics"
+  },
+  "solution-prep-calculator": {
+    "subcat": "solution-dilution-molarity",
+    "subcatName": "Solutions, Dilutions & Molarity"
+  },
+  "mole-ratio-calc": {
+    "subcat": "molecular-molar-calculations",
+    "subcatName": "Molar Mass & Stoichiometry"
+  },
+  "reaction-balancer": {
+    "subcat": "molecular-molar-calculations",
+    "subcatName": "Molar Mass & Stoichiometry"
+  },
+  "interview-scorecard": {
+    "subcat": "recruitment-interview-scorecards",
+    "subcatName": "Recruitment & Interview Scorecards"
+  },
+  "pto-tracker": {
+    "subcat": "pto-leave-attendance-management",
+    "subcatName": "PTO, Leave & Attendance"
+  },
+  "employee-cost-calculator": {
+    "subcat": "recruitment-interview-scorecards",
+    "subcatName": "Recruitment & Interview Scorecards"
+  },
+  "offer-letter-generator": {
+    "subcat": "recruitment-interview-scorecards",
+    "subcatName": "Recruitment & Interview Scorecards"
+  },
+  "headcount-planner": {
+    "subcat": "recruitment-interview-scorecards",
+    "subcatName": "Recruitment & Interview Scorecards"
+  },
+  "turnover-calculator": {
+    "subcat": "compensation-turnover-analytics",
+    "subcatName": "Compensation, Retention & Cost per Hire"
+  },
+  "salary-range-calculator": {
+    "subcat": "compensation-turnover-analytics",
+    "subcatName": "Compensation, Retention & Cost per Hire"
+  },
+  "time-to-hire-calculator": {
+    "subcat": "recruitment-interview-scorecards",
+    "subcatName": "Recruitment & Interview Scorecards"
+  },
+  "onboarding-timeline": {
+    "subcat": "recruitment-interview-scorecards",
+    "subcatName": "Recruitment & Interview Scorecards"
+  },
+  "absenteeism-calculator": {
+    "subcat": "recruitment-interview-scorecards",
+    "subcatName": "Recruitment & Interview Scorecards"
+  },
+  "employee-satisfaction": {
+    "subcat": "recruitment-interview-scorecards",
+    "subcatName": "Recruitment & Interview Scorecards"
+  },
+  "diversity-tracker": {
+    "subcat": "recruitment-interview-scorecards",
+    "subcatName": "Recruitment & Interview Scorecards"
+  },
+  "staking-calculator": {
+    "subcat": "staking-yield-mining-returns",
+    "subcatName": "Staking, Yield & Mining Profit"
+  },
+  "gas-estimator": {
+    "subcat": "gas-fees-transaction-costs",
+    "subcatName": "Gas Fees & Transaction Costs"
+  },
+  "dca-calculator": {
+    "subcat": "dca-portfolio-impermanent-loss",
+    "subcatName": "DCA & Impermanent Loss Calculators"
+  },
+  "crypto-pnl-calculator": {
+    "subcat": "staking-yield-mining-returns",
+    "subcatName": "Staking, Yield & Mining Profit"
+  },
+  "hash-rate-converter": {
+    "subcat": "staking-yield-mining-returns",
+    "subcatName": "Staking, Yield & Mining Profit"
+  },
+  "mining-calculator": {
+    "subcat": "staking-yield-mining-returns",
+    "subcatName": "Staking, Yield & Mining Profit"
+  },
+  "wallet-validator": {
+    "subcat": "gas-fees-transaction-costs",
+    "subcatName": "Gas Fees & Transaction Costs"
+  },
+  "token-converter": {
+    "subcat": "gas-fees-transaction-costs",
+    "subcatName": "Gas Fees & Transaction Costs"
+  },
+  "crypto-portfolio-tracker": {
+    "subcat": "staking-yield-mining-returns",
+    "subcatName": "Staking, Yield & Mining Profit"
+  },
+  "blockchain-fee-compare": {
+    "subcat": "staking-yield-mining-returns",
+    "subcatName": "Staking, Yield & Mining Profit"
+  },
+  "crop-yield-estimator": {
+    "subcat": "crop-yield-seeding-rates",
+    "subcatName": "Crop Yield & Seeding Rates"
+  },
+  "fertilizer-calculator": {
+    "subcat": "fertilizer-npk-soil-amendments",
+    "subcatName": "Fertilizer, NPK & Soil Amendments"
+  },
+  "irrigation-planner": {
+    "subcat": "fertilizer-npk-soil-amendments",
+    "subcatName": "Fertilizer, NPK & Soil Amendments"
+  },
+  "seed-rate-calculator": {
+    "subcat": "crop-yield-seeding-rates",
+    "subcatName": "Crop Yield & Seeding Rates"
+  },
+  "livestock-feed-calculator": {
+    "subcat": "irrigation-livestock-feed",
+    "subcatName": "Irrigation & Livestock Feed"
+  },
+  "harvest-date-estimator": {
+    "subcat": "crop-yield-seeding-rates",
+    "subcatName": "Crop Yield & Seeding Rates"
+  },
+  "field-area-calculator": {
+    "subcat": "crop-yield-seeding-rates",
+    "subcatName": "Crop Yield & Seeding Rates"
+  },
+  "rainfall-irrigation-converter": {
+    "subcat": "irrigation-livestock-feed",
+    "subcatName": "Irrigation & Livestock Feed"
+  },
+  "soil-ph-guide": {
+    "subcat": "fertilizer-npk-soil-amendments",
+    "subcatName": "Fertilizer, NPK & Soil Amendments"
+  },
+  "weather-crop-advisor": {
+    "subcat": "crop-yield-seeding-rates",
+    "subcatName": "Crop Yield & Seeding Rates"
+  },
+  "bleed-calculator": {
+    "subcat": "resolution-dpi-scaling",
+    "subcatName": "DPI, Print Resolution & Aspect Ratio"
+  },
+  "paper-size-converter": {
+    "subcat": "paper-weight-ink-coverage",
+    "subcatName": "Paper Weight, Reams & Ink Coverage"
+  },
+  "print-cost-calculator": {
+    "subcat": "paper-weight-ink-coverage",
+    "subcatName": "Paper Weight, Reams & Ink Coverage"
+  },
+  "dpi-calculator": {
+    "subcat": "resolution-dpi-scaling",
+    "subcatName": "DPI, Print Resolution & Aspect Ratio"
+  },
+  "ink-coverage-estimator": {
+    "subcat": "paper-weight-ink-coverage",
+    "subcatName": "Paper Weight, Reams & Ink Coverage"
+  },
+  "spine-calculator": {
+    "subcat": "page-imposition-booklet-spine",
+    "subcatName": "Booklet Spine & Page Imposition"
+  },
+  "color-mode-info": {
+    "subcat": "paper-weight-ink-coverage",
+    "subcatName": "Paper Weight, Reams & Ink Coverage"
+  },
+  "imposition-calculator": {
+    "subcat": "page-imposition-booklet-spine",
+    "subcatName": "Booklet Spine & Page Imposition"
+  },
+  "print-file-checklist": {
+    "subcat": "paper-weight-ink-coverage",
+    "subcatName": "Paper Weight, Reams & Ink Coverage"
+  },
+  "binding-type-guide": {
+    "subcat": "paper-weight-ink-coverage",
+    "subcatName": "Paper Weight, Reams & Ink Coverage"
+  },
+  "medication-planner": {
+    "subcat": "medication-pill-scheduling",
+    "subcatName": "Medication Schedules & Pill Trackers"
+  },
+  "caregiver-planner": {
+    "subcat": "caregiver-shifts-support-planning",
+    "subcatName": "Caregiver Shifts & Support Planning"
+  },
+  "fall-risk-checklist": {
+    "subcat": "home-safety-fall-risk",
+    "subcatName": "Home Safety, Vital Signs & Fall Risk"
+  },
+  "emergency-card": {
+    "subcat": "caregiver-shifts-support-planning",
+    "subcatName": "Caregiver Shifts & Support Planning"
+  },
+  "daily-activity-log": {
+    "subcat": "home-safety-fall-risk",
+    "subcatName": "Home Safety, Vital Signs & Fall Risk"
+  },
+  "appointment-tracker": {
+    "subcat": "caregiver-shifts-support-planning",
+    "subcatName": "Caregiver Shifts & Support Planning"
+  },
+  "senior-nutrition": {
+    "subcat": "home-safety-fall-risk",
+    "subcatName": "Home Safety, Vital Signs & Fall Risk"
+  },
+  "mobility-exercises": {
+    "subcat": "home-safety-fall-risk",
+    "subcatName": "Home Safety, Vital Signs & Fall Risk"
+  },
+  "mobility-assessment": {
+    "subcat": "home-safety-fall-risk",
+    "subcatName": "Home Safety, Vital Signs & Fall Risk"
+  },
+  "memorial-planner": {
+    "subcat": "home-safety-fall-risk",
+    "subcatName": "Home Safety, Vital Signs & Fall Risk"
+  },
+  "volunteer-hours": {
+    "subcat": "volunteer-hours-shift-scheduling",
+    "subcatName": "Volunteer Hours & Shift Scheduling"
+  },
+  "donation-tax-calc": {
+    "subcat": "fundraising-campaign-donations",
+    "subcatName": "Fundraising Goals & Donor Tracking"
+  },
+  "fundraising-tracker": {
+    "subcat": "fundraising-campaign-donations",
+    "subcatName": "Fundraising Goals & Donor Tracking"
+  },
+  "grant-deadline-tracker": {
+    "subcat": "fundraising-campaign-donations",
+    "subcatName": "Fundraising Goals & Donor Tracking"
+  },
+  "volunteer-scheduler": {
+    "subcat": "volunteer-hours-shift-scheduling",
+    "subcatName": "Volunteer Hours & Shift Scheduling"
+  },
+  "impact-calculator": {
+    "subcat": "event-volunteer-coordination",
+    "subcatName": "Event Volunteers & Impact Metrics"
+  },
+  "thank-you-generator": {
+    "subcat": "fundraising-campaign-donations",
+    "subcatName": "Fundraising Goals & Donor Tracking"
+  },
+  "donation-receipt-gen": {
+    "subcat": "fundraising-campaign-donations",
+    "subcatName": "Fundraising Goals & Donor Tracking"
+  },
+  "ngo-budget-planner": {
+    "subcat": "fundraising-campaign-donations",
+    "subcatName": "Fundraising Goals & Donor Tracking"
+  }
+}

@@ -1,0 +1,343 @@
+
+/* ==========================================================================
+   Full-Stack SaaS Platform Additions (Auth, Dashboards, Admin & Monetization)
+   ========================================================================== */
+
+.nav-highlight {
+  font-weight: 600 !important;
+  color: var(--brand) !important;
+}
+.nav-highlight.admin {
+  color: var(--c-purple) !important;
+}
+
+.auth-card-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 65vh;
+  padding: 2rem 1rem;
+}
+
+.auth-card {
+  width: 100%;
+  max-width: 440px;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--r-xl);
+  padding: 2.2rem;
+  box-shadow: var(--shadow-lg);
+}
+
+.auth-header {
+  text-align: center;
+  margin-bottom: 1.6rem;
+}
+
+.auth-header h2 {
+  font-size: 1.6rem;
+  margin: 0.5rem 0 0.3rem 0;
+  font-family: var(--font-display);
+}
+
+.auth-header p {
+  color: var(--muted);
+  font-size: 0.92rem;
+  margin: 0;
+}
+
+.auth-badge {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.2rem 0.6rem;
+  border-radius: 99px;
+  background: rgba(var(--brand-rgb), 0.12);
+  color: var(--brand);
+}
+
+.auth-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.1rem;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  text-align: left;
+}
+
+.form-group label {
+  font-size: 0.86rem;
+  font-weight: 600;
+  color: var(--fg);
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+  width: 100%;
+  padding: 0.65rem 0.9rem;
+  border-radius: var(--r-sm);
+  border: 1px solid var(--line);
+  background: var(--bg-soft);
+  color: var(--fg);
+  font-family: inherit;
+  font-size: 0.92rem;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.form-group input:focus,
+.form-group select:focus,
+.form-group textarea:focus {
+  outline: none;
+  border-color: var(--brand);
+  box-shadow: var(--ring);
+}
+
+.alert-box {
+  padding: 0.8rem 1rem;
+  border-radius: var(--r-sm);
+  font-size: 0.88rem;
+  margin-bottom: 1rem;
+}
+
+.alert-box.error {
+  background: var(--bad-soft);
+  border: 1px solid var(--bad);
+  color: var(--bad);
+}
+
+.alert-box.success {
+  background: var(--ok-soft);
+  border: 1px solid var(--ok);
+  color: var(--ok);
+}
+
+.auth-demo-hint {
+  margin-top: 1.2rem;
+  padding: 0.75rem;
+  border-radius: var(--r-sm);
+  background: var(--bg-soft);
+  font-size: 0.8rem;
+  color: var(--muted);
+  border: 1px dashed var(--line-strong);
+}
+
+.auth-footer {
+  text-align: center;
+  margin-top: 1.4rem;
+  font-size: 0.88rem;
+  color: var(--muted);
+}
+
+.auth-footer a {
+  color: var(--brand);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+/* Dashboard Layout */
+.dashboard-layout {
+  padding: 1.5rem 0 3rem 0;
+}
+
+.dashboard-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1.2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 1.8rem;
+}
+
+.dashboard-tabs {
+  display: flex;
+  gap: 0.5rem;
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 1.5rem;
+  overflow-x: auto;
+}
+
+.dash-tab {
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  padding: 0.75rem 1.2rem;
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--muted);
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all 0.15s ease;
+}
+
+.dash-tab:hover {
+  color: var(--fg);
+}
+
+.dash-tab.active {
+  color: var(--brand);
+  border-bottom-color: var(--brand);
+}
+
+/* KPI Cards */
+.kpi-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.kpi-card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--r-lg);
+  padding: 1.4rem;
+  display: flex;
+  flex-direction: column;
+  box-shadow: var(--shadow-sm);
+}
+
+.kpi-label {
+  font-size: 0.85rem;
+  color: var(--muted);
+  font-weight: 600;
+}
+
+.kpi-value {
+  font-size: 2rem;
+  font-weight: 800;
+  font-family: var(--font-display);
+  margin: 0.3rem 0;
+  color: var(--fg);
+}
+
+.kpi-sub {
+  font-size: 0.78rem;
+  color: var(--muted-2);
+}
+
+/* SaaS Tables */
+.table-responsive {
+  width: 100%;
+  overflow-x: auto;
+  border-radius: var(--r);
+  border: 1px solid var(--line);
+  background: var(--card);
+}
+
+.saas-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+  font-size: 0.9rem;
+}
+
+.saas-table th {
+  background: var(--bg-soft);
+  padding: 0.85rem 1.1rem;
+  font-weight: 700;
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  border-bottom: 1px solid var(--line);
+}
+
+.saas-table td {
+  padding: 0.95rem 1.1rem;
+  border-bottom: 1px solid var(--line);
+  color: var(--fg);
+}
+
+.saas-table tr:last-child td {
+  border-bottom: none;
+}
+
+.empty-state-card {
+  text-align: center;
+  padding: 3.5rem 1.5rem;
+  background: var(--card);
+  border: 1px dashed var(--line-strong);
+  border-radius: var(--r-xl);
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.empty-state-card h3 {
+  margin: 0.5rem 0;
+}
+
+.empty-state-card p {
+  color: var(--muted);
+  max-width: 480px;
+  margin: 0 auto;
+  font-size: 0.92rem;
+}
+
+.saved-item-card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--r);
+  padding: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.saved-payload-box {
+  background: var(--bg-soft);
+  padding: 0.8rem;
+  border-radius: var(--r-sm);
+  font-size: 0.82rem;
+  overflow-x: auto;
+  margin-top: 0.8rem;
+  border: 1px solid var(--line);
+}
+
+.modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.65);
+  backdrop-filter: blur(4px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  padding: 1rem;
+}
+
+.modal-card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--r-xl);
+  padding: 2rem;
+  max-width: 540px;
+  width: 100%;
+  box-shadow: var(--shadow-lg);
+}
+
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Paid Tool Unlock Banner in ToolPage */
+.paid-tool-banner {
+  background: linear-gradient(135deg, rgba(var(--brand-rgb), 0.08), rgba(99, 102, 241, 0.12));
+  border: 1px solid rgba(var(--brand-rgb), 0.25);
+  border-radius: var(--r-lg);
+  padding: 1.4rem;
+  margin: 1.4rem 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1.2rem;
+}

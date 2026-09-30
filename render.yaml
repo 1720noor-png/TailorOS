@@ -1,0 +1,28 @@
+services:
+  - type: web
+    name: vimztools-api
+    env: docker
+    dockerfilePath: ./api/Dockerfile
+    dockerContext: ./api
+    plan: free
+    region: oregon
+    envVars:
+      - key: APP_NAME
+        value: VimzTools
+      - key: APP_ENV
+        value: production
+      - key: APP_DEBUG
+        value: false
+      - key: APP_URL
+        fromService:
+          type: web
+          name: vimztools-api
+          property: host
+      - key: SANCTUM_STATEFUL_DOMAINS
+        value: vimztools-app.netlify.app
+      - key: CORS_ALLOWED_ORIGINS
+        value: https://vimztools-app.netlify.app
+      - key: DB_CONNECTION
+        value: sqlite
+      - key: DB_DATABASE
+        value: /var/www/html/database/database.sqlite

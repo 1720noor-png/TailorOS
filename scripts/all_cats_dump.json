@@ -1,0 +1,1490 @@
+[
+  {
+    "slug": "career-tools",
+    "accent": "blue",
+    "short": "Career",
+    "name": "Career & Resume Tools",
+    "icon": "💼",
+    "desc": "Build resumes, generate cover letters, and prepare salary negotiation scripts.",
+    "subcategories": [
+      {
+        "slug": "resume-cv",
+        "name": "Resume & CV"
+      },
+      {
+        "slug": "job-applications",
+        "name": "Job Search & Applications"
+      },
+      {
+        "slug": "career-planning-prep",
+        "name": "Career Planning & Prep"
+      }
+    ]
+  },
+  {
+    "slug": "writing-tools",
+    "accent": "purple",
+    "short": "Writing",
+    "name": "Writing & Content Tools",
+    "icon": "✍️",
+    "desc": "Draft blog posts, write emails, check grammar, and summarize or paraphrase text.",
+    "subcategories": [
+      {
+        "slug": "writing-editing",
+        "name": "Writing & Editing"
+      },
+      {
+        "slug": "content-creation",
+        "name": "Content Creation"
+      },
+      {
+        "slug": "text-formatting-utilities",
+        "name": "Text & Formatting Utilities"
+      },
+      {
+        "slug": "style-readability",
+        "name": "Style & Readability"
+      }
+    ]
+  },
+  {
+    "slug": "pdf-tools",
+    "accent": "orange",
+    "short": "PDF",
+    "name": "PDF Document Tools",
+    "icon": "📄",
+    "desc": "Merge, compress, extract text, and convert PDF documents locally in browser.",
+    "subcategories": [
+      {
+        "slug": "pdf-management",
+        "name": "PDF Management"
+      },
+      {
+        "slug": "pdf-conversion-export",
+        "name": "PDF Conversion & Export"
+      },
+      {
+        "slug": "pdf-text-security",
+        "name": "PDF Text & Security"
+      }
+    ]
+  },
+  {
+    "slug": "image-tools",
+    "accent": "teal",
+    "short": "Image",
+    "name": "Image Processing Tools",
+    "icon": "🖼️",
+    "desc": "Remove backgrounds, convert image formats, extract text via OCR, and upscale resolution.",
+    "subcategories": [
+      {
+        "slug": "image-editing-effects",
+        "name": "Image Editing & Effects"
+      },
+      {
+        "slug": "image-conversion-format",
+        "name": "Image Conversion & Format"
+      },
+      {
+        "slug": "image-analysis-ocr",
+        "name": "Image Analysis & OCR"
+      }
+    ]
+  },
+  {
+    "slug": "media-tools",
+    "accent": "pink",
+    "short": "Media",
+    "name": "Audio & Speech Media Tools",
+    "icon": "🎙️",
+    "desc": "Text-to-speech audio reader and browser-based voice transcription.",
+    "subcategories": [
+      {
+        "slug": "audio-media-speech",
+        "name": "Audio & Speech Utilities"
+      },
+      {
+        "slug": "voice-transcription-media",
+        "name": "Voice & Transcription"
+      }
+    ]
+  },
+  {
+    "slug": "food-nutrition-tools",
+    "accent": "amber",
+    "short": "Food",
+    "name": "Food & Culinary Tools",
+    "icon": "🍲",
+    "desc": "Recipe ingredient matchers, weekly meal planners, and cookware guides.",
+    "subcategories": [
+      {
+        "slug": "cooking-recipes",
+        "name": "Cooking & Recipes"
+      },
+      {
+        "slug": "nutrition-meal-planning",
+        "name": "Nutrition & Meal Planning"
+      },
+      {
+        "slug": "kitchen-conversions-guides",
+        "name": "Kitchen & Beverage Utilities"
+      }
+    ]
+  },
+  {
+    "slug": "health-wellness-tools",
+    "accent": "green",
+    "short": "Health",
+    "name": "Health & Wellness Tools",
+    "icon": "🩺",
+    "desc": "BMI, body metrics, and personal health trackers.",
+    "subcategories": [
+      {
+        "slug": "body-metrics-health",
+        "name": "Body & Metabolic Metrics"
+      },
+      {
+        "slug": "wellness-routine-planning",
+        "name": "Wellness & Routine Planning"
+      },
+      {
+        "slug": "health-monitoring-tracking",
+        "name": "Health Monitoring & Assessment"
+      }
+    ]
+  },
+  {
+    "slug": "student-tools",
+    "accent": "indigo",
+    "short": "Student",
+    "name": "Student Tools",
+    "icon": "🎓",
+    "desc": "Grades, percentages and study calculators for coursework.",
+    "subcategories": [
+      {
+        "slug": "academic-grades-gpa",
+        "name": "Grades & Academic Standing"
+      },
+      {
+        "slug": "study-learning-management",
+        "name": "Study & Learning Management"
+      },
+      {
+        "slug": "assignments-writing-prep",
+        "name": "Assignments & Writing Prep"
+      },
+      {
+        "slug": "classroom-attendance-planning",
+        "name": "Attendance & Classroom Planning"
+      }
+    ]
+  },
+  {
+    "slug": "developer-tools",
+    "accent": "blue",
+    "short": "Developer",
+    "name": "Developer Tools",
+    "icon": "💻",
+    "desc": "Format, encode and inspect data while you build.",
+    "subcategories": [
+      {
+        "slug": "code-formatting-transform",
+        "name": "Code Formatting & Conversion"
+      },
+      {
+        "slug": "web-frontend-styling",
+        "name": "Web & CSS Styling"
+      },
+      {
+        "slug": "encoding-hashing-security",
+        "name": "Encoding, Hashing & Cryptography"
+      },
+      {
+        "slug": "network-api-data-inspection",
+        "name": "API, Network & Data Inspection"
+      },
+      {
+        "slug": "regex-text-developer-tools",
+        "name": "Regex & String Manipulation"
+      },
+      {
+        "slug": "data-generators-mocks",
+        "name": "Data Generators & Mocking"
+      }
+    ]
+  },
+  {
+    "slug": "office-tools",
+    "accent": "orange",
+    "short": "Office",
+    "name": "Office Tools",
+    "icon": "🏢",
+    "desc": "Everyday calculators and generators for work.",
+    "subcategories": [
+      {
+        "slug": "workplace-compensation-payroll",
+        "name": "Compensation & Payroll"
+      },
+      {
+        "slug": "business-communications-forms",
+        "name": "Business Communications & Forms"
+      },
+      {
+        "slug": "office-checklists-management",
+        "name": "Checklists & Project Admin"
+      },
+      {
+        "slug": "meeting-productivity-tools",
+        "name": "Meeting & Productivity Utilities"
+      }
+    ]
+  },
+  {
+    "slug": "marketing-tools",
+    "accent": "pink",
+    "short": "Marketing",
+    "name": "Marketing Tools",
+    "icon": "📣",
+    "desc": "Campaign tracking and SEO helpers that need no paid API.",
+    "subcategories": [
+      {
+        "slug": "seo-content-optimization",
+        "name": "SEO & Content Optimization"
+      },
+      {
+        "slug": "campaign-tracking-advertising",
+        "name": "Campaigns & Advertising"
+      },
+      {
+        "slug": "branding-social-marketing",
+        "name": "Branding & Social Copy"
+      }
+    ]
+  },
+  {
+    "slug": "productivity-tools",
+    "accent": "teal",
+    "short": "Productivity",
+    "name": "Productivity Tools",
+    "icon": "⏱️",
+    "desc": "Timers and planners to keep you focused.",
+    "subcategories": [
+      {
+        "slug": "time-focus-management",
+        "name": "Time & Focus Management"
+      },
+      {
+        "slug": "planning-goal-tracking",
+        "name": "Planning & Goal Tracking"
+      },
+      {
+        "slug": "workflow-randomizers-utilities",
+        "name": "Workflow Utilities & Randomizers"
+      }
+    ]
+  },
+  {
+    "slug": "shopping-tools",
+    "accent": "amber",
+    "short": "Shopping",
+    "name": "Shopping Tools",
+    "icon": "🛒",
+    "desc": "Work out what you really pay before you buy.",
+    "subcategories": [
+      {
+        "slug": "discounts-savings-calculators",
+        "name": "Discounts & Savings Calculators"
+      },
+      {
+        "slug": "tax-fees-shipping-costs",
+        "name": "Taxes, Fees & Shipping"
+      },
+      {
+        "slug": "budgeting-shopping-planners",
+        "name": "Budgeting & Value Comparison"
+      }
+    ]
+  },
+  {
+    "slug": "security-tools",
+    "accent": "green",
+    "short": "Security",
+    "name": "Security & Privacy Tools",
+    "icon": "🔒",
+    "desc": "Passwords and hashes generated locally in your browser.",
+    "subcategories": [
+      {
+        "slug": "password-credential-generators",
+        "name": "Passwords & Credentials"
+      },
+      {
+        "slug": "cryptographic-hashing-ciphers",
+        "name": "Hashing & Encryption"
+      },
+      {
+        "slug": "security-auditing-checks",
+        "name": "Security Auditing & Network Checks"
+      }
+    ]
+  },
+  {
+    "slug": "finance-tools",
+    "accent": "amber",
+    "short": "Finance",
+    "name": "Finance & Investment Tools",
+    "icon": "💰",
+    "desc": "Mortgage EMI, loan payoffs, compound growth, and SIP return calculators.",
+    "subcategories": [
+      {
+        "slug": "loan-debt",
+        "name": "Loan & Debt Calculators"
+      },
+      {
+        "slug": "investment-savings",
+        "name": "Investment & Savings Tools"
+      }
+    ]
+  },
+  {
+    "slug": "fitness-tools",
+    "accent": "green",
+    "short": "Fitness",
+    "name": "Fitness & Personal Health Tools",
+    "icon": "🏋️",
+    "desc": "BMR, TDEE, macronutrients, 1RM, and running pace calculators.",
+    "subcategories": [
+      {
+        "slug": "body-energy",
+        "name": "Body & Energy Metrics"
+      },
+      {
+        "slug": "workout-performance",
+        "name": "Workout & Performance Tools"
+      }
+    ]
+  },
+  {
+    "slug": "design-tools",
+    "accent": "purple",
+    "short": "Design",
+    "name": "Design & Typography Tools",
+    "icon": "🎨",
+    "desc": "Type scales, aspect ratios, box shadows, and CSS gradients.",
+    "subcategories": [
+      {
+        "slug": "typography-layout",
+        "name": "Typography & Layout"
+      },
+      {
+        "slug": "css-graphics",
+        "name": "CSS & Graphics"
+      }
+    ]
+  },
+  {
+    "slug": "math-unit-tools",
+    "accent": "blue",
+    "short": "Math & Unit",
+    "name": "Math & Unit Conversion Tools",
+    "icon": "📐",
+    "desc": "Physical units, data storage, geometry, and statistical analysis.",
+    "subcategories": [
+      {
+        "slug": "unit-converters",
+        "name": "Physical & Data Unit Converters"
+      },
+      {
+        "slug": "geometry-statistics",
+        "name": "Geometry & Statistics"
+      }
+    ]
+  },
+  {
+    "slug": "lifestyle-travel-tools",
+    "accent": "pink",
+    "short": "Lifestyle",
+    "name": "Lifestyle & Travel Tools",
+    "icon": "✈️",
+    "desc": "Travel packing lists, road trip fuel costs, reading time, and water hydration.",
+    "subcategories": [
+      {
+        "slug": "trip-travel",
+        "name": "Trip & Travel Planning"
+      },
+      {
+        "slug": "everyday-utilities",
+        "name": "Everyday Utilities"
+      }
+    ]
+  },
+  {
+    "slug": "communication-tools",
+    "accent": "teal",
+    "short": "Communication",
+    "name": "Communication Tools",
+    "icon": "💬",
+    "desc": "Message length analyzers, formatting tools, and conversation planners.",
+    "subcategories": [
+      {
+        "slug": "message-utilities",
+        "name": "Message Utilities"
+      },
+      {
+        "slug": "communication-planning",
+        "name": "Communication Planning"
+      }
+    ]
+  },
+  {
+    "slug": "audio-sound-tools",
+    "accent": "purple",
+    "short": "Audio & Sound",
+    "name": "Audio & Sound Tools",
+    "icon": "🔊",
+    "desc": "Audio duration, file size estimation, decibel references, and frequency converters.",
+    "subcategories": [
+      {
+        "slug": "audio-utilities",
+        "name": "Audio Utilities"
+      },
+      {
+        "slug": "sound-analysis",
+        "name": "Sound Analysis"
+      }
+    ]
+  },
+  {
+    "slug": "music-tools",
+    "accent": "purple",
+    "short": "Music",
+    "name": "Music Tools",
+    "icon": "🎵",
+    "desc": "BPM converters, note frequencies, chord progression generators, and web metronome.",
+    "subcategories": [
+      {
+        "slug": "music-theory",
+        "name": "Music Theory"
+      },
+      {
+        "slug": "practice-composition",
+        "name": "Practice & Composition"
+      }
+    ]
+  },
+  {
+    "slug": "pet-care-tools",
+    "accent": "pink",
+    "short": "Pet Care",
+    "name": "Pet Care Tools",
+    "icon": "🐾",
+    "desc": "Pet feeding schedules, expense trackers, human age converters, and medication planners.",
+    "subcategories": [
+      {
+        "slug": "pet-planning",
+        "name": "Pet Planning"
+      },
+      {
+        "slug": "pet-information",
+        "name": "Pet Information"
+      }
+    ]
+  },
+  {
+    "slug": "automotive-tools",
+    "accent": "orange",
+    "short": "Automotive",
+    "name": "Automotive Tools",
+    "icon": "🚗",
+    "desc": "Car depreciation, ownership costs, tire size comparison, and maintenance planners.",
+    "subcategories": [
+      {
+        "slug": "vehicle-costs",
+        "name": "Vehicle Costs"
+      },
+      {
+        "slug": "vehicle-planning",
+        "name": "Vehicle Planning"
+      }
+    ]
+  },
+  {
+    "slug": "accessibility-tools",
+    "accent": "teal",
+    "short": "Accessibility",
+    "name": "Accessibility Tools",
+    "icon": "♿",
+    "desc": "WCAG contrast checkers, color blindness simulators, font size & line spacing calculators.",
+    "subcategories": [
+      {
+        "slug": "visual-accessibility",
+        "name": "Visual Accessibility"
+      },
+      {
+        "slug": "text-accessibility",
+        "name": "Text Accessibility"
+      }
+    ]
+  },
+  {
+    "slug": "science-measurement-tools",
+    "accent": "indigo",
+    "short": "Science",
+    "name": "Science & Measurement Tools",
+    "icon": "🧪",
+    "desc": "Ohm's law, force, scientific notation, and significant figures calculators.",
+    "subcategories": [
+      {
+        "slug": "physics-utilities",
+        "name": "Physics Utilities"
+      },
+      {
+        "slug": "scientific-measurement",
+        "name": "Scientific Measurement"
+      }
+    ]
+  },
+  {
+    "slug": "astronomy-space-tools",
+    "accent": "indigo",
+    "short": "Astronomy",
+    "name": "Astronomy & Space Tools",
+    "icon": "🚀",
+    "desc": "Light-year converters, weight on planets, planetary size comparisons, and moon phase calculators.",
+    "subcategories": [
+      {
+        "slug": "space-calculators",
+        "name": "Space Calculators"
+      },
+      {
+        "slug": "astronomy-utilities",
+        "name": "Astronomy Utilities"
+      }
+    ]
+  },
+  {
+    "slug": "privacy-safety-tools",
+    "accent": "green",
+    "short": "Privacy & Safety",
+    "name": "Privacy & Digital Safety Tools",
+    "icon": "🛡️",
+    "desc": "Password entropy analyzers, personal data exposure checklists, and digital privacy audits.",
+    "subcategories": [
+      {
+        "slug": "privacy-utilities",
+        "name": "Privacy Utilities"
+      },
+      {
+        "slug": "digital-safety",
+        "name": "Digital Safety"
+      }
+    ]
+  },
+  {
+    "slug": "geography-maps-tools",
+    "accent": "blue",
+    "short": "Geography",
+    "name": "Geography & Maps Tools",
+    "icon": "🗺️",
+    "desc": "Lat/long converters, coordinate distance calculators, solar time calculators, and country area comparisons.",
+    "subcategories": [
+      {
+        "slug": "geographic-calculations",
+        "name": "Geographic Calculations"
+      },
+      {
+        "slug": "location-planning",
+        "name": "Location Planning"
+      }
+    ]
+  },
+  {
+    "slug": "gardening-tools",
+    "accent": "green",
+    "short": "Gardening",
+    "name": "Gardening Tools",
+    "icon": "🌱",
+    "desc": "Watering schedules, soil pH adjustment, seed starting dates, and garden bed layout planning.",
+    "subcategories": [
+      {
+        "slug": "plant-care",
+        "name": "Plant Care"
+      },
+      {
+        "slug": "garden-planning",
+        "name": "Garden Planning"
+      }
+    ]
+  },
+  {
+    "slug": "photography-tools",
+    "accent": "purple",
+    "short": "Photography",
+    "name": "Photography Tools",
+    "icon": "📷",
+    "desc": "Exposure triangle, depth of field, golden hour, and print size calculators.",
+    "subcategories": [
+      {
+        "slug": "camera-settings",
+        "name": "Camera Settings"
+      },
+      {
+        "slug": "photo-planning",
+        "name": "Photo Planning"
+      }
+    ]
+  },
+  {
+    "slug": "home-maintenance-tools",
+    "accent": "orange",
+    "short": "Home Maintenance",
+    "name": "Home Maintenance Tools",
+    "icon": "🏠",
+    "desc": "Paint coverage, wallpaper, HVAC filter reminders, and seasonal maintenance checklists.",
+    "subcategories": [
+      {
+        "slug": "home-projects",
+        "name": "Home Projects"
+      },
+      {
+        "slug": "maintenance-schedules",
+        "name": "Maintenance Schedules"
+      }
+    ]
+  },
+  {
+    "slug": "electronics-tools",
+    "accent": "blue",
+    "short": "Electronics",
+    "name": "Electronics Tools",
+    "icon": "🔌",
+    "desc": "Resistor color codes, voltage dividers, battery life, and wire gauge calculators.",
+    "subcategories": [
+      {
+        "slug": "circuit-calculators",
+        "name": "Circuit Calculators"
+      },
+      {
+        "slug": "battery-power",
+        "name": "Battery & Power"
+      }
+    ]
+  },
+  {
+    "slug": "parenting-tools",
+    "accent": "pink",
+    "short": "Parenting",
+    "name": "Parenting Tools",
+    "icon": "👶",
+    "desc": "Feeding schedules, due date estimates, growth rate tracking, and screen time tracking.",
+    "subcategories": [
+      {
+        "slug": "baby-planning",
+        "name": "Baby Planning"
+      },
+      {
+        "slug": "child-development",
+        "name": "Child Development"
+      }
+    ]
+  },
+  {
+    "slug": "events-tools",
+    "accent": "amber",
+    "short": "Events",
+    "name": "Event Planning Tools",
+    "icon": "🎉",
+    "desc": "Party budgets, catering quantities, RSVP tracking, and seating chart planning.",
+    "subcategories": [
+      {
+        "slug": "party-planning",
+        "name": "Party Planning"
+      },
+      {
+        "slug": "guest-management",
+        "name": "Guest Management"
+      }
+    ]
+  },
+  {
+    "slug": "sewing-crafts-tools",
+    "accent": "pink",
+    "short": "Sewing & Crafts",
+    "name": "Sewing & Crafts Tools",
+    "icon": "🧵",
+    "desc": "Fabric yardage, seam allowance, yarn requirements, and craft project cost calculators.",
+    "subcategories": [
+      {
+        "slug": "fabric-measurement",
+        "name": "Fabric Measurement"
+      },
+      {
+        "slug": "craft-planning",
+        "name": "Craft Planning"
+      }
+    ]
+  },
+  {
+    "slug": "sports-tools",
+    "accent": "green",
+    "short": "Sports",
+    "name": "Sports Tools",
+    "icon": "⚽",
+    "desc": "Shooting percentage tracking, roster rotation planning, bracket generation, and fantasy points.",
+    "subcategories": [
+      {
+        "slug": "performance-tracking",
+        "name": "Performance Tracking"
+      },
+      {
+        "slug": "game-planning",
+        "name": "Game Planning"
+      }
+    ]
+  },
+  {
+    "slug": "weather-tools",
+    "accent": "blue",
+    "short": "Weather",
+    "name": "Weather Tools",
+    "icon": "🌦️",
+    "desc": "Wind chill, heat index, dew point, and rainwater collection calculators.",
+    "subcategories": [
+      {
+        "slug": "weather-planning",
+        "name": "Weather Planning"
+      },
+      {
+        "slug": "climate-utilities",
+        "name": "Climate Utilities"
+      }
+    ]
+  },
+  {
+    "slug": "construction-tools",
+    "accent": "orange",
+    "short": "Construction",
+    "name": "Construction Tools",
+    "icon": "🏗️",
+    "desc": "Concrete volume, lumber board feet, roofing squares, and drywall sheet calculators.",
+    "subcategories": [
+      {
+        "slug": "material-estimation",
+        "name": "Material Estimation"
+      },
+      {
+        "slug": "project-calculations",
+        "name": "Project Calculations"
+      }
+    ]
+  },
+  {
+    "slug": "interior-design-tools",
+    "accent": "pink",
+    "short": "Interior Design",
+    "name": "Interior Design Tools",
+    "icon": "🛋️",
+    "desc": "Furniture layout planning, flooring, rug sizing, and curtain fabric calculators.",
+    "subcategories": [
+      {
+        "slug": "room-planning",
+        "name": "Room Planning"
+      },
+      {
+        "slug": "furniture-fitting",
+        "name": "Furniture Fitting"
+      }
+    ]
+  },
+  {
+    "slug": "business-tools",
+    "accent": "indigo",
+    "short": "Business",
+    "name": "Business Operations Tools",
+    "icon": "💼",
+    "desc": "Break-even point, profit margin, inventory reorder point, and staff scheduling coverage.",
+    "subcategories": [
+      {
+        "slug": "pricing-costing",
+        "name": "Pricing & Costing"
+      },
+      {
+        "slug": "operations-planning",
+        "name": "Operations Planning"
+      }
+    ]
+  },
+  {
+    "slug": "organization-tools",
+    "accent": "teal",
+    "short": "Organization",
+    "name": "Personal Organization Tools",
+    "icon": "🗂️",
+    "desc": "Closet decluttering, moving box inventory, file naming, and digital photo organization.",
+    "subcategories": [
+      {
+        "slug": "home-organization",
+        "name": "Home Organization"
+      },
+      {
+        "slug": "digital-organization",
+        "name": "Digital Organization"
+      }
+    ]
+  },
+  {
+    "slug": "household-tools",
+    "accent": "amber",
+    "short": "Household",
+    "name": "Household Utilities Tools",
+    "icon": "🧹",
+    "desc": "Cleaning schedule rotation, laundry load sizing, home inventory, and pantry stock tracking.",
+    "subcategories": [
+      {
+        "slug": "cleaning-schedules",
+        "name": "Cleaning Schedules"
+      },
+      {
+        "slug": "home-inventory",
+        "name": "Home Inventory"
+      }
+    ]
+  },
+  {
+    "slug": "language-tools",
+    "accent": "purple",
+    "short": "Language Learning",
+    "name": "Language Learning Tools",
+    "icon": "🗣️",
+    "desc": "Vocabulary growth tracking, flashcard review intervals, study streaks, and immersion hour goals.",
+    "subcategories": [
+      {
+        "slug": "vocabulary-building",
+        "name": "Vocabulary Building"
+      },
+      {
+        "slug": "study-tracking",
+        "name": "Study Tracking"
+      }
+    ]
+  },
+  {
+    "slug": "outdoor-tools",
+    "accent": "green",
+    "short": "Outdoor & Camping",
+    "name": "Outdoor & Camping Tools",
+    "icon": "🏕️",
+    "desc": "Camping food quantities, tent capacity, backpack weight, and campfire wood calculators.",
+    "subcategories": [
+      {
+        "slug": "trip-prep",
+        "name": "Trip Prep"
+      },
+      {
+        "slug": "gear-planning",
+        "name": "Gear Planning"
+      }
+    ]
+  },
+  {
+    "slug": "real-estate-tools",
+    "accent": "indigo",
+    "short": "Real Estate",
+    "name": "Real Estate Investment Tools",
+    "icon": "🏘️",
+    "desc": "Cap rate, cash-on-cash return, rent vs buy, cash flow, closing costs, and home equity calculators.",
+    "subcategories": [
+      {
+        "slug": "property-valuation-roi",
+        "name": "Property Valuation & ROI"
+      },
+      {
+        "slug": "rental-cashflow-landlord",
+        "name": "Rental Cash Flow & Landlord Tools"
+      },
+      {
+        "slug": "mortgage-financing-equity",
+        "name": "Mortgage, Equity & Closing Costs"
+      }
+    ]
+  },
+  {
+    "slug": "insurance-tools",
+    "accent": "blue",
+    "short": "Insurance",
+    "name": "Insurance Tools",
+    "icon": "🛡️",
+    "desc": "Life insurance needs, coverage gaps, deductible tracking, HSA limits, and policy renewal reminders.",
+    "subcategories": [
+      {
+        "slug": "life-health-disability-needs",
+        "name": "Life & Disability Needs"
+      },
+      {
+        "slug": "property-auto-coverage",
+        "name": "Auto & Property Coverage"
+      },
+      {
+        "slug": "deductibles-costs-planning",
+        "name": "Deductibles & Policy Planning"
+      }
+    ]
+  },
+  {
+    "slug": "retirement-planning-tools",
+    "accent": "teal",
+    "short": "Retirement Planning",
+    "name": "Retirement Planning Tools",
+    "icon": "🏖️",
+    "desc": "Social Security estimates, 401(k) match, RMDs, Coast FIRE, and retirement healthcare cost tools.",
+    "subcategories": [
+      {
+        "slug": "retirement-milestones-fire",
+        "name": "FIRE & Retirement Milestones"
+      },
+      {
+        "slug": "social-security-pension-benefits",
+        "name": "Social Security & Pensions"
+      },
+      {
+        "slug": "savings-401k-contributions",
+        "name": "401(k), IRA & Contributions"
+      },
+      {
+        "slug": "drawdown-rmd-healthcare",
+        "name": "Drawdown, RMD & Healthcare"
+      }
+    ]
+  },
+  {
+    "slug": "education-tools",
+    "accent": "indigo",
+    "short": "Education",
+    "name": "Education & Teaching Tools",
+    "icon": "📚",
+    "desc": "Lesson planning, grading, and classroom management.",
+    "subcategories": [
+      {
+        "slug": "grading-curriculum-planning",
+        "name": "Grading & Lesson Planning"
+      },
+      {
+        "slug": "classroom-management-attendance",
+        "name": "Classroom & Student Management"
+      },
+      {
+        "slug": "academic-study-aids",
+        "name": "Academic & Learning Utilities"
+      }
+    ]
+  },
+  {
+    "slug": "legal-tools",
+    "accent": "blue",
+    "short": "Legal",
+    "name": "Legal & Compliance Tools",
+    "icon": "⚖️",
+    "desc": "NDA generators, contract checklists, and compliance tools.",
+    "subcategories": [
+      {
+        "slug": "contract-document-templates",
+        "name": "Agreements & Document Templates"
+      },
+      {
+        "slug": "compliance-audit-checklists",
+        "name": "Compliance & Legal Auditing"
+      },
+      {
+        "slug": "legal-fee-settlement-calculators",
+        "name": "Fees, Billing & Settlement"
+      }
+    ]
+  },
+  {
+    "slug": "freelance-tools",
+    "accent": "orange",
+    "short": "Freelance",
+    "name": "Freelance & Gig Tools",
+    "icon": "💼",
+    "desc": "Project pricing, invoicing, and client management.",
+    "subcategories": [
+      {
+        "slug": "pricing-hourly-rates",
+        "name": "Pricing & Rate Calculation"
+      },
+      {
+        "slug": "invoicing-payment-contracts",
+        "name": "Invoicing & Client Contracts"
+      },
+      {
+        "slug": "freelance-tax-finances",
+        "name": "Taxes & Financial Management"
+      }
+    ]
+  },
+  {
+    "slug": "social-media-tools",
+    "accent": "pink",
+    "short": "Social Media",
+    "name": "Social Media Tools",
+    "icon": "📱",
+    "desc": "Engagement calculators, bio generators, and content planning.",
+    "subcategories": [
+      {
+        "slug": "bio-profile-optimization",
+        "name": "Bio & Profile Optimization"
+      },
+      {
+        "slug": "captions-hashtag-generation",
+        "name": "Captions & Hashtags"
+      },
+      {
+        "slug": "engagement-metrics-analytics",
+        "name": "Engagement & Metrics Analytics"
+      },
+      {
+        "slug": "content-scheduling-planners",
+        "name": "Content Strategy & Calendars"
+      }
+    ]
+  },
+  {
+    "slug": "data-tools",
+    "accent": "teal",
+    "short": "Data",
+    "name": "Data & Analytics Tools",
+    "icon": "📊",
+    "desc": "Statistical tests, data analysis, and visualization.",
+    "subcategories": [
+      {
+        "slug": "data-cleansing-transformation",
+        "name": "Data Cleansing & Transformation"
+      },
+      {
+        "slug": "statistics-correlation-analysis",
+        "name": "Statistical & Correlation Analysis"
+      },
+      {
+        "slug": "data-sampling-randomization",
+        "name": "Sampling, Testing & Summary"
+      }
+    ]
+  },
+  {
+    "slug": "ecommerce-tools",
+    "accent": "amber",
+    "short": "E-Commerce",
+    "name": "E-Commerce Tools",
+    "icon": "🛍️",
+    "desc": "Pricing, shipping, inventory, and sales tools.",
+    "subcategories": [
+      {
+        "slug": "product-pricing-profitability",
+        "name": "Pricing, Margin & Profitability"
+      },
+      {
+        "slug": "order-shipping-fulfillment",
+        "name": "Shipping, Fees & Break-Even"
+      },
+      {
+        "slug": "inventory-store-operations",
+        "name": "Inventory & Store Operations"
+      }
+    ]
+  },
+  {
+    "slug": "sustainability-tools",
+    "accent": "green",
+    "short": "Sustainability",
+    "name": "Sustainability & Eco Tools",
+    "icon": "🌍",
+    "desc": "Carbon footprint, energy audit, and eco calculators.",
+    "subcategories": [
+      {
+        "slug": "carbon-energy-footprint",
+        "name": "Carbon & Energy Footprint"
+      },
+      {
+        "slug": "waste-water-conservation",
+        "name": "Water & Resource Conservation"
+      },
+      {
+        "slug": "eco-lifestyle-offsets",
+        "name": "Eco Living & Offsets"
+      }
+    ]
+  },
+  {
+    "slug": "presentation-tools",
+    "accent": "purple",
+    "short": "Presentations",
+    "name": "Presentation Tools",
+    "icon": "🎤",
+    "desc": "Slide planning, speech timing, and presentation aids.",
+    "subcategories": [
+      {
+        "slug": "speech-timing-pacing",
+        "name": "Speech Timing & Pacing"
+      },
+      {
+        "slug": "slide-structure-planning",
+        "name": "Slide & Content Structure"
+      },
+      {
+        "slug": "presentation-design-qa",
+        "name": "Visual Layout & Q&A Prep"
+      }
+    ]
+  },
+  {
+    "slug": "networking-tools",
+    "accent": "blue",
+    "short": "Networking",
+    "name": "IT & Networking Tools",
+    "icon": "🌐",
+    "desc": "Subnet calculators, bandwidth tools, and network planning.",
+    "subcategories": [
+      {
+        "slug": "ip-subnetting-addressing",
+        "name": "IP Subnetting & Addressing"
+      },
+      {
+        "slug": "bandwidth-latency-transfer",
+        "name": "Bandwidth & Data Transfer"
+      },
+      {
+        "slug": "ports-dns-network-diagnostics",
+        "name": "Ports, DNS & Diagnostics"
+      }
+    ]
+  },
+  {
+    "slug": "typography-tools",
+    "accent": "purple",
+    "short": "Typography",
+    "name": "Typography & Font Tools",
+    "icon": "🔤",
+    "desc": "Font pairing, spacing, and typographic scales.",
+    "subcategories": [
+      {
+        "slug": "font-sizing-type-scale",
+        "name": "Type Scales & Modular Sizing"
+      },
+      {
+        "slug": "font-pairing-selection",
+        "name": "Font Pairing & Character Inspection"
+      },
+      {
+        "slug": "line-height-paragraph-spacing",
+        "name": "Paragraph & Vertical Spacing"
+      }
+    ]
+  },
+  {
+    "slug": "baking-tools",
+    "accent": "amber",
+    "short": "Baking",
+    "name": "Baking & Pastry Tools",
+    "icon": "🧁",
+    "desc": "Recipe scaling, oven conversion, and baking aids.",
+    "subcategories": [
+      {
+        "slug": "recipe-scaling-bakers-math",
+        "name": "Baker's Percentages & Yield"
+      },
+      {
+        "slug": "pan-size-oven-conversions",
+        "name": "Pan Size & Oven Temperature"
+      },
+      {
+        "slug": "ingredient-weight-substitutions",
+        "name": "Ingredient Weights & Yeast Proofing"
+      }
+    ]
+  },
+  {
+    "slug": "moving-relocation-tools",
+    "accent": "orange",
+    "short": "Moving",
+    "name": "Moving & Relocation Tools",
+    "icon": "🚚",
+    "desc": "Moving costs, checklists, and relocation planning.",
+    "subcategories": [
+      {
+        "slug": "moving-cost-estimation",
+        "name": "Cost Estimation & Moving Budgets"
+      },
+      {
+        "slug": "packing-supplies-inventory",
+        "name": "Packing Supplies & Box Counts"
+      },
+      {
+        "slug": "relocation-checklists-planning",
+        "name": "Relocation Timelines & Change of Address"
+      }
+    ]
+  },
+  {
+    "slug": "mental-health-tools",
+    "accent": "teal",
+    "short": "Mental Health",
+    "name": "Mental Health & Wellness Tools",
+    "icon": "🧠",
+    "desc": "Mood tracking, breathing exercises, and mindfulness.",
+    "subcategories": [
+      {
+        "slug": "mindfulness-breathing-exercises",
+        "name": "Mindfulness & Breathing Exercises"
+      },
+      {
+        "slug": "mood-emotional-tracking",
+        "name": "Mood & Emotional Tracking"
+      },
+      {
+        "slug": "stress-anxiety-management",
+        "name": "Stress & Habit Management"
+      }
+    ]
+  },
+  {
+    "slug": "wedding-tools",
+    "accent": "pink",
+    "short": "Wedding",
+    "name": "Wedding Planning Tools",
+    "icon": "💒",
+    "desc": "Wedding budgets, guest lists, and timeline planning.",
+    "subcategories": [
+      {
+        "slug": "wedding-budgeting-breakdown",
+        "name": "Wedding Budget & Cost Breakdown"
+      },
+      {
+        "slug": "guest-list-table-seating",
+        "name": "Guest Lists & Table Layouts"
+      },
+      {
+        "slug": "vendor-timeline-planning",
+        "name": "Timeline, Vows & Vendor Planning"
+      }
+    ]
+  },
+  {
+    "slug": "diy-tools",
+    "accent": "orange",
+    "short": "DIY",
+    "name": "DIY & Maker Tools",
+    "icon": "🔨",
+    "desc": "Project planning, material calculators, and references.",
+    "subcategories": [
+      {
+        "slug": "diy-material-quantities",
+        "name": "Material Quantity & Surface Calculators"
+      },
+      {
+        "slug": "workshop-angles-fasteners",
+        "name": "Angles, Miters & Fasteners"
+      },
+      {
+        "slug": "paint-finish-project-planning",
+        "name": "Finishes, Lumber & Project Budgets"
+      }
+    ]
+  },
+  {
+    "slug": "gaming-tools",
+    "accent": "purple",
+    "short": "Gaming",
+    "name": "Gaming & Tabletop Tools",
+    "icon": "🎮",
+    "desc": "Dice rollers, character generators, and score trackers.",
+    "subcategories": [
+      {
+        "slug": "dice-randomizers-probability",
+        "name": "Dice Rolling & Probability"
+      },
+      {
+        "slug": "ttrpg-character-combat",
+        "name": "TTRPG Character & Combat Trackers"
+      },
+      {
+        "slug": "boardgame-scorekeeping-tournaments",
+        "name": "Scorekeeping, Timers & Tournaments"
+      }
+    ]
+  },
+  {
+    "slug": "travel-planning-tools",
+    "accent": "teal",
+    "short": "Travel Planning",
+    "name": "Travel Planning Tools",
+    "icon": "🗺️",
+    "desc": "Trip budgets, packing lists, and timezone planning.",
+    "subcategories": [
+      {
+        "slug": "itinerary-trip-budgets",
+        "name": "Itinerary & Daily Travel Budgets"
+      },
+      {
+        "slug": "packing-clothing-lists",
+        "name": "Packing Lists & Weather Prep"
+      },
+      {
+        "slug": "timezone-currency-flight-planning",
+        "name": "Timezones, Currency & Flight Prep"
+      }
+    ]
+  },
+  {
+    "slug": "chemistry-tools",
+    "accent": "green",
+    "short": "Chemistry",
+    "name": "Chemistry Tools",
+    "icon": "⚗️",
+    "desc": "Molar mass, dilution, and gas law calculators.",
+    "subcategories": [
+      {
+        "slug": "molecular-molar-calculations",
+        "name": "Molar Mass & Stoichiometry"
+      },
+      {
+        "slug": "solution-dilution-molarity",
+        "name": "Solutions, Dilutions & Molarity"
+      },
+      {
+        "slug": "gas-laws-thermodynamics",
+        "name": "Gas Laws & Thermodynamics"
+      }
+    ]
+  },
+  {
+    "slug": "hr-tools",
+    "accent": "blue",
+    "short": "HR",
+    "name": "Human Resources Tools",
+    "icon": "👥",
+    "desc": "Interview scorecards, PTO tracking, and hiring tools.",
+    "subcategories": [
+      {
+        "slug": "recruitment-interview-scorecards",
+        "name": "Recruitment & Interview Scorecards"
+      },
+      {
+        "slug": "pto-leave-attendance-management",
+        "name": "PTO, Leave & Attendance"
+      },
+      {
+        "slug": "compensation-turnover-analytics",
+        "name": "Compensation, Retention & Cost per Hire"
+      }
+    ]
+  },
+  {
+    "slug": "crypto-blockchain-tools",
+    "accent": "indigo",
+    "short": "Crypto",
+    "name": "Crypto & Blockchain Tools",
+    "icon": "₿",
+    "desc": "Staking calculators, gas estimators, and wallet validators.",
+    "subcategories": [
+      {
+        "slug": "staking-yield-mining-returns",
+        "name": "Staking, Yield & Mining Profit"
+      },
+      {
+        "slug": "gas-fees-transaction-costs",
+        "name": "Gas Fees & Transaction Costs"
+      },
+      {
+        "slug": "dca-portfolio-impermanent-loss",
+        "name": "DCA & Impermanent Loss Calculators"
+      }
+    ]
+  },
+  {
+    "slug": "agriculture-tools",
+    "accent": "green",
+    "short": "Agriculture",
+    "name": "Agriculture & Farming Tools",
+    "icon": "🌾",
+    "desc": "Crop yield, fertilizer, and irrigation calculators.",
+    "subcategories": [
+      {
+        "slug": "crop-yield-seeding-rates",
+        "name": "Crop Yield & Seeding Rates"
+      },
+      {
+        "slug": "fertilizer-npk-soil-amendments",
+        "name": "Fertilizer, NPK & Soil Amendments"
+      },
+      {
+        "slug": "irrigation-livestock-feed",
+        "name": "Irrigation & Livestock Feed"
+      }
+    ]
+  },
+  {
+    "slug": "printing-tools",
+    "accent": "orange",
+    "short": "Printing",
+    "name": "Printing & Publishing Tools",
+    "icon": "🖨️",
+    "desc": "Bleed, DPI, and print cost calculators.",
+    "subcategories": [
+      {
+        "slug": "resolution-dpi-scaling",
+        "name": "DPI, Print Resolution & Aspect Ratio"
+      },
+      {
+        "slug": "page-imposition-booklet-spine",
+        "name": "Booklet Spine & Page Imposition"
+      },
+      {
+        "slug": "paper-weight-ink-coverage",
+        "name": "Paper Weight, Reams & Ink Coverage"
+      }
+    ]
+  },
+  {
+    "slug": "elderly-care-tools",
+    "accent": "teal",
+    "short": "Elder Care",
+    "name": "Elderly Care Tools",
+    "icon": "🏥",
+    "desc": "Medication scheduling, caregiver planning, and health monitoring.",
+    "subcategories": [
+      {
+        "slug": "medication-pill-scheduling",
+        "name": "Medication Schedules & Pill Trackers"
+      },
+      {
+        "slug": "caregiver-shifts-support-planning",
+        "name": "Caregiver Shifts & Support Planning"
+      },
+      {
+        "slug": "home-safety-fall-risk",
+        "name": "Home Safety, Vital Signs & Fall Risk"
+      }
+    ]
+  },
+  {
+    "slug": "volunteer-tools",
+    "accent": "green",
+    "short": "Volunteering",
+    "name": "Volunteering & Nonprofit Tools",
+    "icon": "🤝",
+    "desc": "Volunteer tracking, fundraising, and donor management.",
+    "subcategories": [
+      {
+        "slug": "volunteer-hours-shift-scheduling",
+        "name": "Volunteer Hours & Shift Scheduling"
+      },
+      {
+        "slug": "fundraising-campaign-donations",
+        "name": "Fundraising Goals & Donor Tracking"
+      },
+      {
+        "slug": "event-volunteer-coordination",
+        "name": "Event Volunteers & Impact Metrics"
+      }
+    ]
+  }
+]

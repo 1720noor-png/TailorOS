@@ -1,0 +1,3900 @@
+{
+  "targetCategories": [
+    {
+      "name": "Career & Resume Tools",
+      "slug": "career-tools",
+      "tools": [
+        {
+          "name": "Cover Letter Generator",
+          "slug": "cover-letter-generator",
+          "desc": "Generate customized professional cover letters tailored to your target job title and experience.",
+          "why": "Saves time writing cover letters from scratch for job applications."
+        },
+        {
+          "name": "Resume Builder",
+          "slug": "resume-builder",
+          "desc": "Build clean, modern resumes with sections for education, work experience, and skills.",
+          "why": "Format your resume nicely without dealing with word processor alignment issues."
+        },
+        {
+          "name": "Salary Negotiation Script Generator",
+          "slug": "salary-negotiation-coach",
+          "desc": "Generate professional scripts for salary negotiation emails and discussions.",
+          "why": "Provides polite, persuasive phrasing for requesting higher compensation."
+        },
+        {
+          "name": "Salary Negotiation Prep",
+          "slug": "salary-negotiation-prep",
+          "desc": "Salary Negotiation Prep",
+          "why": "Useful tool."
+        },
+        {
+          "name": "Resume Keyword Checker",
+          "slug": "resume-keyword-checker",
+          "desc": "Resume Keyword Checker",
+          "why": "Useful tool."
+        },
+        {
+          "name": "Interview Prep Generator",
+          "slug": "interview-prep-gen",
+          "desc": "Interview Prep Generator",
+          "why": "Useful tool."
+        },
+        {
+          "name": "LinkedIn Headline Generator",
+          "slug": "linkedin-headline-gen",
+          "desc": "LinkedIn Headline Generator",
+          "why": "Useful tool."
+        },
+        {
+          "name": "Work Reference Template",
+          "slug": "work-reference-template",
+          "desc": "Work Reference Template",
+          "why": "Useful tool."
+        }
+      ]
+    },
+    {
+      "name": "Writing & Content Tools",
+      "slug": "writing-tools",
+      "tools": [
+        {
+          "name": "Blog Post & Article Writer",
+          "slug": "blog-post-article-writer",
+          "desc": "Draft structured blog articles with introduction, headings, body paragraphs, and conclusion.",
+          "why": "Overcomes writer's block by outlining structured articles quickly."
+        },
+        {
+          "name": "Professional Email Writer",
+          "slug": "professional-email-writer",
+          "desc": "Write polished professional emails for work, follow-ups, requests, and formal letters.",
+          "why": "Draft clear, courteous business emails in seconds."
+        },
+        {
+          "name": "English Grammar & Spelling Checker",
+          "slug": "english-grammar-spelling-checker",
+          "desc": "Detect common typos, grammatical errors, and spelling mistakes in English text.",
+          "why": "Proofread essays and messages before sending."
+        },
+        {
+          "name": "Sentence & Paragraph Paraphraser",
+          "slug": "sentence-text-paraphraser",
+          "desc": "Reword sentences and paragraphs with synonym replacement and vocabulary variation.",
+          "why": "Rephrase repetitive wording to improve writing flow."
+        },
+        {
+          "name": "Text & Paragraph Summarizer",
+          "slug": "text-paragraph-summarizer",
+          "desc": "Compress long articles and paragraphs into key bullet points and sentence summaries.",
+          "why": "Quickly digest lengthy articles and essays."
+        },
+        {
+          "name": "Text & Phrase Language Translator",
+          "slug": "text-language-translator",
+          "desc": "Translate sentences and phrases across multiple languages with instant dictionary lookup.",
+          "why": "Translate text without leaving the platform."
+        },
+        {
+          "name": "Text Case Converter & Formatting Tool",
+          "slug": "text-case-converter-tool",
+          "desc": "Convert text between UPPERCASE, lowercase, Title Case, Sentence case, camelCase, snake_case, and kebab-case.",
+          "why": "Reformat text strings instantly for programming, headlines, or document editing."
+        },
+        {
+          "name": "Word Frequency & Keyword Density Analyzer",
+          "slug": "word-frequency-density-analyzer",
+          "desc": "Analyze text for total word count, unique words, top recurring keywords, and percentage keyword density.",
+          "why": "Useful for SEO content optimization and writing readability analysis."
+        },
+        {
+          "name": "Headline Analyzer",
+          "slug": "headline-analyzer",
+          "desc": "Score headlines for impact.",
+          "why": "More compelling headlines."
+        },
+        {
+          "name": "Passive Voice Detector",
+          "slug": "passive-voice-detector",
+          "desc": "Identify passive voice in text.",
+          "why": "Strengthens writing style."
+        },
+        {
+          "name": "Acronym Generator",
+          "slug": "acronym-generator",
+          "desc": "Generate acronyms from phrases.",
+          "why": "Creates memorable abbreviations."
+        },
+        {
+          "name": "Find & Replace in Text",
+          "slug": "word-replacer",
+          "desc": "Find and replace in text.",
+          "why": "Batch-replaces terms quickly."
+        },
+        {
+          "name": "Sentence Length Analyzer",
+          "slug": "sentence-analyzer",
+          "desc": "Analyze sentence length distribution.",
+          "why": "Improves readability."
+        },
+        {
+          "name": "Cliché Detector",
+          "slug": "cliche-detector",
+          "desc": "Scan for overused expressions.",
+          "why": "Strengthens writing."
+        },
+        {
+          "name": "Writing Prompt Generator",
+          "slug": "writing-prompt-gen",
+          "desc": "Generate creative writing prompts.",
+          "why": "Overcomes writer block."
+        },
+        {
+          "name": "Reading Time Calculator",
+          "slug": "reading-time-calc",
+          "desc": "Estimate article reading time.",
+          "why": "Sets reader expectations."
+        },
+        {
+          "name": "Title Case Converter",
+          "slug": "title-case-conv",
+          "desc": "Convert to AP/Chicago title case.",
+          "why": "Correct title capitalization."
+        },
+        {
+          "name": "Adverb Usage Counter",
+          "slug": "adverb-counter",
+          "desc": "Count and highlight adverbs.",
+          "why": "Reduces adverb overuse."
+        },
+        {
+          "name": "Transition Word Suggester",
+          "slug": "transition-suggester",
+          "desc": "Suggest transition phrases.",
+          "why": "Improves essay flow."
+        },
+        {
+          "name": "Alliteration Finder",
+          "slug": "alliteration-finder"
+        },
+        {
+          "name": "Paragraph Counter",
+          "slug": "paragraph-counter"
+        },
+        {
+          "name": "Dialogue Formatter",
+          "slug": "dialogue-formatter"
+        },
+        {
+          "name": "Word Repetition Finder",
+          "slug": "repetition-finder"
+        },
+        {
+          "name": "Text Reverser",
+          "slug": "text-reverser"
+        },
+        {
+          "name": "Character Counter",
+          "slug": "character-counter"
+        }
+      ]
+    },
+    {
+      "name": "PDF Document Tools",
+      "slug": "pdf-tools",
+      "tools": [
+        {
+          "name": "Ask PDF Document Q&A",
+          "slug": "ask-pdf-document-qa",
+          "desc": "Query and search inside PDF document text for specific answers and quotes.",
+          "why": "Instantly find relevant details inside long PDF files."
+        },
+        {
+          "name": "PDF File Size Compressor",
+          "slug": "pdf-file-compressor",
+          "desc": "Compress and optimize PDF documents locally to reduce file size for email attachments.",
+          "why": "Shrink oversized PDFs to meet file upload limits."
+        },
+        {
+          "name": "PDF Document Merger",
+          "slug": "pdf-document-merger",
+          "desc": "Combine multiple PDF files into a single consolidated PDF document.",
+          "why": "Merge separate PDF reports, invoices, or chapters into one file."
+        },
+        {
+          "name": "PDF Document Text Summarizer",
+          "slug": "pdf-text-summarizer",
+          "desc": "Extract and summarize key points and sentences from PDF files.",
+          "why": "Get a quick executive summary of long research papers or documents."
+        },
+        {
+          "name": "PDF to Plain Text Extractor",
+          "slug": "pdf-to-text-extractor",
+          "desc": "Extract all text content from PDF documents into plain copyable text.",
+          "why": "Copy text out of PDFs without layout formatting problems."
+        },
+        {
+          "name": "PDF to Word (.docx) Converter",
+          "slug": "pdf-to-word-converter",
+          "desc": "Convert PDF document text and formatting into editable Word document format.",
+          "why": "Edit PDF text inside Microsoft Word or Google Docs."
+        },
+        {
+          "name": "PDF Document Text Translator",
+          "slug": "pdf-document-translator",
+          "desc": "Extract and translate PDF document text into target languages.",
+          "why": "Read foreign language PDF documents easily."
+        },
+        {
+          "name": "Text / Word to PDF Converter",
+          "slug": "word-text-to-pdf-converter",
+          "desc": "Convert plain text or document notes directly into downloadable PDF files.",
+          "why": "Create professional PDF documents from raw text."
+        }
+      ]
+    },
+    {
+      "name": "Image Processing Tools",
+      "slug": "image-tools",
+      "tools": [
+        {
+          "name": "Image Background Remover",
+          "slug": "image-background-remover",
+          "desc": "Remove image backgrounds or isolate subjects using client-side canvas processing.",
+          "why": "Quickly transparentize PNG images locally without sending photos online."
+        },
+        {
+          "name": "Image Format Converter (PNG/JPG/WebP)",
+          "slug": "image-format-converter",
+          "desc": "Convert image files between PNG, JPG, and WebP formats right in your browser.",
+          "why": "Change image file types for web performance without external tools."
+        },
+        {
+          "name": "Image to Text (OCR) Extractor",
+          "slug": "image-to-text-ocr",
+          "desc": "Extract printed text from images, photos, and scanned documents using OCR.",
+          "why": "Convert image text into editable text without retyping."
+        },
+        {
+          "name": "Image Resolution & Dimension Upscaler",
+          "slug": "image-resolution-upscaler",
+          "desc": "Upscale image dimensions and apply smoothing filters directly on high-res canvas.",
+          "why": "Enlarge small images for printing or web headers."
+        },
+        {
+          "name": "Image Resize Calculator",
+          "slug": "image-resize-calc"
+        },
+        {
+          "name": "Pixel Density Calculator",
+          "slug": "pixel-density-calc"
+        },
+        {
+          "name": "Photo File Size Estimator",
+          "slug": "photo-file-size-est"
+        },
+        {
+          "name": "Crop Ratio Tool",
+          "slug": "crop-ratio-tool"
+        },
+        {
+          "name": "Image Grid Calculator",
+          "slug": "image-grid-calc"
+        }
+      ]
+    },
+    {
+      "name": "Audio & Speech Media Tools",
+      "slug": "media-tools",
+      "tools": [
+        {
+          "name": "Voice & Speech to Text Transcriber",
+          "slug": "speech-to-text-transcriber",
+          "desc": "Transcribe spoken audio from your microphone into real-time text using Web Speech API.",
+          "why": "Dictate notes, emails, or thoughts hands-free."
+        },
+        {
+          "name": "Text to Speech Audio Reader",
+          "slug": "text-to-speech-reader",
+          "desc": "Read text aloud with customizable speech rate, pitch, and voice selection.",
+          "why": "Listen to articles, proofread text, or practice pronunciation."
+        }
+      ]
+    },
+    {
+      "name": "Food & Culinary Tools",
+      "slug": "food-nutrition-tools",
+      "tools": [
+        {
+          "name": "Kitchen Cookware & Crockery Converter",
+          "slug": "kitchen-crockery-guide",
+          "desc": "Convert baking pan sizes, oven temperatures, and liquid measure equivalents for recipes.",
+          "why": "Adapts recipes to available kitchen cookware size."
+        },
+        {
+          "name": "Recipe & Ingredient Matcher",
+          "slug": "recipe-ingredient-matcher",
+          "desc": "Find meal ideas and recipes based on ingredients you already have in your kitchen.",
+          "why": "Reduces food waste by finding meals with current pantry items."
+        },
+        {
+          "name": "Weekly Meal & Menu Planner",
+          "slug": "weekly-meal-planner",
+          "desc": "Plan breakfast, lunch, and dinner menus for 7 days with grocery list output.",
+          "why": "Organizes weekly meal planning and grocery shopping."
+        },
+        {
+          "name": "Quick Calorie Counter",
+          "slug": "calorie-counter",
+          "desc": "Look up food calories.",
+          "why": "Tracks daily calorie intake."
+        },
+        {
+          "name": "Coffee Brew Ratio Calculator",
+          "slug": "coffee-ratio",
+          "desc": "Water-to-coffee brew ratios.",
+          "why": "Consistently great coffee."
+        },
+        {
+          "name": "Food Storage Guide",
+          "slug": "food-storage",
+          "desc": "Food storage duration lookup.",
+          "why": "Reduces food waste."
+        },
+        {
+          "name": "Cocktail Recipe Scaler",
+          "slug": "cocktail-scaler",
+          "desc": "Scale cocktail recipes.",
+          "why": "Adjusts drinks for parties."
+        },
+        {
+          "name": "Pizza Dough Calculator",
+          "slug": "pizza-calc",
+          "desc": "Pizza dough by size and count.",
+          "why": "Right dough amount."
+        },
+        {
+          "name": "Kitchen Conversion Chart",
+          "slug": "kitchen-chart",
+          "desc": "Common kitchen conversions.",
+          "why": "Cups, tablespoons, ml quickly."
+        },
+        {
+          "name": "Meal Prep Portion Calculator",
+          "slug": "meal-prep-calc"
+        },
+        {
+          "name": "Cooking Temperature Guide",
+          "slug": "cooking-temp-guide"
+        },
+        {
+          "name": "Serving Size Calculator",
+          "slug": "serving-size-calc"
+        },
+        {
+          "name": "Spice Substitution Guide",
+          "slug": "spice-substitution"
+        },
+        {
+          "name": "Freezer Storage Time Guide",
+          "slug": "freezer-time-guide"
+        }
+      ]
+    },
+    {
+      "name": "Health & Wellness Tools",
+      "slug": "health-wellness-tools",
+      "tools": [
+        {
+          "name": "BMI & Body Composition Calculator",
+          "slug": "bmi-body-health-calculator",
+          "desc": "Calculate Body Mass Index (BMI), healthy weight range, and body mass category.",
+          "why": "Check general weight and body mass health indicators."
+        },
+        {
+          "name": "Ideal Body Weight (IBW) Calculator",
+          "slug": "ideal-body-weight-calculator",
+          "desc": "Calculate estimated ideal body weight using Devine, Robinson, Miller, and Hamwi medical formulas.",
+          "why": "Provides clinically recognized ideal weight benchmarks by height and gender."
+        },
+        {
+          "name": "US Navy Body Fat Percentage Calculator",
+          "slug": "navy-body-fat-percentage-calculator",
+          "desc": "Calculate body fat percentage and lean mass using the US Navy tape measure formula.",
+          "why": "Estimates body composition accurately without expensive DEXA scans."
+        },
+        {
+          "name": "Karvonen Target Heart Rate Zone Calculator",
+          "slug": "karvonen-heart-rate-zone-calculator",
+          "desc": "Calculate precise heart rate training zones using the Karvonen formula and resting heart rate.",
+          "why": "Customizes cardio training zones for endurance, fat burn, and VO2 max."
+        },
+        {
+          "name": "Calorie Deficit Weight Loss Planner",
+          "slug": "calorie-deficit-weight-loss-planner",
+          "desc": "Calculate daily calorie deficit required to reach a target body weight by a specific date.",
+          "why": "Plans healthy, sustainable fat loss timelines."
+        },
+        {
+          "name": "Intermittent Fasting Window Calculator",
+          "slug": "intermittent-fasting-window-calculator",
+          "desc": "Calculate exact eating and fasting windows for 16:8, 18:6, 20:4, and OMAD fasting schedules.",
+          "why": "Keeps daily fasting schedules consistent."
+        },
+        {
+          "name": "Waist-Hip Ratio Calculator",
+          "slug": "waist-hip-calc",
+          "desc": "Calculate waist-hip ratio.",
+          "why": "Cardiovascular risk indicator."
+        },
+        {
+          "name": "Blood Pressure Log",
+          "slug": "bp-tracker",
+          "desc": "Track blood pressure readings.",
+          "why": "Monitors BP trends."
+        },
+        {
+          "name": "Hydration Goal Calculator",
+          "slug": "hydration-calc",
+          "desc": "Calculate daily water goal.",
+          "why": "Personalized hydration targets."
+        },
+        {
+          "name": "Medication Organizer",
+          "slug": "medication-organizer",
+          "desc": "Organize medications with dosage info.",
+          "why": "Prevents medication confusion."
+        },
+        {
+          "name": "Hearing Frequency Test",
+          "slug": "hearing-test",
+          "desc": "Play test tones to check hearing.",
+          "why": "Screens for hearing loss."
+        },
+        {
+          "name": "Screen Break Timer (20-20-20)",
+          "slug": "eye-break-timer",
+          "desc": "20-20-20 eye break reminders.",
+          "why": "Prevents digital eye strain."
+        },
+        {
+          "name": "Blood Alcohol Estimator",
+          "slug": "bac-estimator",
+          "desc": "Estimate BAC from drinks.",
+          "why": "Promotes responsible drinking."
+        },
+        {
+          "name": "Pregnancy Weight Tracker",
+          "slug": "pregnancy-weight",
+          "desc": "Track pregnancy weight gain.",
+          "why": "Healthy weight progression."
+        },
+        {
+          "name": "Caffeine Intake Tracker",
+          "slug": "caffeine-tracker"
+        },
+        {
+          "name": "Posture Check Reminder",
+          "slug": "posture-reminder"
+        },
+        {
+          "name": "Symptom Journal",
+          "slug": "symptom-journal"
+        },
+        {
+          "name": "Stretch Break Timer",
+          "slug": "stretch-timer"
+        },
+        {
+          "name": "Water Intake Log",
+          "slug": "water-intake-log"
+        },
+        {
+          "name": "BMI Percentile Calculator",
+          "slug": "bmi-percentile"
+        }
+      ]
+    },
+    {
+      "name": "Student Tools",
+      "slug": "student-tools",
+      "tools": [
+        {
+          "name": "GPA/CGPA Calculator",
+          "slug": "gpa-calculator",
+          "desc": "Calculate your semester GPA, and your cumulative CGPA, from grades and credit hours.",
+          "why": "Skips the manual credit-weighted maths so you can see where you stand in seconds."
+        },
+        {
+          "name": "Percentage Calculator",
+          "slug": "percentage-calculator",
+          "desc": "Find a percentage of a number, what percent one number is of another, or a percent change.",
+          "why": "Handy for marks, score improvements and any “how much is that in percent” question."
+        },
+        {
+          "name": "Grade Calculator",
+          "slug": "grade-calculator",
+          "desc": "Turn marks and total marks into a percentage and letter grade using a visible grading scale.",
+          "why": "Shows your overall percentage across assessments so you know what grade you are on."
+        },
+        {
+          "name": "Attendance Calculator",
+          "slug": "attendance-calculator",
+          "desc": "Find your attendance percentage and how many classes you can miss or must attend to reach a target.",
+          "why": "Helps you avoid falling below a minimum attendance requirement."
+        },
+        {
+          "name": "Study Planner",
+          "slug": "study-planner",
+          "desc": "Plan study sessions by subject, topic and date, and track what is done.",
+          "why": "A dated list of sessions makes it easier to spread revision out before exams."
+        },
+        {
+          "name": "Exam Countdown",
+          "slug": "exam-countdown",
+          "desc": "Count down the days, hours and minutes to your exams.",
+          "why": "Seeing exactly how much time is left makes it easier to prioritise revision."
+        },
+        {
+          "name": "Timetable Generator",
+          "slug": "timetable-generator",
+          "desc": "Build a weekly class timetable, check for clashes, then print or download it.",
+          "why": "A single weekly view of classes and rooms prevents missed lectures and double-booking."
+        },
+        {
+          "name": "Citation Generator",
+          "slug": "citation-generator",
+          "desc": "Format website, book and journal citations in APA 7 or MLA 9.",
+          "why": "Correct citations protect you from plagiarism marks and save formatting time."
+        },
+        {
+          "name": "Assignment Planner",
+          "slug": "assignment-planner",
+          "desc": "Track assignments with subject, deadline, priority and status.",
+          "why": "Deadlines and priorities in one list show what needs attention first."
+        },
+        {
+          "name": "Flashcard Maker",
+          "slug": "flashcard-maker",
+          "desc": "Create, edit and review flashcards with shuffled study sessions.",
+          "why": "Active recall with flashcards is a proven way to memorise terms and facts."
+        },
+        {
+          "name": "Word Counter & Text Statistics",
+          "slug": "word-counter-text-stats",
+          "desc": "Count words, characters, sentences and paragraphs, and estimate reading and speaking time.",
+          "why": "Checks your writing against word limits or estimates how long it takes to read or present."
+        },
+        {
+          "name": "Essay Outline Generator",
+          "slug": "essay-outline-generator",
+          "desc": "Turn a topic, thesis and body points into a structured essay outline you can fill in.",
+          "why": "Gives you a starting structure so you spend your time on arguments, not formatting."
+        },
+        {
+          "name": "Study Notes & Outline Generator",
+          "slug": "study-notes-outline-generator",
+          "desc": "Convert lecture notes and raw text into organized bulleted study outlines.",
+          "why": "Structures cluttered notes for efficient exam study."
+        },
+        {
+          "name": "Passage Quiz Question Generator",
+          "slug": "passage-quiz-question-generator",
+          "desc": "Generate interactive multiple-choice quiz questions from textbook passages.",
+          "why": "Test your comprehension after reading study materials."
+        },
+        {
+          "name": "Bibliography Formatter",
+          "slug": "bibliography-fmt",
+          "desc": "Format bibliography entries.",
+          "why": "Alphabetized bibliographies."
+        },
+        {
+          "name": "Study Timer",
+          "slug": "study-timer",
+          "desc": "Study timer with breaks.",
+          "why": "Tracks study time."
+        },
+        {
+          "name": "Thesis Statement Helper",
+          "slug": "thesis-helper",
+          "desc": "Structure thesis statements.",
+          "why": "Focused essay arguments."
+        },
+        {
+          "name": "Cornell Notes Template",
+          "slug": "cornell-notes",
+          "desc": "Cornell note-taking template.",
+          "why": "Organized lecture notes."
+        },
+        {
+          "name": "Research Question Generator",
+          "slug": "research-question-gen",
+          "desc": "Generate research questions.",
+          "why": "Narrow topics into questions."
+        },
+        {
+          "name": "Math Formula Reference",
+          "slug": "math-formula-ref",
+          "desc": "Common math formulas.",
+          "why": "Quick formula lookup."
+        },
+        {
+          "name": "Unit Circle Reference",
+          "slug": "unit-circle-ref",
+          "desc": "Unit circle trig values.",
+          "why": "Visual trig reference."
+        },
+        {
+          "name": "Periodic Table Lookup",
+          "slug": "periodic-table",
+          "desc": "Look up element properties.",
+          "why": "Quick chemistry reference."
+        },
+        {
+          "name": "Study Schedule Generator",
+          "slug": "study-schedule-gen",
+          "desc": "Study Schedule Generator",
+          "why": "Useful tool."
+        },
+        {
+          "name": "Essay Outline Generator",
+          "slug": "essay-outline-gen",
+          "desc": "Essay Outline Generator",
+          "why": "Useful tool."
+        },
+        {
+          "name": "Citation Counter",
+          "slug": "citation-counter",
+          "desc": "Citation Counter",
+          "why": "Useful tool."
+        },
+        {
+          "name": "Lab Report Template",
+          "slug": "lab-report-template",
+          "desc": "Lab Report Template",
+          "why": "Useful tool."
+        },
+        {
+          "name": "Book Reading Tracker",
+          "slug": "book-tracker",
+          "desc": "Book Reading Tracker",
+          "why": "Useful tool."
+        }
+      ]
+    },
+    {
+      "name": "Developer Tools",
+      "slug": "developer-tools",
+      "tools": [
+        {
+          "name": "JSON Formatter",
+          "slug": "json-formatter",
+          "desc": "Validate, pretty-print or minify JSON and see exactly where a syntax error is.",
+          "why": "Turns unreadable API responses into clean JSON and pinpoints syntax errors quickly."
+        },
+        {
+          "name": "Base64 Encoder/Decoder",
+          "slug": "base64-encoder-decoder",
+          "desc": "Encode text to Base64 or decode it back, with full UTF-8 support.",
+          "why": "Lets you inspect tokens, data URIs and encoded config values without extra software."
+        },
+        {
+          "name": "JSON Validator",
+          "slug": "json-validator",
+          "desc": "Check whether JSON is valid and see the line and column of the first error.",
+          "why": "Finds syntax errors before they break an API call or config file."
+        },
+        {
+          "name": "Code Formatter",
+          "slug": "code-formatter",
+          "desc": "Pretty-print JSON, CSS and HTML with clean indentation.",
+          "why": "Readable, consistently indented code is easier to review and debug."
+        },
+        {
+          "name": "Regex Tester",
+          "slug": "regex-tester",
+          "desc": "Test a regular expression against text and see matches, positions and capture groups.",
+          "why": "Lets you check a pattern on real text before you put it in code."
+        },
+        {
+          "name": "URL Encoder/Decoder",
+          "slug": "url-encoder-decoder",
+          "desc": "Percent-encode or decode URLs and text locally.",
+          "why": "Correct encoding keeps special characters from breaking links and query strings."
+        },
+        {
+          "name": "HTML/CSS/JS Minifier",
+          "slug": "minifier",
+          "desc": "Remove comments and whitespace from HTML, CSS and JavaScript to shrink file size.",
+          "why": "Smaller files load faster and reduce bandwidth."
+        },
+        {
+          "name": "Color Converter",
+          "slug": "color-converter",
+          "desc": "Convert colours between HEX, RGB and HSL with a live preview.",
+          "why": "Design specs and code often use different colour formats; this converts between them."
+        },
+        {
+          "name": "QR Code Generator",
+          "slug": "qr-code-generator",
+          "desc": "Generate a QR code for any text or URL and download it as PNG or SVG.",
+          "why": "Makes links, Wi-Fi details and text scannable from a phone in seconds."
+        },
+        {
+          "name": "Timestamp Converter",
+          "slug": "timestamp-converter",
+          "desc": "Convert Unix timestamps to readable dates and back.",
+          "why": "Log files and APIs use Unix time; this shows what moment it really is."
+        },
+        {
+          "name": "UUID Generator",
+          "slug": "uuid-generator",
+          "desc": "Generate one or many random UUID v4 identifiers, with optional uppercase and hyphen formatting.",
+          "why": "Quickly produces unique IDs for test data, database keys or config without leaving the browser."
+        },
+        {
+          "name": "Cron Expression Explainer",
+          "slug": "cron-expression-explainer",
+          "desc": "Paste a 5-field cron expression and get a plain-English description of when it runs.",
+          "why": "Saves you from misreading a scheduled job and running it at the wrong time."
+        },
+        {
+          "name": "CSS Unit Converter",
+          "slug": "css-unit-converter",
+          "desc": "Convert pixel values to rem, em, pt, pc and viewport width based on your root font size.",
+          "why": "Keeps CSS sizing consistent when moving between fixed and relative units."
+        },
+        {
+          "name": "Lorem Ipsum Generator",
+          "slug": "lorem-ipsum-generator",
+          "desc": "Generate placeholder paragraphs, sentences or words for mockups and layouts.",
+          "why": "Fills a design or prototype with realistic-looking text instantly."
+        },
+        {
+          "name": "HTTP Status Code Lookup",
+          "slug": "http-status-code-lookup",
+          "desc": "Search common HTTP status codes by number or keyword and see what each one means.",
+          "why": "A fast reference when debugging an API response or writing error handling."
+        },
+        {
+          "name": "Code Plain English Explainer",
+          "slug": "code-explainer",
+          "desc": "Break down complex code snippets into line-by-line plain English explanations.",
+          "why": "Helps understand unfamiliar code quickly."
+        },
+        {
+          "name": "Px to Rem & Em Unit Converter",
+          "slug": "px-rem-em-converter",
+          "desc": "Convert pixel font sizes and spacing to rem and em relative CSS units.",
+          "why": "Essential for responsive typography and accessible CSS layouts."
+        },
+        {
+          "name": "Hex to RGB & HSL Color Converter",
+          "slug": "hex-to-rgb-hsl-converter",
+          "desc": "Convert HEX color codes into RGB, RGBA, HSL, and CSS variable formats.",
+          "why": "Translates design system color hex values into CSS and JS code."
+        },
+        {
+          "name": "Duplicate Line & String Deduplicator",
+          "slug": "duplicate-line-deduplicator",
+          "desc": "Remove duplicate lines from text lists, sort alphabetically, and strip empty whitespace lines.",
+          "why": "Cleans up raw data lists, email lists, or code imports."
+        },
+        {
+          "name": "CSV to JSON Data Table Converter",
+          "slug": "csv-to-json-data-converter",
+          "desc": "Parse CSV spreadsheet data into structured JSON objects or arrays.",
+          "why": "Converts CSV data into JSON arrays for API requests and code."
+        },
+        {
+          "name": "JSON Array to CSV Export Converter",
+          "slug": "json-to-csv-export-converter",
+          "desc": "Convert JSON object arrays into downloadable CSV table data.",
+          "why": "Flattens JSON data so it can be opened in Excel or Google Sheets."
+        },
+        {
+          "name": "Markdown Table Generator",
+          "slug": "markdown-table-gen",
+          "desc": "Generate formatted markdown tables.",
+          "why": "Creates aligned markdown tables."
+        },
+        {
+          "name": "Chmod Calculator",
+          "slug": "chmod-calculator",
+          "desc": "Calculate Unix file permissions.",
+          "why": "Converts chmod formats."
+        },
+        {
+          "name": "HTML Entity Encoder",
+          "slug": "html-entity-encoder",
+          "desc": "Encode/decode HTML entities.",
+          "why": "Prevents XSS with proper encoding."
+        },
+        {
+          "name": "SQL Formatter",
+          "slug": "sql-formatter",
+          "desc": "Format SQL queries for readability.",
+          "why": "Makes SQL easier to debug."
+        },
+        {
+          "name": "ASCII Art Text Generator",
+          "slug": "ascii-art-gen",
+          "desc": "Convert text to ASCII art.",
+          "why": "Creates text banners."
+        },
+        {
+          "name": "Text Diff Checker",
+          "slug": "diff-checker",
+          "desc": "Compare two texts line by line.",
+          "why": "Identifies text changes."
+        },
+        {
+          "name": "YAML/JSON Converter",
+          "slug": "yaml-json-conv",
+          "desc": "Convert between YAML and JSON.",
+          "why": "Translates config formats."
+        },
+        {
+          "name": "Number Base Converter",
+          "slug": "base-converter",
+          "desc": "Convert numbers between bases 2-36.",
+          "why": "Arbitrary base conversions."
+        },
+        {
+          "name": "String Escape Tool",
+          "slug": "string-escape",
+          "desc": "Escape/unescape for JSON, HTML, URL.",
+          "why": "Correct escaping for different contexts."
+        },
+        {
+          "name": "Gitignore Generator",
+          "slug": "gitignore-gen",
+          "desc": "Generate .gitignore for project types.",
+          "why": "Comprehensive gitignore patterns."
+        },
+        {
+          "name": "Robots.txt Generator",
+          "slug": "robots-txt-gen",
+          "desc": "Generate robots.txt files.",
+          "why": "Controls search engine crawling."
+        },
+        {
+          "name": "Open Graph Preview",
+          "slug": "meta-og-preview",
+          "desc": "Preview social media link cards.",
+          "why": "Tests og meta tags."
+        },
+        {
+          "name": "Redirect Rule Generator",
+          "slug": "redirect-gen",
+          "desc": "Generate redirect rules.",
+          "why": "Creates proper redirect syntax."
+        },
+        {
+          "name": "Image Base64 Converter",
+          "slug": "image-base64",
+          "desc": "Convert images to base64 data URIs.",
+          "why": "Embeds small images in code."
+        },
+        {
+          "name": "SVG Path Viewer",
+          "slug": "svg-path-viewer",
+          "desc": "Visualize SVG path data.",
+          "why": "Debugs SVG paths visually."
+        },
+        {
+          "name": "Environment Variable Validator",
+          "slug": "env-validator"
+        },
+        {
+          "name": "Semantic Version Bumper",
+          "slug": "semantic-version-bump"
+        },
+        {
+          "name": "Crontab Expression Generator",
+          "slug": "crontab-generator"
+        },
+        {
+          "name": "Docker Run Command Builder",
+          "slug": "docker-run-builder"
+        },
+        {
+          "name": "NPM Script Builder",
+          "slug": "npm-script-builder"
+        },
+        {
+          "name": "HTTP Status Code Lookup",
+          "slug": "http-status-lookup"
+        },
+        {
+          "name": "CSS Gradient Generator",
+          "slug": "css-gradient-gen"
+        },
+        {
+          "name": "CSS Box Shadow Generator",
+          "slug": "box-shadow-gen"
+        },
+        {
+          "name": "Color Palette Generator",
+          "slug": "color-palette-gen"
+        },
+        {
+          "name": "Lorem Ipsum Generator",
+          "slug": "lorem-ipsum-gen"
+        },
+        {
+          "name": "Data URI Maker",
+          "slug": "data-uri-maker",
+          "desc": "Data URI Maker",
+          "why": "Useful tool."
+        },
+        {
+          "name": "SVG to CSS Background",
+          "slug": "svg-to-css",
+          "desc": "SVG to CSS Background",
+          "why": "Useful tool."
+        },
+        {
+          "name": "Font Stack Builder",
+          "slug": "font-stack-builder",
+          "desc": "Font Stack Builder",
+          "why": "Useful tool."
+        },
+        {
+          "name": "Markdown Preview",
+          "slug": "markdown-preview",
+          "desc": "Preview markdown formatted text in real-time.",
+          "why": "Useful developer tool for drafting and viewing formatted notes."
+        },
+        {
+          "name": "Text Diff Checker",
+          "slug": "text-diff-checker",
+          "desc": "Compare two blocks of text line by line to identify changes.",
+          "why": "Useful developer tool for comparing versions and diffs."
+        },
+        {
+          "name": "HEX to RGB Converter",
+          "slug": "hex-to-rgb-converter",
+          "desc": "Convert HEX color codes to RGB values.",
+          "why": "Useful developer tool for converting CSS color formats."
+        },
+        {
+          "name": "RGB to HEX Converter",
+          "slug": "rgb-to-hex-converter",
+          "desc": "Convert RGB color values to HEX color codes.",
+          "why": "Useful developer tool for web design and CSS styles."
+        },
+        {
+          "name": "Pixels to REM Converter",
+          "slug": "px-to-rem-converter",
+          "desc": "Convert pixel sizes to relative REM units.",
+          "why": "Useful developer tool for responsive typography and layout design."
+        }
+      ]
+    },
+    {
+      "name": "Office Tools",
+      "slug": "office-tools",
+      "tools": [
+        {
+          "name": "Leave Calculator",
+          "slug": "leave-calculator",
+          "desc": "Count working leave days between two dates, skipping weekends and your public holidays, with the calculation explained.",
+          "why": "Shows exactly how many days a leave request uses before you submit it."
+        },
+        {
+          "name": "Invoice Generator",
+          "slug": "invoice-generator",
+          "desc": "Create an itemised invoice with automatic subtotal, discount, tax and total, then print or download it.",
+          "why": "Produces a clean, correctly totalled invoice without a spreadsheet or paid software."
+        },
+        {
+          "name": "Meeting Agenda Maker",
+          "slug": "meeting-agenda-maker",
+          "desc": "Build a timed meeting agenda with participants and export or print it.",
+          "why": "A timed agenda keeps meetings focused and finishing on schedule."
+        },
+        {
+          "name": "Meeting Minutes Generator",
+          "slug": "meeting-minutes-generator",
+          "desc": "Turn discussion points, decisions and action items into formatted meeting minutes.",
+          "why": "Clear minutes record who agreed to do what, and by when."
+        },
+        {
+          "name": "Task Manager",
+          "slug": "task-manager",
+          "desc": "Add tasks with priority and due date, filter them, mark them complete and keep them saved locally.",
+          "why": "A single prioritised list shows what to do next and what is overdue."
+        },
+        {
+          "name": "Business Letter Generator",
+          "slug": "business-letter-generator",
+          "desc": "Write a properly structured business letter from simple fields and copy or print it.",
+          "why": "Correct letter layout makes formal correspondence look professional."
+        },
+        {
+          "name": "Email Signature Generator",
+          "slug": "email-signature-generator",
+          "desc": "Create a clean HTML email signature with contact details and links, ready to copy.",
+          "why": "A consistent signature looks professional and gives people your contact details."
+        },
+        {
+          "name": "Timesheet Calculator",
+          "slug": "timesheet-calculator",
+          "desc": "Add start, end and break times per day to get total working hours and optional earnings.",
+          "why": "Accurate hour totals make payroll and invoicing quick and error-free."
+        },
+        {
+          "name": "Expense Report Generator",
+          "slug": "expense-report-generator",
+          "desc": "List expenses by date and category, get totals, and print or export the report.",
+          "why": "A tidy report with category totals speeds up reimbursement."
+        },
+        {
+          "name": "Document Checklist",
+          "slug": "document-checklist",
+          "desc": "Keep a checklist of required documents that you can tick off, reset and reuse.",
+          "why": "Prevents missing paperwork for applications, audits and onboarding."
+        },
+        {
+          "name": "Out-of-Office Message Generator",
+          "slug": "out-of-office-message-generator",
+          "desc": "Generate a formal or casual out-of-office email reply with dates and a backup contact.",
+          "why": "Produces a polished auto-reply in seconds instead of writing one from scratch."
+        },
+        {
+          "name": "Salary Breakdown Calculator",
+          "slug": "salary-breakdown-calculator",
+          "desc": "Convert an annual, monthly, weekly or hourly salary into all the other pay periods.",
+          "why": "Makes it easy to compare job offers quoted in different pay periods."
+        },
+        {
+          "name": "Meeting Cost Calculator",
+          "slug": "meeting-cost-calculator",
+          "desc": "Estimate what a meeting costs in salary time based on attendees, average salary and length.",
+          "why": "Puts a number on recurring meetings so teams can decide if they are worth the cost."
+        },
+        {
+          "name": "Employee Onboarding Checklist",
+          "slug": "onboarding-checklist",
+          "desc": "Track onboarding tasks for a new hire and check them off as they are completed.",
+          "why": "Keeps onboarding steps from being missed during a new employee’s first days."
+        },
+        {
+          "name": "Overtime Pay & Wage Calculator",
+          "slug": "overtime-pay-calculator",
+          "desc": "Calculate total weekly gross earnings including regular hours, overtime (1.5x), and double time (2x).",
+          "why": "Accurately computes paycheck wages with mixed hourly rates."
+        },
+        {
+          "name": "Real-Time Meeting Cost per Minute Calculator",
+          "slug": "meeting-cost-per-minute-calculator",
+          "desc": "Calculate the cumulative hourly and per-minute monetary cost of hosting internal meetings based on attendee count and average salary.",
+          "why": "Demonstrates the financial expense of excessive or unproductive meetings."
+        },
+        {
+          "name": "Salary to Hourly Wage Converter",
+          "slug": "salary-to-hourly-wage-converter",
+          "desc": "Convert annual salary into hourly, daily, weekly, and monthly pay before and after taxes.",
+          "why": "Translates annual job offers into hourly pay comparisons."
+        },
+        {
+          "name": "Status Report Generator",
+          "slug": "status-report-gen",
+          "desc": "Generate weekly status reports.",
+          "why": "Consistent stakeholder updates."
+        },
+        {
+          "name": "Appreciation Message Generator",
+          "slug": "appreciation-gen",
+          "desc": "Generate appreciation messages.",
+          "why": "Employee recognition."
+        },
+        {
+          "name": "Meeting Poll Creator",
+          "slug": "meeting-poll",
+          "desc": "Create team decision polls.",
+          "why": "Democratic team decisions."
+        },
+        {
+          "name": "Office Supply Checklist",
+          "slug": "supply-checklist",
+          "desc": "Track office supply inventory.",
+          "why": "Prevents supply shortages."
+        },
+        {
+          "name": "Work Anniversary Calculator",
+          "slug": "anniversary-calc",
+          "desc": "Calculate work anniversaries.",
+          "why": "Recognizes tenure milestones."
+        },
+        {
+          "name": "Standup Meeting Template",
+          "slug": "standup-template",
+          "desc": "Daily standup templates.",
+          "why": "Efficient daily communication."
+        },
+        {
+          "name": "Delegation Matrix",
+          "slug": "delegation-matrix",
+          "desc": "Task delegation decision matrix.",
+          "why": "Strategic task delegation."
+        },
+        {
+          "name": "Ergonomics Checklist",
+          "slug": "ergonomics-checklist",
+          "desc": "Workspace ergonomics assessment.",
+          "why": "Prevents strain injuries."
+        },
+        {
+          "name": "Whiteboard Notes",
+          "slug": "whiteboard-notes"
+        }
+      ]
+    },
+    {
+      "name": "Marketing Tools",
+      "slug": "marketing-tools",
+      "tools": [
+        {
+          "name": "UTM Builder",
+          "slug": "utm-builder",
+          "desc": "Add UTM campaign parameters to any URL for clean analytics tracking.",
+          "why": "Consistent UTM links let you see which campaign actually drove each visit."
+        },
+        {
+          "name": "Keyword Generator",
+          "slug": "keyword-generator",
+          "desc": "Turn a seed keyword into grouped keyword ideas using common search patterns (no search-volume data).",
+          "why": "Gives you a starting list of angles to research and write about."
+        },
+        {
+          "name": "Meta Tag Generator",
+          "slug": "meta-tag-generator",
+          "desc": "Generate title, description, robots, canonical and Open Graph tags as copyable HTML.",
+          "why": "Correct meta tags control how your page appears in search and when shared."
+        },
+        {
+          "name": "Hashtag Generator",
+          "slug": "hashtag-generator",
+          "desc": "Create hashtag ideas from your own topics, with platform guidance (not live trending data).",
+          "why": "Saves time brainstorming relevant hashtags for a post."
+        },
+        {
+          "name": "Social Media Caption Generator",
+          "slug": "social-media-caption-generator",
+          "desc": "Get caption drafts for Instagram, LinkedIn, X, Facebook or TikTok in your chosen tone (template-based, no AI service).",
+          "why": "Gives you a solid first draft so you can post faster."
+        },
+        {
+          "name": "SEO Title Generator",
+          "slug": "seo-title-generator",
+          "desc": "Generate several title ideas for a topic, with character counts and truncation guidance.",
+          "why": "A clear title of the right length improves how your page shows in results."
+        },
+        {
+          "name": "SEO Description Generator",
+          "slug": "seo-description-generator",
+          "desc": "Generate meta description drafts with length guidance for the 120–160 character range.",
+          "why": "A good description can improve clicks from search results."
+        },
+        {
+          "name": "Content Calendar",
+          "slug": "content-calendar",
+          "desc": "Plan content ideas by date, platform, type and status, saved locally.",
+          "why": "A dated plan keeps posting consistent and shows what is still in draft."
+        },
+        {
+          "name": "SERP Preview",
+          "slug": "serp-preview",
+          "desc": "Preview how a title, URL and description may look in search results, with length guidance (estimate, not live data).",
+          "why": "Lets you check truncation before you publish."
+        },
+        {
+          "name": "Marketing ROI Calculator",
+          "slug": "marketing-roi-calculator",
+          "desc": "Calculate ROI, net profit and ROAS from marketing cost, revenue and extra expenses, with the formula shown.",
+          "why": "Shows whether a campaign paid for itself."
+        },
+        {
+          "name": "Social Media Character Counter",
+          "slug": "social-media-character-counter",
+          "desc": "Check your post length against the character limits of major social platforms at once.",
+          "why": "Avoids a post getting cut off or rejected for being too long on a given platform."
+        },
+        {
+          "name": "Ad Budget & CPC/CPM Estimator",
+          "slug": "ad-budget-estimator",
+          "desc": "Estimate clicks, impressions, conversions and cost per conversion from a budget and expected rates.",
+          "why": "Turns a raw ad budget into an expected outcome before you spend it."
+        },
+        {
+          "name": "Email Subject Scorer",
+          "slug": "email-subject-scorer",
+          "desc": "Score email subject lines.",
+          "why": "Better email open rates."
+        },
+        {
+          "name": "Landing Page Checklist",
+          "slug": "landing-page-checklist",
+          "desc": "Landing page optimization audit.",
+          "why": "Identifies conversion issues."
+        },
+        {
+          "name": "Customer Persona Builder",
+          "slug": "persona-builder",
+          "desc": "Create customer personas.",
+          "why": "Focused marketing efforts."
+        },
+        {
+          "name": "Press Release Template",
+          "slug": "press-release-template",
+          "desc": "Generate press release drafts.",
+          "why": "Professional press communications."
+        },
+        {
+          "name": "Marketing Funnel Calculator",
+          "slug": "funnel-calculator",
+          "desc": "Calculate funnel conversion rates.",
+          "why": "Identifies funnel drop-off."
+        },
+        {
+          "name": "Brand Name Scorer",
+          "slug": "brand-name-scorer",
+          "desc": "Score brand name candidates.",
+          "why": "Evaluates names systematically."
+        },
+        {
+          "name": "Cost Per Lead Calculator",
+          "slug": "cost-per-lead-calc",
+          "desc": "Calculate CPL from campaign data.",
+          "why": "Measures marketing efficiency."
+        },
+        {
+          "name": "Competitive Analysis Tool",
+          "slug": "competitive-analysis",
+          "desc": "Structure competitive analysis.",
+          "why": "Organizes competitor intel."
+        }
+      ]
+    },
+    {
+      "name": "Productivity Tools",
+      "slug": "productivity-tools",
+      "tools": [
+        {
+          "name": "Pomodoro Timer",
+          "slug": "pomodoro-timer",
+          "desc": "Work in focused sessions with timed breaks and a session count.",
+          "why": "Short timed sprints make it easier to start and to stop before you burn out."
+        },
+        {
+          "name": "Habit Tracker",
+          "slug": "habit-tracker",
+          "desc": "Track daily habits, see your current and best streaks, and check how consistent you were over the last 30 days.",
+          "why": "Seeing an unbroken streak is a simple, proven way to keep a new routine going."
+        },
+        {
+          "name": "To-Do List",
+          "slug": "to-do-list",
+          "desc": "A simple to-do list that saves in your browser: add tasks, tick them off, and clear what is finished.",
+          "why": "Getting tasks out of your head and onto a list makes it easier to focus on one thing at a time."
+        },
+        {
+          "name": "Daily Planner",
+          "slug": "daily-planner",
+          "desc": "Plan any day with timed tasks and notes, tick items off, and copy, download or print the day’s plan.",
+          "why": "A written plan for the day helps you spend your time on purpose instead of reacting."
+        },
+        {
+          "name": "Weekly Planner",
+          "slug": "weekly-planner",
+          "desc": "Lay out your week day by day with weekly goals, choose Monday or Sunday as the first day, then copy, download or print it.",
+          "why": "A week view shows how busy each day is and helps you spread work sensibly."
+        },
+        {
+          "name": "Time Zone Converter",
+          "slug": "time-zone-converter",
+          "desc": "Convert a date and time from one time zone to several others, with daylight saving handled by your browser’s time-zone data.",
+          "why": "Makes it easy to schedule calls and deadlines across countries without mental arithmetic."
+        },
+        {
+          "name": "World Clock",
+          "slug": "world-clock",
+          "desc": "See the current time in several cities at once, with dates and UTC offsets, ticking live from your device clock.",
+          "why": "A glance tells you whether it is a good time to call a colleague, friend or client abroad."
+        },
+        {
+          "name": "Countdown Timer",
+          "slug": "countdown-timer",
+          "desc": "Count down from any time up to 99 hours, with presets, pause and resume, and an optional sound when time is up.",
+          "why": "Handy for cooking, breaks, workouts, presentations and any time-boxed task."
+        },
+        {
+          "name": "Random Decision Maker",
+          "slug": "random-decision-maker",
+          "desc": "Type your options and let a secure random pick choose one, or shuffle them into a random order.",
+          "why": "Removes decision fatigue for small choices like where to eat or who goes first."
+        },
+        {
+          "name": "Random Number Generator",
+          "slug": "random-number-generator",
+          "desc": "Generate one or many random whole numbers or decimals in a range, with optional no-repeat and sorting.",
+          "why": "Useful for games, sampling, giveaways, test data and quick draws."
+        },
+        {
+          "name": "Eisenhower Matrix Task Sorter",
+          "slug": "eisenhower-matrix",
+          "desc": "Sort tasks into Do first, Schedule, Delegate and Eliminate based on urgency and importance.",
+          "why": "A quick way to see what actually deserves your attention today."
+        },
+        {
+          "name": "Goal & Milestone Tracker",
+          "slug": "goal-milestone-tracker",
+          "desc": "Break goals into milestones and track completion percentage for each one.",
+          "why": "Large goals feel more achievable once broken into checkable milestones."
+        },
+        {
+          "name": "Quick Scratchpad & Local Notes",
+          "slug": "quick-scratchpad-notes",
+          "desc": "Take instant notes and save scratchpad drafts auto-saved in your browser storage.",
+          "why": "Never lose quick thoughts or temporary text while browsing."
+        },
+        {
+          "name": "Meeting Notes Template",
+          "slug": "meeting-notes-tmpl",
+          "desc": "Structured meeting notes.",
+          "why": "Captures outcomes consistently."
+        },
+        {
+          "name": "Milestone Tracker",
+          "slug": "milestone-tracker",
+          "desc": "Track project milestones.",
+          "why": "Visible progress tracking."
+        },
+        {
+          "name": "SMART Goal Setter",
+          "slug": "smart-goal-setter",
+          "desc": "Structure SMART goals.",
+          "why": "Clear success criteria."
+        },
+        {
+          "name": "Simple Kanban Board",
+          "slug": "kanban-board",
+          "desc": "To Do/In Progress/Done columns.",
+          "why": "Visual task management."
+        },
+        {
+          "name": "Weekly Review Template",
+          "slug": "weekly-review-tmpl",
+          "desc": "Structured weekly review.",
+          "why": "Reflects on progress weekly."
+        },
+        {
+          "name": "Focus Session Logger",
+          "slug": "focus-logger",
+          "desc": "Log deep focus sessions.",
+          "why": "Tracks deep work habits."
+        },
+        {
+          "name": "Task Batching Scheduler",
+          "slug": "batch-scheduler",
+          "desc": "Group similar tasks together.",
+          "why": "Reduces context switching."
+        },
+        {
+          "name": "Parking Lot Ideas Board",
+          "slug": "parking-lot",
+          "desc": "Capture ideas for later.",
+          "why": "Prevents idea loss."
+        },
+        {
+          "name": "Pomodoro Counter",
+          "slug": "pomodoro-counter"
+        },
+        {
+          "name": "Decision Matrix",
+          "slug": "decision-matrix"
+        },
+        {
+          "name": "5 Whys Analysis",
+          "slug": "five-why-template"
+        },
+        {
+          "name": "SWOT Analyzer",
+          "slug": "swot-analyzer"
+        },
+        {
+          "name": "Project Status Generator",
+          "slug": "project-status-gen"
+        },
+        {
+          "name": "Priority Ranker",
+          "slug": "priority-ranker"
+        },
+        {
+          "name": "Stopwatch",
+          "slug": "stopwatch-tool"
+        },
+        {
+          "name": "Tab Group Manager",
+          "slug": "tab-manager"
+        },
+        {
+          "name": "Countdown to Date",
+          "slug": "countdown-to-date"
+        }
+      ]
+    },
+    {
+      "name": "Shopping Tools",
+      "slug": "shopping-tools",
+      "tools": [
+        {
+          "name": "Discount Calculator",
+          "slug": "discount-calculator",
+          "desc": "Work out the sale price, savings and final cost including tax.",
+          "why": "Shows the real price after the discount so you can compare deals honestly."
+        },
+        {
+          "name": "Shopping List Maker",
+          "slug": "shopping-list-maker",
+          "desc": "Build a shopping list grouped by aisle, tick items off in the store, and total your estimated cost.",
+          "why": "A grouped list saves trips back down the aisles and stops impulse buys."
+        },
+        {
+          "name": "Price Comparison Calculator",
+          "slug": "price-comparison-calculator",
+          "desc": "Compare the true final cost of the same item from different sellers, including discounts, tax and shipping.",
+          "why": "The lowest sticker price is not always the cheapest once delivery and tax are added."
+        },
+        {
+          "name": "Sales Tax Calculator",
+          "slug": "sales-tax-calculator",
+          "desc": "Add sales tax (or VAT/GST) to a price, or take it out of a price that already includes tax.",
+          "why": "Shows the real price at the till and how much of a receipt total is tax."
+        },
+        {
+          "name": "Tip Calculator",
+          "slug": "tip-calculator",
+          "desc": "Work out the tip and total for a bill, and each person’s share, with optional rounding up.",
+          "why": "Takes the awkward maths out of paying at a restaurant."
+        },
+        {
+          "name": "Split Bill Calculator",
+          "slug": "split-bill-calculator",
+          "desc": "Split a bill equally, or by what each person ordered, with shared dishes, tax and tip divided fairly.",
+          "why": "Keeps group meals fair when people ordered very different amounts."
+        },
+        {
+          "name": "Unit Price Calculator",
+          "slug": "unit-price-calculator",
+          "desc": "Compare products of different sizes by price per 100 g, per 100 ml or per item, converting kg, lb, oz, litres and more.",
+          "why": "The bigger pack is not always cheaper per unit, and this shows which one really is."
+        },
+        {
+          "name": "Shopping Budget Calculator",
+          "slug": "shopping-budget-calculator",
+          "desc": "Check planned purchases against your budget, split into needs and wants, and see which wants still fit.",
+          "why": "Helps you decide before you buy, so you stay within budget."
+        },
+        {
+          "name": "Gift Budget Planner",
+          "slug": "gift-budget-planner",
+          "desc": "Plan gift spending for each person and occasion, track what you have spent, and see what is left.",
+          "why": "Keeps holiday and birthday spending under control and avoids last-minute overspending."
+        },
+        {
+          "name": "Grocery Budget Planner",
+          "slug": "grocery-budget-planner",
+          "desc": "Set a weekly, fortnightly or monthly grocery budget, plan it by category, and track spending as you shop.",
+          "why": "Shows which food categories are running over before the month is out."
+        },
+        {
+          "name": "Subscription Cost Tracker",
+          "slug": "subscription-cost-tracker",
+          "desc": "List your recurring subscriptions and see the total monthly and yearly cost.",
+          "why": "Small subscriptions add up quietly — this shows the real total."
+        },
+        {
+          "name": "Cost-Per-Use Calculator",
+          "slug": "cost-per-use-calculator",
+          "desc": "Divide a purchase price by expected uses or days of use to find the true cost per use.",
+          "why": "Helps compare a cheap item used rarely against a pricier one used often."
+        },
+        {
+          "name": "Package Unit Price Comparator",
+          "slug": "package-unit-price-comparator",
+          "desc": "Compare the price per ounce, gram, liter, or unit between two different product package sizes.",
+          "why": "Finds out which item size is actually cheaper per unit before buying."
+        },
+        {
+          "name": "Reverse Sales Tax Calculator",
+          "slug": "reverse-sales-tax-calculator",
+          "desc": "Calculate the pre-tax price and sales tax portion from a total receipt price.",
+          "why": "Extracts exact net price and tax amounts from total receipts."
+        },
+        {
+          "name": "Warranty Tracker",
+          "slug": "warranty-tracker",
+          "desc": "Track product warranties.",
+          "why": "Claims before expiry."
+        },
+        {
+          "name": "Product Comparison Matrix",
+          "slug": "comparison-matrix",
+          "desc": "Side-by-side product comparison.",
+          "why": "Structured purchase decisions."
+        },
+        {
+          "name": "Subscription Calculator",
+          "slug": "subscription-calc",
+          "desc": "Annual vs monthly comparison.",
+          "why": "Shows billing savings."
+        },
+        {
+          "name": "Cashback Calculator",
+          "slug": "cashback-calc",
+          "desc": "Calculate cashback rewards.",
+          "why": "Maximizes card rewards."
+        },
+        {
+          "name": "Price Per Weight Calculator",
+          "slug": "price-per-weight",
+          "desc": "Compare by weight unit.",
+          "why": "Best value across weights."
+        }
+      ]
+    },
+    {
+      "name": "Security & Privacy Tools",
+      "slug": "security-tools",
+      "tools": [
+        {
+          "name": "Password Generator",
+          "slug": "password-generator",
+          "desc": "Create strong random passwords locally with the browser’s secure random generator.",
+          "why": "Unique random passwords stop one leaked site from exposing your other accounts."
+        },
+        {
+          "name": "Hash Generator",
+          "slug": "hash-generator",
+          "desc": "Generate SHA-1, SHA-256, SHA-384 or SHA-512 hashes of text using the Web Crypto API.",
+          "why": "Verify that text or data matches an expected fingerprint without uploading it anywhere."
+        },
+        {
+          "name": "Passphrase Generator",
+          "slug": "passphrase-generator",
+          "desc": "Generate a memorable multi-word passphrase from a wordlist, with optional numbers.",
+          "why": "Long word-based passphrases are easier to remember and type than random character strings."
+        },
+        {
+          "name": "Random PIN Generator",
+          "slug": "pin-generator",
+          "desc": "Generate random numeric PINs of a chosen length, avoiding obvious repeats and runs.",
+          "why": "Produces PINs that are harder to guess than birthdays or 1234-style patterns."
+        },
+        {
+          "name": "Password Entropy Calculator",
+          "slug": "password-entropy",
+          "desc": "Calculate password entropy bits.",
+          "why": "Quantifies password strength."
+        },
+        {
+          "name": "TOTP Code Generator",
+          "slug": "totp-generator",
+          "desc": "Generate TOTP codes for 2FA.",
+          "why": "Tests 2FA implementations."
+        },
+        {
+          "name": "Breach Response Checklist",
+          "slug": "breach-checklist",
+          "desc": "Data breach response plan.",
+          "why": "Structured incident response."
+        },
+        {
+          "name": "Encryption Key Generator",
+          "slug": "encryption-key-gen",
+          "desc": "Generate random encryption keys.",
+          "why": "Secure key generation."
+        },
+        {
+          "name": "Security Headers Checklist",
+          "slug": "security-headers",
+          "desc": "Audit website security headers.",
+          "why": "Identifies missing protections."
+        },
+        {
+          "name": "Advanced Password Generator",
+          "slug": "password-gen-advanced",
+          "desc": "Advanced Password Generator",
+          "why": "Useful tool."
+        }
+      ]
+    },
+    {
+      "name": "Real Estate Investment Tools",
+      "slug": "real-estate-tools",
+      "tools": [
+        {
+          "name": "Cap Rate Calculator",
+          "slug": "cap-rate-calculator",
+          "desc": "Calculate a rental property’s capitalization rate from net operating income and price.",
+          "why": "Gives the standard metric investors use to compare rental properties independent of financing."
+        },
+        {
+          "name": "Cash-on-Cash Return Calculator",
+          "slug": "cash-on-cash-return-calculator",
+          "desc": "Calculate annual return on the actual cash invested in a rental property.",
+          "why": "Measures the return that matters to an investor who financed part of the purchase."
+        },
+        {
+          "name": "Rent vs Buy Comparison Tool",
+          "slug": "rent-vs-buy-comparison-tool",
+          "desc": "Compare total cost of renting versus buying a home over a chosen number of years.",
+          "why": "Accounts for down payment, mortgage payments, maintenance and appreciation in one comparison."
+        },
+        {
+          "name": "Rental Property Cash Flow Calculator",
+          "slug": "rental-property-cash-flow-calculator",
+          "desc": "Calculate monthly and annual cash flow on a rental property from income and itemized expenses.",
+          "why": "Breaks out every common expense category so nothing gets missed when estimating profitability."
+        },
+        {
+          "name": "Property Appreciation Estimator",
+          "slug": "property-appreciation-estimator",
+          "desc": "Project a property’s future value from an assumed annual appreciation rate.",
+          "why": "Compounds a chosen appreciation rate over time into a concrete future value estimate."
+        },
+        {
+          "name": "Rent Increase Calculator",
+          "slug": "rent-increase-calculator",
+          "desc": "Calculate a new rent amount and annual impact from a proposed percentage increase.",
+          "why": "Turns a percentage increase into a concrete dollar figure per month and per year."
+        },
+        {
+          "name": "Security Deposit Calculator",
+          "slug": "security-deposit-calculator",
+          "desc": "Calculate the refund due after itemized deductions from a security deposit.",
+          "why": "Keeps a running itemized list so both landlord and tenant can see how the refund was calculated."
+        },
+        {
+          "name": "Landlord Late Fee Calculator",
+          "slug": "landlord-late-fee-calculator",
+          "desc": "Calculate a late rent fee as a flat amount or daily percentage, with an optional cap.",
+          "why": "Handles both common late-fee structures and applies a percentage-of-rent cap automatically."
+        },
+        {
+          "name": "Vacancy Rate Calculator",
+          "slug": "vacancy-rate-calculator",
+          "desc": "Calculate a rental property’s vacancy rate from vacant unit-days over a period.",
+          "why": "Gives the standard occupancy metric landlords and property managers track."
+        },
+        {
+          "name": "1% Rule Property Screener",
+          "slug": "one-percent-rule-property-screener",
+          "desc": "Check whether a property’s expected rent meets the common 1% rule of thumb.",
+          "why": "Gives a fast first-pass screen before running a full rental property analysis."
+        },
+        {
+          "name": "Closing Cost Estimator",
+          "slug": "closing-cost-estimator",
+          "desc": "Estimate a range of closing costs from a home’s purchase price.",
+          "why": "Gives a quick budgeting range before you get an actual Loan Estimate from a lender."
+        },
+        {
+          "name": "Home Equity Calculator",
+          "slug": "home-equity-calculator",
+          "desc": "Calculate current home equity and potential borrowing room at 80% loan-to-value.",
+          "why": "Turns home value and loan balance into both an equity dollar amount and a borrowing estimate."
+        },
+        {
+          "name": "Property Tax & Escrow Estimator",
+          "slug": "property-tax-escrow-estimator",
+          "desc": "Estimate annual property tax and monthly escrow payment based on home assessed value and millage rate.",
+          "why": "Calculates exact monthly tax payments added to mortgage escrows."
+        },
+        {
+          "name": "Gross & Net Rental Yield Calculator",
+          "slug": "gross-net-rental-yield-calculator",
+          "desc": "Calculate gross and net rental yield percentages for investment real estate properties.",
+          "why": "Evaluates property investment return relative to purchase price and operating costs."
+        },
+        {
+          "name": "Commercial Lease Rent Calculator",
+          "slug": "commercial-lease-rent-calculator",
+          "desc": "Calculate monthly and annual commercial rent costs based on square footage and annual cost per square foot.",
+          "why": "Converts commercial real estate rate quotes (e.g. $25/sqft/yr) into monthly rent checks."
+        },
+        {
+          "name": "Extra Mortgage Payment Calculator",
+          "slug": "extra-mortgage-calc",
+          "desc": "Interest savings from extra payments.",
+          "why": "Shows extra payment impact."
+        },
+        {
+          "name": "Property ROI Calculator",
+          "slug": "property-roi",
+          "desc": "Property investment total ROI.",
+          "why": "Overall property performance."
+        },
+        {
+          "name": "Square Footage Calculator",
+          "slug": "sqft-calculator",
+          "desc": "Calculate room square footage.",
+          "why": "Accurate room measurements."
+        }
+      ]
+    },
+    {
+      "name": "Insurance Tools",
+      "slug": "insurance-tools",
+      "tools": [
+        {
+          "name": "Life Insurance Needs Calculator",
+          "slug": "life-insurance-needs-calculator",
+          "desc": "Estimate a life insurance coverage amount using an income-replacement method.",
+          "why": "Combines income replacement, debts, future expenses and existing savings into one target figure."
+        },
+        {
+          "name": "Insurance Coverage Gap Calculator",
+          "slug": "insurance-coverage-gap-calculator",
+          "desc": "Compare total value at risk against current policy coverage to spot an underinsurance gap.",
+          "why": "Flags underinsurance in one step instead of manually comparing two numbers."
+        },
+        {
+          "name": "Health Insurance Deductible Tracker",
+          "slug": "health-insurance-deductible-tracker",
+          "desc": "Track medical expenses against your annual deductible and see how much remains.",
+          "why": "Keeps a running tally through the year so you know when the deductible will be met."
+        },
+        {
+          "name": "Insurance Deductible vs Premium Tradeoff Calculator",
+          "slug": "deductible-premium-tradeoff-calculator",
+          "desc": "Compare a higher-deductible plan against a lower-deductible plan to find the break-even claim count.",
+          "why": "Shows exactly how many claims you’d need to file for the pricier plan to pay off."
+        },
+        {
+          "name": "Renters Insurance Coverage Estimator",
+          "slug": "renters-insurance-coverage-estimator",
+          "desc": "Estimate total belongings value by category to size a renters insurance policy.",
+          "why": "Breaks belongings into categories so nothing gets forgotten when estimating coverage needs."
+        },
+        {
+          "name": "Umbrella Policy Coverage Calculator",
+          "slug": "umbrella-policy-coverage-calculator",
+          "desc": "Estimate umbrella liability coverage needed based on net worth and base policy limits.",
+          "why": "Applies the common rule of insuring at least up to your net worth."
+        },
+        {
+          "name": "Insurance Claim Documentation Checklist",
+          "slug": "insurance-claim-documentation-checklist",
+          "desc": "Get a checklist of documentation to gather for common insurance claim types.",
+          "why": "Prevents a delayed or denied claim from missing paperwork."
+        },
+        {
+          "name": "Term vs Whole Life Insurance Comparison",
+          "slug": "term-vs-whole-life-comparison",
+          "desc": "Model the classic \"buy term, invest the difference\" comparison between term and whole life insurance.",
+          "why": "Shows what investing the premium difference could grow to versus paying for whole life."
+        },
+        {
+          "name": "HSA Contribution Calculator",
+          "slug": "hsa-contribution-calculator",
+          "desc": "Calculate remaining HSA contribution room for the year based on coverage type and age.",
+          "why": "Applies current IRS limits, including the age-55 catch-up contribution."
+        },
+        {
+          "name": "Insurance Premium Payment Frequency Calculator",
+          "slug": "premium-payment-frequency-calculator",
+          "desc": "Compare the total annual cost of paying insurance monthly versus paying in full.",
+          "why": "Surfaces the installment surcharge insurers often add for monthly billing."
+        },
+        {
+          "name": "Out-of-Pocket Maximum Tracker",
+          "slug": "out-of-pocket-maximum-tracker",
+          "desc": "Track medical expenses against your annual out-of-pocket maximum.",
+          "why": "Tells you exactly when your plan should start covering 100% of costs for the year."
+        },
+        {
+          "name": "Insurance Policy Renewal Reminder",
+          "slug": "insurance-policy-renewal-reminder",
+          "desc": "Track renewal dates across multiple insurance policies and see which is coming up soonest.",
+          "why": "Sorts every policy by days until renewal so nothing lapses unnoticed."
+        },
+        {
+          "name": "Auto Insurance Comparison",
+          "slug": "auto-insurance-comp",
+          "desc": "Compare auto coverage levels.",
+          "why": "Evaluates insurance options."
+        },
+        {
+          "name": "Disability Insurance Calculator",
+          "slug": "disability-insurance",
+          "desc": "Disability coverage needs.",
+          "why": "Income replacement coverage."
+        }
+      ]
+    },
+    {
+      "name": "Retirement Planning Tools",
+      "slug": "retirement-planning-tools",
+      "tools": [
+        {
+          "name": "Social Security Benefit Estimator",
+          "slug": "social-security-benefit-estimator",
+          "desc": "Estimate your adjusted monthly Social Security benefit for claiming early or delaying past full retirement age.",
+          "why": "Applies the SSA’s official early/delayed retirement adjustment formulas."
+        },
+        {
+          "name": "401(k) Employer Match Calculator",
+          "slug": "employer-match-calculator",
+          "desc": "Calculate your 401(k) contribution, employer match, and any match you’re leaving on the table.",
+          "why": "Flags exactly how much free employer match is being missed at your current contribution rate."
+        },
+        {
+          "name": "4% Rule Withdrawal Calculator",
+          "slug": "withdrawal-rate-calculator",
+          "desc": "Calculate sustainable annual withdrawal from a portfolio, or the portfolio needed for a spending target.",
+          "why": "Works in both directions of the classic safe withdrawal rate calculation."
+        },
+        {
+          "name": "Required Minimum Distribution (RMD) Calculator",
+          "slug": "rmd-calculator",
+          "desc": "Calculate your required minimum distribution from a retirement account using the IRS Uniform Lifetime Table.",
+          "why": "Avoids the steep IRS penalty for missing or underpaying an RMD."
+        },
+        {
+          "name": "Retirement Income Replacement Ratio Calculator",
+          "slug": "income-replacement-ratio-calculator",
+          "desc": "Calculate what percentage of your current income your expected retirement income will replace.",
+          "why": "Compares your plan against the common 70-80% replacement ratio guideline."
+        },
+        {
+          "name": "Years to Retirement Countdown Calculator",
+          "slug": "years-to-retirement-countdown",
+          "desc": "Calculate your exact retirement date and countdown from your birth date and target retirement age.",
+          "why": "Turns a target age into an exact date, plus days and working days remaining."
+        },
+        {
+          "name": "Pension Lump Sum vs Annuity Comparison",
+          "slug": "pension-lump-sum-vs-annuity",
+          "desc": "Compare a pension lump sum offer against the monthly annuity option using an implied interest rate.",
+          "why": "Reveals the effective interest rate the annuity option represents, for a like-for-like comparison."
+        },
+        {
+          "name": "Catch-Up Contribution Calculator",
+          "slug": "catch-up-contribution-calculator",
+          "desc": "Calculate your total retirement account contribution limit including age-based catch-up contributions.",
+          "why": "Applies the SECURE 2.0 enhanced catch-up limits for ages 60-63 automatically."
+        },
+        {
+          "name": "Coast FIRE Calculator",
+          "slug": "coast-fire-calculator",
+          "desc": "Calculate your Coast FIRE number — the amount you need saved today to coast to your retirement goal.",
+          "why": "Shows whether compound growth alone will get you to your target without further contributions."
+        },
+        {
+          "name": "Retirement Healthcare Cost Estimator",
+          "slug": "retirement-healthcare-cost-estimator",
+          "desc": "Estimate total lifetime healthcare costs in retirement accounting for healthcare-specific inflation.",
+          "why": "Compounds healthcare costs (which usually inflate faster than general prices) across your retirement years."
+        },
+        {
+          "name": "Social Security Claiming Age Comparison",
+          "slug": "social-security-claiming-age-comparison",
+          "desc": "Compare monthly benefit and total collected by a chosen age across several Social Security claiming ages.",
+          "why": "Lays out multiple claiming ages side by side instead of calculating them one at a time."
+        },
+        {
+          "name": "Required Savings Rate Calculator",
+          "slug": "required-savings-rate-calculator",
+          "desc": "Calculate the monthly savings amount and percentage of income needed to reach a retirement goal.",
+          "why": "Converts a target nest egg and timeline into a concrete monthly savings figure."
+        },
+        {
+          "name": "FIRE Number Calculator",
+          "slug": "fire-number-calc",
+          "desc": "Financial Independence number.",
+          "why": "FIRE savings target."
+        },
+        {
+          "name": "IRA Contribution Calculator",
+          "slug": "ira-contrib-calc",
+          "desc": "IRA contribution limits.",
+          "why": "Maximize tax-advantaged savings."
+        },
+        {
+          "name": "Retirement Income Planner",
+          "slug": "retirement-income",
+          "desc": "Plan retirement income sources.",
+          "why": "Project total retirement income."
+        }
+      ]
+    },
+    {
+      "name": "Education & Teaching Tools",
+      "slug": "education-tools",
+      "tools": [
+        {
+          "name": "Lesson Plan Builder",
+          "slug": "lesson-plan-builder",
+          "desc": "Create structured lesson plans with objectives, activities, and time allocations.",
+          "why": "Helps teachers organize class time with clear learning goals."
+        },
+        {
+          "name": "Grading Rubric Generator",
+          "slug": "rubric-generator",
+          "desc": "Generate grading rubrics with customizable criteria and performance levels.",
+          "why": "Standardizes grading with clear expectations."
+        },
+        {
+          "name": "Reading Level Analyzer",
+          "slug": "reading-level-analyzer",
+          "desc": "Analyze text Flesch-Kincaid grade level and reading ease score.",
+          "why": "Ensures materials match target reading ability."
+        },
+        {
+          "name": "Class Average Calculator",
+          "slug": "class-average-calculator",
+          "desc": "Calculate mean, median, and mode of student scores.",
+          "why": "Quick class performance statistics."
+        },
+        {
+          "name": "Classroom Activity Timer",
+          "slug": "classroom-timer",
+          "desc": "Countdown timer for classroom activities with labels.",
+          "why": "Keeps class activities on schedule."
+        },
+        {
+          "name": "Bell Schedule Maker",
+          "slug": "bell-schedule-maker",
+          "desc": "Create and display a custom school bell/period schedule.",
+          "why": "Quick reference for daily class periods."
+        },
+        {
+          "name": "Seating Arrangement Randomizer",
+          "slug": "seating-randomizer",
+          "desc": "Randomly assign students to seats.",
+          "why": "Creates fair seating and prevents cliques."
+        },
+        {
+          "name": "Group Project Team Maker",
+          "slug": "group-maker",
+          "desc": "Divide students into random balanced teams.",
+          "why": "Distributes students evenly for group work."
+        },
+        {
+          "name": "Homework Load Estimator",
+          "slug": "homework-load-estimator",
+          "desc": "Estimate total weekly homework time by subject.",
+          "why": "Prevents student burnout by balancing workload."
+        },
+        {
+          "name": "Student Progress Tracker",
+          "slug": "student-progress-tracker",
+          "desc": "Track individual student scores across assignments.",
+          "why": "Monitors academic growth over time."
+        },
+        {
+          "name": "Field Trip Budget Planner",
+          "slug": "field-trip-budget",
+          "desc": "Calculate per-student costs for field trips.",
+          "why": "Ensures trips stay within budget."
+        },
+        {
+          "name": "Curriculum Mapping Tool",
+          "slug": "curriculum-mapper",
+          "desc": "Map learning standards to units and assessments.",
+          "why": "Ensures all standards are covered in the year."
+        },
+        {
+          "name": "Classroom Supply Budget",
+          "slug": "classroom-supply-budget",
+          "desc": "Track classroom supply purchases against a budget.",
+          "why": "Keeps teacher spending within allocated funds."
+        },
+        {
+          "name": "Student Behavior Point Tracker",
+          "slug": "student-behavior-tracker",
+          "desc": "Track positive and negative behavior points.",
+          "why": "Encourages good behavior with point system."
+        },
+        {
+          "name": "Debate Timer",
+          "slug": "debate-timer",
+          "desc": "Debate Timer",
+          "why": "Useful tool."
+        },
+        {
+          "name": "Vocabulary Quiz Maker",
+          "slug": "vocabulary-quiz-maker",
+          "desc": "Vocabulary Quiz Maker",
+          "why": "Useful tool."
+        },
+        {
+          "name": "Grade Boundary Calculator",
+          "slug": "grade-boundary-calc",
+          "desc": "Grade Boundary Calculator",
+          "why": "Useful tool."
+        },
+        {
+          "name": "Attendance Tracker",
+          "slug": "attendance-tracker",
+          "desc": "Attendance Tracker",
+          "why": "Useful tool."
+        }
+      ]
+    },
+    {
+      "name": "Legal & Compliance Tools",
+      "slug": "legal-tools",
+      "tools": [
+        {
+          "name": "NDA Generator",
+          "slug": "nda-generator",
+          "desc": "Generate a basic non-disclosure agreement from party details.",
+          "why": "Creates starting NDA templates."
+        },
+        {
+          "name": "Contract Review Checklist",
+          "slug": "contract-checklist",
+          "desc": "Key clauses checklist when reviewing contracts.",
+          "why": "Ensures no critical clause is overlooked."
+        },
+        {
+          "name": "Legal Hourly Billing Calculator",
+          "slug": "hourly-billing-calculator",
+          "desc": "Calculate legal fees from hourly rate and time.",
+          "why": "Converts time to billable amounts."
+        },
+        {
+          "name": "Court Date Countdown",
+          "slug": "court-date-countdown",
+          "desc": "Count down days to court dates with milestones.",
+          "why": "Tracks approaching legal deadlines."
+        },
+        {
+          "name": "Legal Fee Estimator",
+          "slug": "legal-fee-estimator",
+          "desc": "Estimate total legal costs by case type.",
+          "why": "Helps budget for legal representation."
+        },
+        {
+          "name": "Document Retention Scheduler",
+          "slug": "document-retention-scheduler",
+          "desc": "Calculate document retention periods by type.",
+          "why": "Ensures records compliance."
+        },
+        {
+          "name": "Billable Hours Tracker",
+          "slug": "billable-hours-tracker",
+          "desc": "Log billable hours across clients.",
+          "why": "Simplifies time tracking for billing."
+        },
+        {
+          "name": "GDPR Compliance Checklist",
+          "slug": "gdpr-compliance-checklist",
+          "desc": "GDPR compliance assessment for websites.",
+          "why": "Identifies data protection gaps."
+        },
+        {
+          "name": "Terms of Service Generator",
+          "slug": "terms-of-service-generator",
+          "desc": "Generate basic website terms of service.",
+          "why": "Creates legal framework for websites."
+        },
+        {
+          "name": "Privacy Policy Generator",
+          "slug": "privacy-policy-generator",
+          "desc": "Generate basic website privacy policy.",
+          "why": "Meets data transparency requirements."
+        },
+        {
+          "name": "Legal Deadline Calculator",
+          "slug": "legal-deadline-calculator",
+          "desc": "Calculate filing deadlines with business days.",
+          "why": "Prevents missed court deadlines."
+        },
+        {
+          "name": "Cease and Desist Template",
+          "slug": "cease-desist-template",
+          "desc": "Generate cease and desist letter.",
+          "why": "Structured format for legal warnings."
+        },
+        {
+          "name": "Power of Attorney Template",
+          "slug": "power-of-attorney-template",
+          "desc": "Generate basic power of attorney form.",
+          "why": "Creates legal authority delegation template."
+        },
+        {
+          "name": "Trademark Search Prep",
+          "slug": "trademark-search-prep",
+          "desc": "Prepare trademark clearance search plan.",
+          "why": "Organizes pre-filing trademark search."
+        },
+        {
+          "name": "Statute of Limitations Reference",
+          "slug": "statute-of-limitations-ref",
+          "desc": "Reference guide for limitation periods.",
+          "why": "Quick lookup for legal time limits."
+        }
+      ]
+    },
+    {
+      "name": "Freelance & Gig Tools",
+      "slug": "freelance-tools",
+      "tools": [
+        {
+          "name": "Project Pricing Calculator",
+          "slug": "project-pricing-calculator",
+          "desc": "Calculate flat-rate project pricing from hours and rate.",
+          "why": "Ensures profitable project pricing."
+        },
+        {
+          "name": "Scope of Work Generator",
+          "slug": "scope-of-work-generator",
+          "desc": "Generate detailed scope of work documents.",
+          "why": "Defines deliverables clearly."
+        },
+        {
+          "name": "Client Proposal Builder",
+          "slug": "client-proposal-builder",
+          "desc": "Create professional project proposals.",
+          "why": "Wins clients with structured proposals."
+        },
+        {
+          "name": "Freelance Tax Estimator",
+          "slug": "freelance-tax-estimator",
+          "desc": "Estimate quarterly tax payments.",
+          "why": "Prevents tax-time surprises."
+        },
+        {
+          "name": "Project Timeline Estimator",
+          "slug": "project-timeline-estimator",
+          "desc": "Estimate project duration with buffer.",
+          "why": "Sets realistic client expectations."
+        },
+        {
+          "name": "Client Invoice Tracker",
+          "slug": "client-invoice-tracker",
+          "desc": "Track invoice status and payments.",
+          "why": "Improves cash flow visibility."
+        },
+        {
+          "name": "Rate Increase Calculator",
+          "slug": "rate-increase-calculator",
+          "desc": "Calculate new rates with inflation.",
+          "why": "Justifies annual rate increases."
+        },
+        {
+          "name": "Time Tracking Summary",
+          "slug": "time-tracking-summary",
+          "desc": "Log time entries with project summaries.",
+          "why": "Improves billing accuracy."
+        },
+        {
+          "name": "Expense Deduction Tracker",
+          "slug": "expense-deduction-tracker",
+          "desc": "Track deductible business expenses.",
+          "why": "Maximizes tax deductions."
+        },
+        {
+          "name": "Client Onboarding Checklist",
+          "slug": "client-onboarding-checklist",
+          "desc": "Onboarding checklist for new clients.",
+          "why": "Ensures consistent client starts."
+        },
+        {
+          "name": "Late Payment Fee Calculator",
+          "slug": "late-payment-fee-calculator",
+          "desc": "Calculate late payment fees on invoices.",
+          "why": "Encourages timely payments."
+        },
+        {
+          "name": "Monthly Profit & Loss",
+          "slug": "profit-loss-dashboard",
+          "desc": "Monthly profit/loss from income and expenses.",
+          "why": "Clear financial picture."
+        },
+        {
+          "name": "Portfolio Project Tracker",
+          "slug": "portfolio-tracker",
+          "desc": "Track completed projects for portfolio.",
+          "why": "Organizes past work."
+        },
+        {
+          "name": "Annual Contract Value Calculator",
+          "slug": "contract-value-calculator",
+          "desc": "Calculate total retainer contract value.",
+          "why": "Shows recurring revenue picture."
+        },
+        {
+          "name": "Meeting Scheduler Template",
+          "slug": "meeting-scheduler-template",
+          "desc": "Meeting request templates with agenda.",
+          "why": "Streamlines client scheduling."
+        },
+        {
+          "name": "Invoice Number Generator",
+          "slug": "invoice-number-gen"
+        },
+        {
+          "name": "Freelance Income Tax Estimator",
+          "slug": "freelance-income-tax"
+        }
+      ]
+    },
+    {
+      "name": "Social Media Tools",
+      "slug": "social-media-tools",
+      "tools": [
+        {
+          "name": "Engagement Rate Calculator",
+          "slug": "engagement-rate-calculator",
+          "desc": "Calculate social media engagement rate.",
+          "why": "Measures content performance."
+        },
+        {
+          "name": "Social Media Bio Generator",
+          "slug": "bio-generator",
+          "desc": "Generate professional social media bios.",
+          "why": "Creates compelling profiles."
+        },
+        {
+          "name": "Post Length Optimizer",
+          "slug": "post-length-optimizer",
+          "desc": "Check post text against platform limits.",
+          "why": "Ensures posts fit platform constraints."
+        },
+        {
+          "name": "Content Idea Generator",
+          "slug": "content-idea-generator",
+          "desc": "Generate content ideas by niche.",
+          "why": "Overcomes creative blocks."
+        },
+        {
+          "name": "Follower Growth Calculator",
+          "slug": "follower-growth-calculator",
+          "desc": "Calculate and project follower growth.",
+          "why": "Tracks account growth trajectory."
+        },
+        {
+          "name": "Social Media ROI Calculator",
+          "slug": "social-media-roi-calculator",
+          "desc": "Calculate ROI for social ad campaigns.",
+          "why": "Measures ad spend effectiveness."
+        },
+        {
+          "name": "Content Calendar Planner",
+          "slug": "content-calendar-planner",
+          "desc": "Plan content across platforms by week.",
+          "why": "Maintains consistent posting."
+        },
+        {
+          "name": "Call-to-Action Generator",
+          "slug": "cta-generator",
+          "desc": "Generate effective CTAs for posts.",
+          "why": "Drives conversions with proven formulas."
+        },
+        {
+          "name": "A/B Test Significance Calculator",
+          "slug": "ab-test-calculator",
+          "desc": "Determine A/B test statistical significance.",
+          "why": "Prevents premature test decisions."
+        },
+        {
+          "name": "Influencer Rate Calculator",
+          "slug": "influencer-rate-calculator",
+          "desc": "Calculate influencer collaboration rates.",
+          "why": "Market-based pricing for sponsored content."
+        },
+        {
+          "name": "Video Script Timer",
+          "slug": "video-script-timer",
+          "desc": "Estimate video duration from word count.",
+          "why": "Ensures scripts match target length."
+        },
+        {
+          "name": "Username Format Checker",
+          "slug": "username-checker",
+          "desc": "Check username format for platforms.",
+          "why": "Validates username compliance."
+        },
+        {
+          "name": "Hashtag Performance Analyzer",
+          "slug": "hashtag-analyzer",
+          "desc": "Analyze hashtag combinations.",
+          "why": "Helps choose effective hashtags."
+        },
+        {
+          "name": "Social Proof Formatter",
+          "slug": "social-proof-formatter",
+          "desc": "Format large numbers for social display.",
+          "why": "Presents stats in readable formats."
+        },
+        {
+          "name": "Best Posting Time Finder",
+          "slug": "posting-time-finder",
+          "desc": "Determine optimal posting times.",
+          "why": "Maximizes post visibility."
+        },
+        {
+          "name": "Post Scheduling Planner",
+          "slug": "social-post-scheduler",
+          "desc": "Post Scheduling Planner",
+          "why": "Useful tool."
+        },
+        {
+          "name": "Viral Potential Scorer",
+          "slug": "viral-potential-scorer",
+          "desc": "Viral Potential Scorer",
+          "why": "Useful tool."
+        }
+      ]
+    },
+    {
+      "name": "Data & Analytics Tools",
+      "slug": "data-tools",
+      "tools": [
+        {
+          "name": "Chi-Square Test Calculator",
+          "slug": "chi-square-calculator",
+          "desc": "Chi-square goodness-of-fit test.",
+          "why": "Tests observed vs expected distributions."
+        },
+        {
+          "name": "Sample Size Calculator",
+          "slug": "sample-size-calculator",
+          "desc": "Calculate survey sample size needed.",
+          "why": "Ensures valid research participation."
+        },
+        {
+          "name": "Z-Score Calculator",
+          "slug": "z-score-calculator",
+          "desc": "Calculate z-scores and probabilities.",
+          "why": "Standardizes scores for comparison."
+        },
+        {
+          "name": "Correlation Calculator",
+          "slug": "correlation-calculator",
+          "desc": "Calculate Pearson correlation coefficient.",
+          "why": "Measures linear relationship strength."
+        },
+        {
+          "name": "Outlier Detector (IQR)",
+          "slug": "outlier-detector",
+          "desc": "Identify outliers using IQR method.",
+          "why": "Finds anomalous data points."
+        },
+        {
+          "name": "Moving Average Calculator",
+          "slug": "moving-average-calculator",
+          "desc": "Calculate simple and exponential moving averages.",
+          "why": "Smooths noisy data for trends."
+        },
+        {
+          "name": "Data Normalizer",
+          "slug": "data-normalizer",
+          "desc": "Normalize data using min-max or z-score.",
+          "why": "Brings values to common scale."
+        },
+        {
+          "name": "Frequency Distribution Maker",
+          "slug": "frequency-distribution",
+          "desc": "Create frequency distribution tables.",
+          "why": "Organizes raw data into groups."
+        },
+        {
+          "name": "Confidence Interval Calculator",
+          "slug": "confidence-interval-calculator",
+          "desc": "Calculate confidence intervals for means.",
+          "why": "Estimates population parameter range."
+        },
+        {
+          "name": "Linear Regression Calculator",
+          "slug": "regression-line-calculator",
+          "desc": "Calculate line of best fit (y=mx+b).",
+          "why": "Finds linear relationship equation."
+        },
+        {
+          "name": "Percentile Rank Calculator",
+          "slug": "percentile-calculator",
+          "desc": "Calculate percentile ranks in datasets.",
+          "why": "Shows relative position in distribution."
+        },
+        {
+          "name": "T-Test Calculator",
+          "slug": "t-test-calculator",
+          "desc": "Independent samples t-test.",
+          "why": "Tests if group means differ."
+        },
+        {
+          "name": "CSV Column Statistics",
+          "slug": "csv-column-stats",
+          "desc": "Column-wise statistics from CSV data.",
+          "why": "Quick data profiling."
+        },
+        {
+          "name": "Probability Calculator",
+          "slug": "probability-calculator",
+          "desc": "Basic and conditional probability.",
+          "why": "Solves common probability questions."
+        },
+        {
+          "name": "Pooled Variance Calculator",
+          "slug": "variance-calculator",
+          "desc": "Calculate pooled variance from groups.",
+          "why": "Used in t-tests and ANOVA."
+        },
+        {
+          "name": "Data Pivot Table",
+          "slug": "data-pivot-table",
+          "desc": "Data Pivot Table",
+          "why": "Useful tool."
+        },
+        {
+          "name": "Histogram Maker",
+          "slug": "histogram-maker",
+          "desc": "Histogram Maker",
+          "why": "Useful tool."
+        }
+      ]
+    },
+    {
+      "name": "E-Commerce Tools",
+      "slug": "ecommerce-tools",
+      "tools": [
+        {
+          "name": "Product Markup Calculator",
+          "slug": "product-markup-calculator",
+          "desc": "Calculate selling price from cost and markup.",
+          "why": "Ensures profitable product pricing."
+        },
+        {
+          "name": "Shipping Cost Estimator",
+          "slug": "shipping-cost-estimator",
+          "desc": "Estimate shipping costs by weight and zone.",
+          "why": "Quotes accurate shipping charges."
+        },
+        {
+          "name": "FBA Fee Estimator",
+          "slug": "fba-fee-calculator",
+          "desc": "Estimate Amazon FBA fees by category.",
+          "why": "Understand fulfillment costs."
+        },
+        {
+          "name": "SKU Generator",
+          "slug": "sku-generator",
+          "desc": "Generate systematic SKU codes.",
+          "why": "Creates organized inventory codes."
+        },
+        {
+          "name": "Profit Per Unit Calculator",
+          "slug": "profit-per-unit-calculator",
+          "desc": "Calculate true per-unit profitability.",
+          "why": "Shows profit after all costs."
+        },
+        {
+          "name": "Economic Order Quantity Calculator",
+          "slug": "eoq-calculator",
+          "desc": "Calculate optimal reorder quantity.",
+          "why": "Minimizes inventory costs."
+        },
+        {
+          "name": "Coupon Code Generator",
+          "slug": "coupon-code-generator",
+          "desc": "Generate random coupon codes in bulk.",
+          "why": "Creates promotional codes."
+        },
+        {
+          "name": "Return Rate Calculator",
+          "slug": "return-rate-calculator",
+          "desc": "Calculate product return rate and cost.",
+          "why": "Identifies problematic products."
+        },
+        {
+          "name": "Inventory Turnover Calculator",
+          "slug": "inventory-turnover-calculator",
+          "desc": "Calculate inventory turnover ratio.",
+          "why": "Measures selling efficiency."
+        },
+        {
+          "name": "Landed Cost Calculator",
+          "slug": "landed-cost-calculator",
+          "desc": "Calculate total import landed cost.",
+          "why": "Shows true international sourcing costs."
+        },
+        {
+          "name": "Pricing Psychology Tool",
+          "slug": "pricing-psychology-tool",
+          "desc": "Apply psychological pricing strategies.",
+          "why": "Maximizes perceived value."
+        },
+        {
+          "name": "Sales Forecast Calculator",
+          "slug": "sales-forecast-calculator",
+          "desc": "Project future sales from growth rates.",
+          "why": "Plans inventory from expected demand."
+        },
+        {
+          "name": "Average Order Value Calculator",
+          "slug": "aov-calculator",
+          "desc": "Calculate AOV and revenue impact.",
+          "why": "Identifies revenue growth opportunities."
+        },
+        {
+          "name": "Product Photography Checklist",
+          "slug": "product-photo-checklist",
+          "desc": "Checklist for product photo shoots.",
+          "why": "Ensures consistent product images."
+        },
+        {
+          "name": "Product Description Template",
+          "slug": "product-description-template",
+          "desc": "Generate structured product descriptions.",
+          "why": "Creates converting product copy."
+        },
+        {
+          "name": "Domain Name Generator",
+          "slug": "domain-name-gen"
+        },
+        {
+          "name": "Product Margin Calculator",
+          "slug": "product-margin-calc"
+        },
+        {
+          "name": "Product Bundle Calculator",
+          "slug": "product-bundle-calc",
+          "desc": "Product Bundle Calculator",
+          "why": "Useful tool."
+        }
+      ]
+    },
+    {
+      "name": "Sustainability & Eco Tools",
+      "slug": "sustainability-tools",
+      "tools": [
+        {
+          "name": "Carbon Footprint Calculator",
+          "slug": "carbon-footprint-calculator",
+          "desc": "Estimate annual carbon footprint.",
+          "why": "Identifies biggest emission sources."
+        },
+        {
+          "name": "Home Energy Audit Checklist",
+          "slug": "energy-audit-checklist",
+          "desc": "Room-by-room energy efficiency check.",
+          "why": "Finds energy savings opportunities."
+        },
+        {
+          "name": "Daily Water Usage Calculator",
+          "slug": "water-usage-calculator",
+          "desc": "Calculate daily household water use.",
+          "why": "Reveals water consumption patterns."
+        },
+        {
+          "name": "Recycling Material Guide",
+          "slug": "recycling-guide",
+          "desc": "Look up recyclability of materials.",
+          "why": "Reduces recycling contamination."
+        },
+        {
+          "name": "Commute Emissions Calculator",
+          "slug": "commute-emissions-calculator",
+          "desc": "Compare commute method emissions.",
+          "why": "Shows transport environmental impact."
+        },
+        {
+          "name": "Tree Planting Offset Calculator",
+          "slug": "tree-offset-calculator",
+          "desc": "Trees needed to offset CO2.",
+          "why": "Translates carbon to tree planting."
+        },
+        {
+          "name": "Solar Panel Savings Estimator",
+          "slug": "solar-savings-estimator",
+          "desc": "Estimate solar installation savings.",
+          "why": "Evaluates solar investment case."
+        },
+        {
+          "name": "Paper Usage Calculator",
+          "slug": "paper-usage-calculator",
+          "desc": "Calculate paper consumption impact.",
+          "why": "Motivates digital alternatives."
+        },
+        {
+          "name": "Plastic Footprint Calculator",
+          "slug": "plastic-footprint-calculator",
+          "desc": "Estimate weekly plastic consumption.",
+          "why": "Helps reduce plastic waste."
+        },
+        {
+          "name": "Low Carbon Diet Planner",
+          "slug": "carbon-diet-planner",
+          "desc": "Compare food carbon emissions.",
+          "why": "Reduces dietary carbon footprint."
+        },
+        {
+          "name": "Electricity Carbon Calculator",
+          "slug": "electricity-carbon-calculator",
+          "desc": "Calculate CO2 from electricity use.",
+          "why": "Converts kWh to carbon."
+        },
+        {
+          "name": "Food Waste Tracker",
+          "slug": "food-waste-tracker",
+          "desc": "Track weekly food waste impact.",
+          "why": "Motivates waste reduction."
+        },
+        {
+          "name": "Insulation Savings Calculator",
+          "slug": "insulation-savings-calculator",
+          "desc": "Estimate insulation upgrade savings.",
+          "why": "Shows insulation payback period."
+        },
+        {
+          "name": "Appliance Efficiency Comparator",
+          "slug": "appliance-efficiency-comparator",
+          "desc": "Compare appliance energy usage.",
+          "why": "Finds most efficient options."
+        },
+        {
+          "name": "Eco-Friendly Product Scorer",
+          "slug": "eco-product-scorer",
+          "desc": "Score products on sustainability.",
+          "why": "Informed eco purchasing decisions."
+        },
+        {
+          "name": "Travel Carbon Calculator",
+          "slug": "carbon-travel-calc"
+        },
+        {
+          "name": "Carbon Label Generator",
+          "slug": "carbon-label-gen",
+          "desc": "Carbon Label Generator",
+          "why": "Useful tool."
+        }
+      ]
+    },
+    {
+      "name": "Presentation Tools",
+      "slug": "presentation-tools",
+      "tools": [
+        {
+          "name": "Slide Count Estimator",
+          "slug": "slide-count-estimator",
+          "desc": "Estimate slides needed for presentation length.",
+          "why": "Plans slide count by pace."
+        },
+        {
+          "name": "Speech Word Count Timer",
+          "slug": "speech-word-timer",
+          "desc": "Calculate speaking time from words.",
+          "why": "Ensures speeches fit time."
+        },
+        {
+          "name": "Presentation Outline Generator",
+          "slug": "presentation-outline",
+          "desc": "Generate structured presentation outline.",
+          "why": "Creates logical presentation flow."
+        },
+        {
+          "name": "Audience-Room Size Calculator",
+          "slug": "audience-room-calculator",
+          "desc": "Calculate room capacity needed.",
+          "why": "Ensures comfortable seating."
+        },
+        {
+          "name": "Q&A Session Timer",
+          "slug": "qa-timer",
+          "desc": "Time Q&A with per-question limits.",
+          "why": "Keeps Q&A fair and on time."
+        },
+        {
+          "name": "Speaking Pace Calculator",
+          "slug": "speaking-pace-calculator",
+          "desc": "Calculate words per minute.",
+          "why": "Adjusts pace for clarity."
+        },
+        {
+          "name": "Elevator Pitch Timer",
+          "slug": "elevator-pitch-timer",
+          "desc": "30-60 second pitch timer.",
+          "why": "Practices concise introductions."
+        },
+        {
+          "name": "Presentation Day Checklist",
+          "slug": "presentation-checklist",
+          "desc": "Pre-presentation preparation checklist.",
+          "why": "Prevents forgotten items."
+        },
+        {
+          "name": "Projector Font Size Calculator",
+          "slug": "font-size-projector",
+          "desc": "Minimum font size for audience distance.",
+          "why": "Ensures text readability."
+        },
+        {
+          "name": "Handout Page Calculator",
+          "slug": "handout-calculator",
+          "desc": "Paper needed for audience handouts.",
+          "why": "Prevents handout shortages."
+        },
+        {
+          "name": "Speaker Introduction Generator",
+          "slug": "speaker-intro-gen",
+          "desc": "Speaker Introduction Generator",
+          "why": "Useful tool."
+        },
+        {
+          "name": "Meeting Agenda Timer",
+          "slug": "meeting-agenda-timer",
+          "desc": "Meeting Agenda Timer",
+          "why": "Useful tool."
+        }
+      ]
+    },
+    {
+      "name": "IT & Networking Tools",
+      "slug": "networking-tools",
+      "tools": [
+        {
+          "name": "Subnet Calculator",
+          "slug": "subnet-calculator",
+          "desc": "Calculate subnet details from IP and CIDR.",
+          "why": "Essential for network planning."
+        },
+        {
+          "name": "IP Address Converter",
+          "slug": "ip-converter",
+          "desc": "Convert IP between decimal, binary, hex.",
+          "why": "Debug IP at binary level."
+        },
+        {
+          "name": "Bandwidth Calculator",
+          "slug": "bandwidth-calculator",
+          "desc": "Calculate file transfer time or bandwidth.",
+          "why": "Plans network capacity."
+        },
+        {
+          "name": "CIDR Notation Calculator",
+          "slug": "cidr-calculator",
+          "desc": "Convert between CIDR and subnet masks.",
+          "why": "Quick network addressing reference."
+        },
+        {
+          "name": "DNS Record Reference",
+          "slug": "dns-reference",
+          "desc": "Look up DNS record types and uses.",
+          "why": "Quick DNS configuration guide."
+        },
+        {
+          "name": "Port Number Reference",
+          "slug": "port-reference",
+          "desc": "Look up common network ports.",
+          "why": "Identify service ports quickly."
+        },
+        {
+          "name": "MAC Address Formatter",
+          "slug": "mac-formatter",
+          "desc": "Convert MAC address formats.",
+          "why": "Standardizes MAC notation."
+        },
+        {
+          "name": "Throughput Calculator",
+          "slug": "throughput-calculator",
+          "desc": "Calculate effective throughput with overhead.",
+          "why": "Shows real vs advertised speeds."
+        },
+        {
+          "name": "SSL Certificate Expiry Calculator",
+          "slug": "ssl-expiry-calculator",
+          "desc": "Calculate days until SSL expires.",
+          "why": "Prevents SSL downtime."
+        },
+        {
+          "name": "Uptime Percentage Calculator",
+          "slug": "uptime-calculator",
+          "desc": "Calculate uptime and allowed downtime.",
+          "why": "Translates SLA nines to minutes."
+        },
+        {
+          "name": "Binary/Hex/Decimal Converter",
+          "slug": "binary-hex-converter",
+          "desc": "Convert between number bases.",
+          "why": "Essential for developers."
+        },
+        {
+          "name": "JWT Decoder",
+          "slug": "jwt-decoder",
+          "desc": "Decode JWT token contents.",
+          "why": "Inspect JWTs without external tools."
+        },
+        {
+          "name": "HTTP Header Reference",
+          "slug": "http-header-reference",
+          "desc": "Look up HTTP headers and values.",
+          "why": "Quick web development reference."
+        },
+        {
+          "name": "API Response Time Calculator",
+          "slug": "api-response-calculator",
+          "desc": "Calculate p95 and p99 response times.",
+          "why": "Identifies API performance issues."
+        },
+        {
+          "name": "Data Transfer Cost Estimator",
+          "slug": "data-transfer-cost",
+          "desc": "Estimate cloud data transfer costs.",
+          "why": "Budgets for egress fees."
+        }
+      ]
+    },
+    {
+      "name": "Typography & Font Tools",
+      "slug": "typography-tools",
+      "tools": [
+        {
+          "name": "Font Pairing Suggester",
+          "slug": "font-pairing-suggester",
+          "desc": "Suggest complementary font pairings.",
+          "why": "Creates harmonious typography."
+        },
+        {
+          "name": "Line Height Calculator",
+          "slug": "line-height-calculator",
+          "desc": "Calculate optimal line height.",
+          "why": "Improves text readability."
+        },
+        {
+          "name": "Paragraph Width Calculator",
+          "slug": "paragraph-width-calculator",
+          "desc": "Calculate ideal paragraph width.",
+          "why": "Prevents too-wide text columns."
+        },
+        {
+          "name": "Vertical Rhythm Calculator",
+          "slug": "vertical-rhythm-calculator",
+          "desc": "Calculate baseline grid spacing.",
+          "why": "Creates harmonious vertical spacing."
+        },
+        {
+          "name": "Modular Scale Calculator",
+          "slug": "modular-scale-calculator",
+          "desc": "Generate modular type scale.",
+          "why": "Harmonious font size progression."
+        },
+        {
+          "name": "Font Size Unit Converter",
+          "slug": "font-size-converter",
+          "desc": "Convert between px, pt, em, rem.",
+          "why": "Translates font size units."
+        },
+        {
+          "name": "Text Contrast Checker",
+          "slug": "text-contrast-checker",
+          "desc": "Check color contrast against WCAG.",
+          "why": "Ensures accessible text."
+        },
+        {
+          "name": "Web Font Loading Snippet",
+          "slug": "web-font-snippet",
+          "desc": "Generate font-face CSS or link tags.",
+          "why": "Optimized font loading."
+        },
+        {
+          "name": "Cap Height Calculator",
+          "slug": "cap-height-calculator",
+          "desc": "Calculate cap and x-height ratios.",
+          "why": "Compares visual font sizes."
+        },
+        {
+          "name": "Word Spacing Calculator",
+          "slug": "word-spacing-calculator",
+          "desc": "Calculate CSS word and letter spacing.",
+          "why": "Fine-tunes text spacing."
+        }
+      ]
+    },
+    {
+      "name": "Baking & Pastry Tools",
+      "slug": "baking-tools",
+      "tools": [
+        {
+          "name": "Recipe Scaler",
+          "slug": "recipe-scaler",
+          "desc": "Scale recipe ingredients by servings.",
+          "why": "Adjusts for different crowd sizes."
+        },
+        {
+          "name": "Oven Temperature Converter",
+          "slug": "oven-temp-converter",
+          "desc": "Convert F, C, and Gas Mark temps.",
+          "why": "Translates oven temps for recipes."
+        },
+        {
+          "name": "Baking Pan Size Converter",
+          "slug": "pan-size-converter",
+          "desc": "Convert between different pan sizes.",
+          "why": "Adjusts batter for different pans."
+        },
+        {
+          "name": "Yeast Conversion Calculator",
+          "slug": "yeast-converter",
+          "desc": "Convert between yeast types.",
+          "why": "Substitutes yeast correctly."
+        },
+        {
+          "name": "Egg Substitute Calculator",
+          "slug": "egg-substitute",
+          "desc": "Calculate egg substitutes for baking.",
+          "why": "Enables egg-free baking."
+        },
+        {
+          "name": "Butter to Oil Converter",
+          "slug": "butter-oil-converter",
+          "desc": "Convert between butter and oil.",
+          "why": "Substitutes fats correctly."
+        },
+        {
+          "name": "High Altitude Baking Adjuster",
+          "slug": "altitude-adjuster",
+          "desc": "Adjust for high altitude baking.",
+          "why": "Prevents high-altitude baking failures."
+        },
+        {
+          "name": "Frosting Quantity Calculator",
+          "slug": "frosting-calculator",
+          "desc": "Calculate frosting needed by cake size.",
+          "why": "Prevents frosting shortages."
+        },
+        {
+          "name": "Sourdough Hydration Calculator",
+          "slug": "sourdough-calculator",
+          "desc": "Calculate dough hydration percentage.",
+          "why": "Controls bread texture."
+        },
+        {
+          "name": "Multi-Stage Baking Timer",
+          "slug": "baking-timer",
+          "desc": "Sequential timers for baking stages.",
+          "why": "Manages complex baking processes."
+        },
+        {
+          "name": "Recipe Unit Converter",
+          "slug": "recipe-unit-converter",
+          "desc": "Recipe Unit Converter",
+          "why": "Useful tool."
+        },
+        {
+          "name": "Dough Hydration Calculator",
+          "slug": "dough-hydration-calc",
+          "desc": "Dough Hydration Calculator",
+          "why": "Useful tool."
+        }
+      ]
+    },
+    {
+      "name": "Moving & Relocation Tools",
+      "slug": "moving-relocation-tools",
+      "tools": [
+        {
+          "name": "Moving Cost Estimator",
+          "slug": "moving-cost-estimator",
+          "desc": "Estimate total moving costs.",
+          "why": "Accurate moving budget."
+        },
+        {
+          "name": "Utility Transfer Checklist",
+          "slug": "utility-checklist",
+          "desc": "Utility setup/transfer checklist.",
+          "why": "No forgotten utilities."
+        },
+        {
+          "name": "Room Inventory Generator",
+          "slug": "room-inventory",
+          "desc": "Moving inventory by room.",
+          "why": "Documents belongings."
+        },
+        {
+          "name": "Address Change Checklist",
+          "slug": "address-change-list",
+          "desc": "Organizations to notify of move.",
+          "why": "Prevents missed mail."
+        },
+        {
+          "name": "Truck Size Estimator",
+          "slug": "truck-size-calc",
+          "desc": "Estimate needed truck size.",
+          "why": "Right-sized truck rental."
+        },
+        {
+          "name": "First Night Box Checklist",
+          "slug": "first-night-box",
+          "desc": "First night essentials list.",
+          "why": "Comfort on moving day."
+        },
+        {
+          "name": "Moving Timeline Planner",
+          "slug": "moving-timeline",
+          "desc": "Week-by-week moving timeline.",
+          "why": "Organized moving preparation."
+        },
+        {
+          "name": "Deposit Refund Checklist",
+          "slug": "deposit-checklist",
+          "desc": "Maximize deposit refund tasks.",
+          "why": "Avoids deductions."
+        },
+        {
+          "name": "Cost of Living Comparator",
+          "slug": "cost-of-living",
+          "desc": "Compare cities by cost.",
+          "why": "Evaluates relocation finances."
+        },
+        {
+          "name": "Packing Supply Calculator",
+          "slug": "packing-supply-calc",
+          "desc": "Calculate packing materials needed.",
+          "why": "Orders right supplies."
+        }
+      ]
+    },
+    {
+      "name": "Mental Health & Wellness Tools",
+      "slug": "mental-health-tools",
+      "tools": [
+        {
+          "name": "Daily Mood Journal",
+          "slug": "mood-journal",
+          "desc": "Log daily moods with notes.",
+          "why": "Identifies mood patterns."
+        },
+        {
+          "name": "Breathing Exercise Timer",
+          "slug": "breathing-timer",
+          "desc": "Guided breathing exercise timers.",
+          "why": "Reduces anxiety with breathing."
+        },
+        {
+          "name": "Gratitude Journal",
+          "slug": "gratitude-journal",
+          "desc": "Record daily gratitude entries.",
+          "why": "Improves wellbeing through gratitude."
+        },
+        {
+          "name": "Sleep Quality Tracker",
+          "slug": "sleep-quality-tracker",
+          "desc": "Track sleep duration and quality.",
+          "why": "Identifies sleep patterns."
+        },
+        {
+          "name": "Mindfulness Timer",
+          "slug": "mindfulness-timer",
+          "desc": "Configurable meditation timer.",
+          "why": "Supports mindfulness practice."
+        },
+        {
+          "name": "Worry Time Journal",
+          "slug": "worry-journal",
+          "desc": "Scheduled worry containment journal.",
+          "why": "Limits excessive worrying."
+        },
+        {
+          "name": "Self-Care Checklist",
+          "slug": "self-care-checklist",
+          "desc": "Weekly self-care checklist by category.",
+          "why": "Ensures consistent self-care."
+        },
+        {
+          "name": "Energy Level Tracker",
+          "slug": "energy-tracker",
+          "desc": "Track energy levels through the day.",
+          "why": "Finds peak productivity hours."
+        },
+        {
+          "name": "Digital Detox Planner",
+          "slug": "digital-detox-planner",
+          "desc": "Structured digital detox schedule.",
+          "why": "Reduces screen time."
+        },
+        {
+          "name": "Stress Level Assessment",
+          "slug": "stress-assessment",
+          "desc": "Self-assess stress with scoring.",
+          "why": "Measures stress objectively."
+        }
+      ]
+    },
+    {
+      "name": "Wedding Planning Tools",
+      "slug": "wedding-tools",
+      "tools": [
+        {
+          "name": "Wedding Budget Calculator",
+          "slug": "wedding-budget-calculator",
+          "desc": "Detailed wedding budget breakdown.",
+          "why": "Prevents overspending."
+        },
+        {
+          "name": "Guest List Manager",
+          "slug": "guest-list-manager",
+          "desc": "Manage guest lists with RSVP tracking.",
+          "why": "Organizes guest information."
+        },
+        {
+          "name": "Wedding Day Timeline",
+          "slug": "wedding-timeline",
+          "desc": "Generate wedding day schedule.",
+          "why": "Keeps wedding day on schedule."
+        },
+        {
+          "name": "Seating Calculator",
+          "slug": "seating-calculator",
+          "desc": "Calculate tables for reception seating.",
+          "why": "Plans reception layout."
+        },
+        {
+          "name": "Vendor Budget Tracker",
+          "slug": "vendor-budget-tracker",
+          "desc": "Track vendor payments and balances.",
+          "why": "Organizes vendor finances."
+        },
+        {
+          "name": "Invitation Quantity Calculator",
+          "slug": "invitation-calculator",
+          "desc": "Calculate invitation quantities.",
+          "why": "Orders right invitation count."
+        },
+        {
+          "name": "Wedding Countdown",
+          "slug": "wedding-countdown",
+          "desc": "Countdown with preparation tasks.",
+          "why": "Tracks time and progress."
+        },
+        {
+          "name": "Flower Quantity Estimator",
+          "slug": "flower-estimator",
+          "desc": "Estimate floral arrangement needs.",
+          "why": "Plans floral orders."
+        },
+        {
+          "name": "Drink Quantity Calculator",
+          "slug": "drink-calculator",
+          "desc": "Calculate drinks for reception.",
+          "why": "Prevents drink shortages."
+        },
+        {
+          "name": "Wedding Hashtag Generator",
+          "slug": "wedding-hashtag",
+          "desc": "Generate wedding hashtags from names.",
+          "why": "Creates memorable hashtags."
+        }
+      ]
+    },
+    {
+      "name": "DIY & Maker Tools",
+      "slug": "diy-tools",
+      "tools": [
+        {
+          "name": "Screw & Bolt Reference",
+          "slug": "screw-bolt-reference",
+          "desc": "Look up fastener sizes and types.",
+          "why": "Identifies right fasteners."
+        },
+        {
+          "name": "Sandpaper Grit Guide",
+          "slug": "sandpaper-guide",
+          "desc": "Sandpaper grit uses by material.",
+          "why": "Right sandpaper for each stage."
+        },
+        {
+          "name": "Wood Joint Selector",
+          "slug": "wood-joint-selector",
+          "desc": "Recommend joint types for projects.",
+          "why": "Strongest joint for the job."
+        },
+        {
+          "name": "Drill Bit Size Reference",
+          "slug": "drill-bit-reference",
+          "desc": "Drill bit sizes for screws.",
+          "why": "Matches holes to fasteners."
+        },
+        {
+          "name": "Stain & Paint Coverage",
+          "slug": "paint-coverage-calc",
+          "desc": "Calculate finish material needed.",
+          "why": "Right amount of paint/stain."
+        },
+        {
+          "name": "Adhesive Type Selector",
+          "slug": "adhesive-selector",
+          "desc": "Recommend adhesive by materials.",
+          "why": "Right glue for the job."
+        },
+        {
+          "name": "DIY Project Cost Estimator",
+          "slug": "diy-cost-estimator",
+          "desc": "Estimate DIY project costs.",
+          "why": "Budget before buying materials."
+        },
+        {
+          "name": "Wire Gauge Reference",
+          "slug": "wire-gauge-ref",
+          "desc": "Wire gauge ampacity ratings.",
+          "why": "Safe wire sizes for electrical."
+        },
+        {
+          "name": "Level & Plumb Calculator",
+          "slug": "level-plumb-calc",
+          "desc": "Calculate leveling adjustments.",
+          "why": "Gets surfaces perfectly level."
+        },
+        {
+          "name": "Tool Maintenance Scheduler",
+          "slug": "tool-maintenance-sched",
+          "desc": "Tool maintenance schedules.",
+          "why": "Extends tool life."
+        }
+      ]
+    },
+    {
+      "name": "Gaming & Tabletop Tools",
+      "slug": "gaming-tools",
+      "tools": [
+        {
+          "name": "Multi-Dice Roller",
+          "slug": "dice-roller",
+          "desc": "Roll d4, d6, d8, d10, d12, d20, d100.",
+          "why": "Digital dice for RPGs."
+        },
+        {
+          "name": "Character Name Generator",
+          "slug": "character-name-gen",
+          "desc": "Generate character names by genre.",
+          "why": "Names for RPG characters."
+        },
+        {
+          "name": "Initiative Tracker",
+          "slug": "initiative-tracker",
+          "desc": "Track combat turn order.",
+          "why": "Manages encounter turns."
+        },
+        {
+          "name": "Loot Splitter",
+          "slug": "loot-splitter",
+          "desc": "Divide loot among party members.",
+          "why": "Fairly splits rewards."
+        },
+        {
+          "name": "Random Encounter Generator",
+          "slug": "encounter-generator",
+          "desc": "Generate encounters by terrain.",
+          "why": "Creates adventure hooks."
+        },
+        {
+          "name": "Game Score Tracker",
+          "slug": "score-tracker",
+          "desc": "Track multi-player game scores.",
+          "why": "Keeps accurate running scores."
+        },
+        {
+          "name": "Playing Card Drawer",
+          "slug": "card-drawer",
+          "desc": "Draw random cards from deck.",
+          "why": "Digital card drawing."
+        },
+        {
+          "name": "Coin Flip Tool",
+          "slug": "coin-flip",
+          "desc": "Virtual coin flip with stats.",
+          "why": "Quick binary decisions."
+        },
+        {
+          "name": "Random Team Generator",
+          "slug": "team-generator",
+          "desc": "Divide players into random teams.",
+          "why": "Creates fair teams."
+        },
+        {
+          "name": "Game Turn Timer",
+          "slug": "game-timer",
+          "desc": "Turn timer for timed games.",
+          "why": "Keeps games moving fairly."
+        },
+        {
+          "name": "Game Score Counter",
+          "slug": "game-score-counter",
+          "desc": "Game Score Counter",
+          "why": "Useful tool."
+        },
+        {
+          "name": "RPG Stat Generator",
+          "slug": "rpg-stat-gen",
+          "desc": "RPG Stat Generator",
+          "why": "Useful tool."
+        }
+      ]
+    },
+    {
+      "name": "Travel Planning Tools",
+      "slug": "travel-planning-tools",
+      "tools": [
+        {
+          "name": "Currency Converter",
+          "slug": "currency-converter",
+          "desc": "Convert between world currencies.",
+          "why": "Quick travel currency math."
+        },
+        {
+          "name": "Trip Expense Splitter",
+          "slug": "trip-expense-splitter",
+          "desc": "Split shared travel expenses.",
+          "why": "Calculates who owes whom."
+        },
+        {
+          "name": "Luggage Weight Checker",
+          "slug": "luggage-weight-checker",
+          "desc": "Check luggage against airline limits.",
+          "why": "Prevents baggage charges."
+        },
+        {
+          "name": "Time Zone Meeting Planner",
+          "slug": "timezone-planner",
+          "desc": "Find overlapping work hours.",
+          "why": "Schedules international meetings."
+        },
+        {
+          "name": "Travel Document Checklist",
+          "slug": "travel-document-checklist",
+          "desc": "Travel document preparation checklist.",
+          "why": "Ensures all documents ready."
+        },
+        {
+          "name": "Vacation Day Optimizer",
+          "slug": "vacation-optimizer",
+          "desc": "Maximize days off around holidays.",
+          "why": "Bridges holidays for more time off."
+        },
+        {
+          "name": "Travel Power Adapter Finder",
+          "slug": "power-adapter-finder",
+          "desc": "Find correct plug type by country.",
+          "why": "Prevents device damage."
+        },
+        {
+          "name": "Trip Itinerary Builder",
+          "slug": "itinerary-builder",
+          "desc": "Create day-by-day travel itinerary.",
+          "why": "Organizes trip activities."
+        },
+        {
+          "name": "Packing Weight Calculator",
+          "slug": "packing-weight-calculator",
+          "desc": "Track packed weight vs luggage limit.",
+          "why": "Prevents overpacking."
+        },
+        {
+          "name": "Layover Time Planner",
+          "slug": "layover-planner",
+          "desc": "Plan layover time utilization.",
+          "why": "Productive use of layover time."
+        },
+        {
+          "name": "Passport Validity Checker",
+          "slug": "passport-validity-check",
+          "desc": "Passport Validity Checker",
+          "why": "Useful tool."
+        },
+        {
+          "name": "Jet Lag Calculator",
+          "slug": "jet-lag-calc",
+          "desc": "Jet Lag Calculator",
+          "why": "Useful tool."
+        }
+      ]
+    },
+    {
+      "name": "Chemistry Tools",
+      "slug": "chemistry-tools",
+      "tools": [
+        {
+          "name": "Molar Mass Calculator",
+          "slug": "molar-mass-calculator",
+          "desc": "Calculate molar mass from formula.",
+          "why": "Essential for stoichiometry."
+        },
+        {
+          "name": "Dilution Calculator",
+          "slug": "dilution-calculator",
+          "desc": "C1V1=C2V2 dilution volumes.",
+          "why": "Prepares target concentrations."
+        },
+        {
+          "name": "Molarity Calculator",
+          "slug": "molarity-calculator",
+          "desc": "Calculate solution molarity.",
+          "why": "Determines solution concentration."
+        },
+        {
+          "name": "pH Calculator",
+          "slug": "ph-calculator",
+          "desc": "pH from H+ concentration.",
+          "why": "Converts pH and H+ values."
+        },
+        {
+          "name": "Ideal Gas Law Calculator",
+          "slug": "ideal-gas-calculator",
+          "desc": "PV=nRT gas law calculator.",
+          "why": "Solves gas law problems."
+        },
+        {
+          "name": "Percent Composition Calculator",
+          "slug": "percent-composition",
+          "desc": "Mass percent of elements in compound.",
+          "why": "Elemental composition analysis."
+        },
+        {
+          "name": "Half-Life Calculator",
+          "slug": "half-life-calculator",
+          "desc": "Radioactive decay calculator.",
+          "why": "Models exponential decay."
+        },
+        {
+          "name": "Standard Cell Voltage Calculator",
+          "slug": "cell-voltage-calculator",
+          "desc": "Calculate electrochemical cell potential.",
+          "why": "Predicts reaction spontaneity."
+        },
+        {
+          "name": "Gas Stoichiometry Calculator",
+          "slug": "gas-stoichiometry",
+          "desc": "Gas volumes at STP.",
+          "why": "Converts moles to liters for gases."
+        },
+        {
+          "name": "Solution Preparation Calculator",
+          "slug": "solution-prep-calculator",
+          "desc": "Calculate solute and solvent amounts.",
+          "why": "Guides lab solution prep."
+        },
+        {
+          "name": "Mole Ratio Calculator",
+          "slug": "mole-ratio-calc",
+          "desc": "Mole Ratio Calculator",
+          "why": "Useful tool."
+        },
+        {
+          "name": "Reaction Balancer Helper",
+          "slug": "reaction-balancer",
+          "desc": "Reaction Balancer Helper",
+          "why": "Useful tool."
+        }
+      ]
+    },
+    {
+      "name": "Human Resources Tools",
+      "slug": "hr-tools",
+      "tools": [
+        {
+          "name": "Interview Scorecard",
+          "slug": "interview-scorecard",
+          "desc": "Create structured interview scorecards.",
+          "why": "Standardizes hiring evaluations."
+        },
+        {
+          "name": "PTO Balance Tracker",
+          "slug": "pto-tracker",
+          "desc": "Track PTO accrual and usage.",
+          "why": "Prevents PTO accounting errors."
+        },
+        {
+          "name": "Employee Cost Calculator",
+          "slug": "employee-cost-calculator",
+          "desc": "Calculate total employment cost.",
+          "why": "Shows full cost beyond salary."
+        },
+        {
+          "name": "Offer Letter Template",
+          "slug": "offer-letter-generator",
+          "desc": "Generate job offer letters.",
+          "why": "Consistent offer communications."
+        },
+        {
+          "name": "Headcount Planning Calculator",
+          "slug": "headcount-planner",
+          "desc": "Calculate staffing needs.",
+          "why": "Plans hiring for demand."
+        },
+        {
+          "name": "Turnover Rate Calculator",
+          "slug": "turnover-calculator",
+          "desc": "Calculate employee turnover rate.",
+          "why": "Measures retention effectiveness."
+        },
+        {
+          "name": "Salary Range Calculator",
+          "slug": "salary-range-calculator",
+          "desc": "Calculate competitive salary ranges.",
+          "why": "Positions compensation competitively."
+        },
+        {
+          "name": "Time to Hire Calculator",
+          "slug": "time-to-hire-calculator",
+          "desc": "Calculate average time to hire.",
+          "why": "Identifies recruitment bottlenecks."
+        },
+        {
+          "name": "Onboarding Timeline Generator",
+          "slug": "onboarding-timeline",
+          "desc": "Generate 30-60-90 day onboarding plan.",
+          "why": "Clear new hire milestones."
+        },
+        {
+          "name": "Absenteeism Rate Calculator",
+          "slug": "absenteeism-calculator",
+          "desc": "Calculate employee absenteeism rate.",
+          "why": "Identifies attendance patterns."
+        },
+        {
+          "name": "Employee Satisfaction Survey",
+          "slug": "employee-satisfaction",
+          "desc": "Employee Satisfaction Survey",
+          "why": "Useful tool."
+        },
+        {
+          "name": "Diversity Metrics Tracker",
+          "slug": "diversity-tracker",
+          "desc": "Diversity Metrics Tracker",
+          "why": "Useful tool."
+        }
+      ]
+    },
+    {
+      "name": "Crypto & Blockchain Tools",
+      "slug": "crypto-blockchain-tools",
+      "tools": [
+        {
+          "name": "Staking Rewards Calculator",
+          "slug": "staking-calculator",
+          "desc": "Calculate staking rewards from APY.",
+          "why": "Projects staking income."
+        },
+        {
+          "name": "Gas Fee Estimator",
+          "slug": "gas-estimator",
+          "desc": "Estimate blockchain gas fees.",
+          "why": "Budgets for transaction costs."
+        },
+        {
+          "name": "DCA Calculator",
+          "slug": "dca-calculator",
+          "desc": "Dollar cost averaging outcomes.",
+          "why": "Shows periodic investing effects."
+        },
+        {
+          "name": "Crypto P&L Calculator",
+          "slug": "crypto-pnl-calculator",
+          "desc": "Calculate crypto profit/loss with fees.",
+          "why": "Tracks actual trading gains."
+        },
+        {
+          "name": "Hash Rate Converter",
+          "slug": "hash-rate-converter",
+          "desc": "Convert between hash rate units.",
+          "why": "Standardizes mining comparisons."
+        },
+        {
+          "name": "Mining Profitability Calculator",
+          "slug": "mining-calculator",
+          "desc": "Calculate mining profitability.",
+          "why": "Determines mining viability."
+        },
+        {
+          "name": "Wallet Address Validator",
+          "slug": "wallet-validator",
+          "desc": "Validate crypto wallet address format.",
+          "why": "Prevents sending to bad addresses."
+        },
+        {
+          "name": "Token Unit Converter",
+          "slug": "token-converter",
+          "desc": "Convert wei/gwei/ether or satoshi/BTC.",
+          "why": "Translates crypto denominations."
+        },
+        {
+          "name": "Crypto Portfolio Tracker",
+          "slug": "crypto-portfolio-tracker",
+          "desc": "Crypto Portfolio Tracker",
+          "why": "Useful tool."
+        },
+        {
+          "name": "Blockchain Fee Comparator",
+          "slug": "blockchain-fee-compare",
+          "desc": "Blockchain Fee Comparator",
+          "why": "Useful tool."
+        }
+      ]
+    },
+    {
+      "name": "Agriculture & Farming Tools",
+      "slug": "agriculture-tools",
+      "tools": [
+        {
+          "name": "Crop Yield Estimator",
+          "slug": "crop-yield-estimator",
+          "desc": "Estimate yield per acre.",
+          "why": "Projects harvest volumes."
+        },
+        {
+          "name": "Fertilizer Calculator",
+          "slug": "fertilizer-calculator",
+          "desc": "Calculate fertilizer from soil tests.",
+          "why": "Right nutrients without over-fertilizing."
+        },
+        {
+          "name": "Irrigation Schedule Planner",
+          "slug": "irrigation-planner",
+          "desc": "Create irrigation schedules.",
+          "why": "Optimizes water usage."
+        },
+        {
+          "name": "Seed Rate Calculator",
+          "slug": "seed-rate-calculator",
+          "desc": "Calculate seed quantity for area.",
+          "why": "Orders correct seed amounts."
+        },
+        {
+          "name": "Livestock Feed Calculator",
+          "slug": "livestock-feed-calculator",
+          "desc": "Calculate daily feed requirements.",
+          "why": "Proper animal nutrition."
+        },
+        {
+          "name": "Harvest Date Estimator",
+          "slug": "harvest-date-estimator",
+          "desc": "Estimate harvest dates.",
+          "why": "Plans around harvest windows."
+        },
+        {
+          "name": "Field Area Calculator",
+          "slug": "field-area-calculator",
+          "desc": "Calculate field area in various units.",
+          "why": "Converts land measurements."
+        },
+        {
+          "name": "Rainfall-Irrigation Converter",
+          "slug": "rainfall-irrigation-converter",
+          "desc": "Convert rainfall to irrigation time.",
+          "why": "Adjusts irrigation after rain."
+        },
+        {
+          "name": "Soil pH Guide",
+          "slug": "soil-ph-guide",
+          "desc": "Soil pH Guide",
+          "why": "Useful tool."
+        },
+        {
+          "name": "Weather Crop Advisor",
+          "slug": "weather-crop-advisor",
+          "desc": "Weather Crop Advisor",
+          "why": "Useful tool."
+        }
+      ]
+    },
+    {
+      "name": "Printing & Publishing Tools",
+      "slug": "printing-tools",
+      "tools": [
+        {
+          "name": "Print Bleed Calculator",
+          "slug": "bleed-calculator",
+          "desc": "Calculate bleed and safe area.",
+          "why": "Prevents cut content in printing."
+        },
+        {
+          "name": "Paper Size Converter",
+          "slug": "paper-size-converter",
+          "desc": "Convert between paper sizes.",
+          "why": "Quick paper dimension reference."
+        },
+        {
+          "name": "Print Cost Calculator",
+          "slug": "print-cost-calculator",
+          "desc": "Calculate printing costs.",
+          "why": "Estimates print budgets."
+        },
+        {
+          "name": "DPI Resolution Calculator",
+          "slug": "dpi-calculator",
+          "desc": "Calculate DPI for print quality.",
+          "why": "Ensures print-ready images."
+        },
+        {
+          "name": "Ink Coverage Estimator",
+          "slug": "ink-coverage-estimator",
+          "desc": "Estimate ink usage.",
+          "why": "Predicts ink reorder timing."
+        },
+        {
+          "name": "Book Spine Width Calculator",
+          "slug": "spine-calculator",
+          "desc": "Calculate spine width from pages.",
+          "why": "Accurate book cover design."
+        },
+        {
+          "name": "CMYK/RGB Color Mode Info",
+          "slug": "color-mode-info",
+          "desc": "CMYK vs RGB color differences.",
+          "why": "Explains screen vs print colors."
+        },
+        {
+          "name": "Imposition Layout Calculator",
+          "slug": "imposition-calculator",
+          "desc": "Calculate booklet page imposition.",
+          "why": "Plans professional printing layout."
+        },
+        {
+          "name": "Print File Checklist",
+          "slug": "print-file-checklist",
+          "desc": "Print File Checklist",
+          "why": "Useful tool."
+        },
+        {
+          "name": "Binding Type Guide",
+          "slug": "binding-type-guide",
+          "desc": "Binding Type Guide",
+          "why": "Useful tool."
+        }
+      ]
+    },
+    {
+      "name": "Elderly Care Tools",
+      "slug": "elderly-care-tools",
+      "tools": [
+        {
+          "name": "Medication Schedule Planner",
+          "slug": "medication-planner",
+          "desc": "Create daily medication schedules.",
+          "why": "Prevents missed doses."
+        },
+        {
+          "name": "Caregiver Shift Planner",
+          "slug": "caregiver-planner",
+          "desc": "Plan caregiver shift rotations.",
+          "why": "Ensures continuous care coverage."
+        },
+        {
+          "name": "Fall Risk Checklist",
+          "slug": "fall-risk-checklist",
+          "desc": "Home fall risk assessment.",
+          "why": "Identifies home hazards."
+        },
+        {
+          "name": "Emergency Contact Card",
+          "slug": "emergency-card",
+          "desc": "Generate emergency info cards.",
+          "why": "Critical info in emergencies."
+        },
+        {
+          "name": "Daily Activity Log",
+          "slug": "daily-activity-log",
+          "desc": "Track daily activities and vitals.",
+          "why": "Monitors daily wellbeing."
+        },
+        {
+          "name": "Appointment Manager",
+          "slug": "appointment-tracker",
+          "desc": "Track medical appointments.",
+          "why": "Manages specialist visits."
+        },
+        {
+          "name": "Senior Nutrition Calculator",
+          "slug": "senior-nutrition",
+          "desc": "Calculate senior nutritional needs.",
+          "why": "Adequate elderly nutrition."
+        },
+        {
+          "name": "Mobility Exercise Planner",
+          "slug": "mobility-exercises",
+          "desc": "Gentle exercise routines.",
+          "why": "Supports physical independence."
+        },
+        {
+          "name": "Mobility Self-Assessment",
+          "slug": "mobility-assessment",
+          "desc": "Mobility Self-Assessment",
+          "why": "Useful tool."
+        },
+        {
+          "name": "Memorial Event Planner",
+          "slug": "memorial-planner",
+          "desc": "Memorial Event Planner",
+          "why": "Useful tool."
+        }
+      ]
+    },
+    {
+      "name": "Volunteering & Nonprofit Tools",
+      "slug": "volunteer-tools",
+      "tools": [
+        {
+          "name": "Volunteer Hour Tracker",
+          "slug": "volunteer-hours",
+          "desc": "Track volunteer service hours.",
+          "why": "Documents volunteer service."
+        },
+        {
+          "name": "Donation Tax Calculator",
+          "slug": "donation-tax-calc",
+          "desc": "Calculate tax deductions from donations.",
+          "why": "Maximizes donation tax benefits."
+        },
+        {
+          "name": "Fundraising Goal Tracker",
+          "slug": "fundraising-tracker",
+          "desc": "Track fundraising progress.",
+          "why": "Motivates with visible progress."
+        },
+        {
+          "name": "Grant Deadline Tracker",
+          "slug": "grant-deadline-tracker",
+          "desc": "Track grant application deadlines.",
+          "why": "Prevents missed grant opportunities."
+        },
+        {
+          "name": "Volunteer Scheduler",
+          "slug": "volunteer-scheduler",
+          "desc": "Schedule volunteers for events.",
+          "why": "Ensures volunteer coverage."
+        },
+        {
+          "name": "Impact Metrics Calculator",
+          "slug": "impact-calculator",
+          "desc": "Calculate program impact metrics.",
+          "why": "Quantifies program outcomes."
+        },
+        {
+          "name": "Thank You Letter Generator",
+          "slug": "thank-you-generator",
+          "desc": "Generate donor thank you letters.",
+          "why": "Maintains donor relationships."
+        },
+        {
+          "name": "Donation Receipt Generator",
+          "slug": "donation-receipt-gen",
+          "desc": "Donation Receipt Generator",
+          "why": "Useful tool."
+        },
+        {
+          "name": "NGO Budget Planner",
+          "slug": "ngo-budget-planner",
+          "desc": "NGO Budget Planner",
+          "why": "Useful tool."
+        }
+      ]
+    }
+  ]
+}
